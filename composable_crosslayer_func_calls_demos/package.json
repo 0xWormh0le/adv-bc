@@ -1,0 +1,78 @@
+{
+  "name": "@composable-finance/crosslayer-sdk-demo",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "version": "2.0.0",
+  "description": "The next level Typescript cross-chain toolset",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "repository": "https://github.com/ComposableFi/crosslayer-sdk-demo.git",
+  "keywords": [
+    "composable finance",
+    "bridge",
+    "crosslayer",
+    "mosaic",
+    "demo"
+  ],
+  "scripts": {
+    "compile": "hardhat compile",
+    "build": "hardhat compile && tsc",
+    "task:deploy_crosslayerFunctionCallsMock": "yarn hardhat deploy_crosslayerFunctionCallsMock --network",
+    "task:deploy_dummy_setter": "yarn hardhat deploy_dummy_setter --network",
+    "task:deploy_msgReceiver": "yarn hardhat deploy_msgReceiver --network",
+    "task:configure_msgReceiver": "yarn hardhat configure_msgReceiver --network",
+    "task:simulate_crosslayer_call_from_deployer": "yarn hardhat simulate_crosslayer_call_from_relayer --network",
+    "task:send_function_call": "yarn hardhat send_function_call --network"
+  },
+  "dependencies": {
+    "@ethersproject/address": "^5.4.0",
+    "big.js": "^6.1.1",
+    "decimal.js-light": "^2.5.1",
+    "jsbi": "^3.2.5",
+    "tiny-invariant": "^1.1.0",
+    "toformat": "^2.0.0"
+  },
+  "devDependencies": {
+    "@composable-finance/v2-sdk-contracts": "^1.0.1",
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^2.1.6",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^4.3.2",
+    "@tsconfig/recommended": "^1.0.1",
+    "@typechain/ethers-v5": "7.2.0",
+    "@typechain/hardhat": "^2.2.0",
+    "@types/chai": "^4.2.22",
+    "@types/chai-as-promised": "^7.1.4",
+    "@types/mocha": "^8.2.3",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "cross-env": "^7.0.3",
+    "delay": "^5.0.0",
+    "dotenv": "^10.0.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.1",
+    "hardhat": "^2.6.6",
+    "hardhat-abi-exporter": "^2.3.0",
+    "hardhat-deploy": "^0.9.4",
+    "solidity-coverage": "^0.7.17",
+    "ts-node": "^10.3.0",
+    "typechain": "^5.2.0",
+    "typescript": "^4.4.4",
+    "yarn-or-npm": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "prettier": {
+    "printWidth": 120,
+    "semi": false,
+    "singleQuote": true
+  }
+}

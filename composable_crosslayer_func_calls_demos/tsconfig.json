@@ -1,0 +1,31 @@
+{
+  "extends": "@tsconfig/recommended/tsconfig.json",
+  "compilerOptions": {
+    "declaration": true,
+    "target": "es2018",
+    "module": "commonjs",
+    "allowJs": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "sourceMap": true
+  },
+  "include": [
+    "src/**/*",
+    "./scripts",
+    "./test"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "test"
+  ],
+  "files": [
+    "./hardhat.config.ts",
+    // "node_modules/@nomiclabs/buidler-ethers/src/type-extensions.d.ts",
+    // "node_modules/buidler-typechain/src/type-extensions.d.ts",
+    // "node_modules/@nomiclabs/buidler-waffle/src/type-extensions.d.ts",
+    // "node_modules/@nomiclabs/buidler-etherscan/src/type-extensions.d.ts"
+  ]
+}

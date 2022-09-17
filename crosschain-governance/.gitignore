@@ -1,0 +1,10 @@
+node_modules
+typechain
+.env
+.npmrc
+.prettierrc
+.vscode
+artifacts
+cache
+typechain
+gasReport.md
