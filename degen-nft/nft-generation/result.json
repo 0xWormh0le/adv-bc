@@ -1,0 +1,2311 @@
+[
+  {
+    "name": "BOT_1",
+    "data": {
+      "Eyes": [
+        "Degen_Gang_BOT_1_0004_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_BOT_1_0004_HeartGlasses.png",
+        "Degen_Gang_BOT_1_0005_3Dglasses.png",
+        "Degen_Gang_BOT_1_0007_Eyepatch.png",
+        "Degen_Gang_BOT_1_Anim_EYES",
+        "Degen_Gang_BOT_1_EYES_1-.png",
+        "Degen_Gang_BOT_1_0012_ThirdEye.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_BOT_1_0013_Tattoo.png"
+      ],
+      "Hat": [
+        "Degen_Gang_BOT_1_0000_CowboyHat.png",
+        "Degen_Gang_BOT_1_0001_PartyHat.png",
+        "Degen_Gang_BOT_1_0002_Visor.png",
+        "Degen_Gang_BOT_1_0000_Anim_HAT_PropellerHAT"
+      ],
+      "Lower Face": [
+        "Degen_Gang_BOT_1_0006_Bandage.png",
+        "Degen_Gang_BOT_1_0003_Bubblegum-.png",
+        "Degen_Gang_BOT_1_0008_Tear.png",
+        "Degen_Gang_BOT_1_0009_MedMask.png",
+        "Degen_Gang_BOT_1_0010_Piercings.png",
+        "Degen_Gang_BOT_1_0011_UnicornSticker.png",
+        "Degen_Gang_BOT_1_0015_StarSticker.png",
+        "Degen_Gang_BOT_1_0016_Bandaid.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_BOT_1_HAND_1.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_BOT_1_OUTFIT_1_Standard.png",
+        "Degen_Gang_BOT_1_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_BOT_1_OUTFIT_3_FANCY.png",
+        "Degen_Gang_BOT_1_OUTFIT_4_BATTLE.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_BOT_1_HAND_2.png"
+      ]
+    }
+  },
+  {
+    "name": "BOT_2",
+    "data": {
+      "Eyes": [
+        "Degen_Gang_BOT_2_0001_3Dglasses.png",
+        "Degen_Gang_BOT_2_0002_HeartGlasses.png",
+        "Degen_Gang_BOT_2_Anim_EYES",
+        "Degen_Gang_BOT_2_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_BOT_2_EYES_1-.png"
+      ],
+      "Hat": [
+        "Degen_Gang_BOT_2_0000_CowboyHat.png",
+        "Degen_Gang_BOT_2_0004_Visor.png",
+        "Degen_Gang_BOT_2_0009_PartyHat.png",
+        "Degen_Gang_BOT_2_Anim_HAT_PropellerHAT"
+      ],
+      "Lower Face": [
+        "Degen_Gang_BOT_2_0003_Bandage.png",
+        "Degen_Gang_BOT_2_0005_MedMask.png",
+        "Degen_Gang_BOT_2_0006_UnicornSticker.png",
+        "Degen_Gang_BOT_2_0008_StarSticker.png",
+        "Degen_Gang_BOT_2_0010_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_BOT_2_0007_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_BOT_2_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_BOT_2_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_BOT_2_OUTFIT_1_Standard.png",
+        "Degen_Gang_BOT_2_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_BOT_2_OUTFIT_3_FANCY.png",
+        "Degen_Gang_BOT_2_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "BOT_3",
+    "data": {
+      "Eyes": [
+        "Degen_Gang_BOT_3_0000_3Dglasses.png",
+        "Degen_Gang_BOT_3_0001_HeartGlasses.png",
+        "Degen_Gang_BOT_3_Anim_EYES",
+        "Degen_Gang_BOT_3_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_BOT_3_EYES_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_BOT_3_0002_Bubblegum-.png",
+        "Degen_Gang_BOT_3_0003_Tear.png",
+        "Degen_Gang_BOT_3_0004_UnicornSticker.png",
+        "Degen_Gang_BOT_3_0005_StarSticker.png",
+        "Degen_Gang_BOT_3_0007_Bandaid.png"
+      ],
+      "Hat": [
+        "Degen_Gang_BOT_3_0006_CowboyHat.png",
+        "Degen_Gang_BOT_3_Anim_HAT_PropellerHAT"
+      ],
+      "Hand_1": [
+        "Degen_Gang_BOT_3_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_BOT_3_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_BOT_3_OUTFIT_1_Standard.png",
+        "Degen_Gang_BOT_3_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_BOT_3_OUTFIT_3_FANCY.png",
+        "Degen_Gang_BOT_3_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "BOT_4",
+    "data": {
+      "Eyes": [
+        "Degen_Gang_BOT_4_0000_3Dglasses.png",
+        "Degen_Gang_BOT_4_0004_HeartGlasses.png",
+        "Degen_Gang_BOT_4_0005_Eyepatch.png",
+        "Degen_Gang_BOT_4_Anim_EYES",
+        "Degen_Gang_BOT_4_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_BOT_4_EYES_1-.png"
+      ],
+      "Hat": [
+        "Degen_Gang_BOT_4_0001_Visor.png",
+        "Degen_Gang_BOT_4_0002_PartyHat.png",
+        "Degen_Gang_BOT_4_0006_CowboyHat.png",
+        "Degen_Gang_BOT_4_Anim_HAT_PropellerHAT"
+      ],
+      "Lower Face": [
+        "Degen_Gang_BOT_4_0003_MedMask.png",
+        "Degen_Gang_BOT_4_0007_Bubblegum-.png",
+        "Degen_Gang_BOT_4_0008_Bandaid.png",
+        "Degen_Gang_BOT_4_0009_Bandage.png",
+        "Degen_Gang_BOT_4_0010_UnicornSticker.png",
+        "Degen_Gang_BOT_4_0011_StarSticker.png",
+        "Degen_Gang_BOT_4_0012_Tear.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_BOT_4_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_BOT_4_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_BOT_4_OUTFIT_1_Standard.png",
+        "Degen_Gang_BOT_4_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_BOT_4_OUTFIT_3_FANCY.png",
+        "Degen_Gang_BOT_4_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "BOT_5",
+    "data": {
+      "Hat": [
+        "Degen_Gang_BOT_5_0000_CowboyHat.png",
+        "Degen_Gang_BOT_5_0002_Visor.png",
+        "Degen_Gang_BOT_5_0006_PartyHat.png",
+        "Degen_Gang_BOT_5_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_BOT_5_0001_HeartGlasses.png",
+        "Degen_Gang_BOT_5_0007_3Dglasses.png",
+        "Degen_Gang_BOT_5_0009_Eyepatch.png",
+        "Degen_Gang_BOT_5_Anim_EYES",
+        "Degen_Gang_BOT_5_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_BOT_5_EYES_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_BOT_5_0003_UnicornSticker.png",
+        "Degen_Gang_BOT_5_0004_StarSticker.png",
+        "Degen_Gang_BOT_5_0005_Tear.png",
+        "Degen_Gang_BOT_5_0008_MedMask.png",
+        "Degen_Gang_BOT_5_0010_Bubblegum-.png",
+        "Degen_Gang_BOT_5_0011_Bandaid.png",
+        "Degen_Gang_BOT_5_0012_Bandage.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_BOT_5_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_BOT_5_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_BOT_5_OUTFIT_1_Standard.png",
+        "Degen_Gang_BOT_5_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_BOT_5_OUTFIT_3_FANCY.png",
+        "Degen_Gang_BOT_5_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "BST_1",
+    "data": {
+      "Eyes": [
+        "Degen_Gang_BST_1_0000_3Dglasses.png",
+        "Degen_Gang_BST_1_0003_HeartGlasses.png",
+        "Degen_Gang_BST_1_0004_Eyepatch.png",
+        "Degen_Gang_BST_1_0005_ThirdEye.png",
+        "Degen_Gang_BST_1_Anim_Eyes_SpiralGlasses"
+      ],
+      "Hat": [
+        "Degen_Gang_BST_1_0001_Visor.png",
+        "Degen_Gang_BST_1_0011_PartyHat.png",
+        "Degen_Gang_BST_1_0013_CowboyHat.png",
+        "Degen_Gang_BST_1_Anim_HAT_PropellerHAT",
+        "Degen_Gang_BST_1_HAT_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_BST_1_0002_UnicornSticker.png",
+        "Degen_Gang_BST_1_0006_Tear.png",
+        "Degen_Gang_BST_1_0008_Stitches.png",
+        "Degen_Gang_BST_1_0009_StarSticker.png",
+        "Degen_Gang_BST_1_0010_Piercings.png",
+        "Degen_Gang_BST_1_0012_MedMask.png",
+        "Degen_Gang_BST_1_0014_Bubblegum-.png",
+        "Degen_Gang_BST_1_0015_Bandaid.png",
+        "Degen_Gang_BST_1_0016_Bandage.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_BST_1_0007_Tattoo.png"
+      ],
+      "Whole Head": [
+        "Degen_Gang_BST_1_Anim_HAT"
+      ],
+      "Hand_1": [
+        "Degen_Gang_BST_1_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_BST_1_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_BST_1_OUTFIT_1_Standard.png",
+        "Degen_Gang_BST_1_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_BST_1_OUTFIT_3_FANCY.png",
+        "Degen_Gang_BST_1_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "BST_2",
+    "data": {
+      "Lower Face": [
+        "Degen_Gang_BST_2_0001_UnicornSticker.png",
+        "Degen_Gang_BST_2_0005_Bandage.png",
+        "Degen_Gang_BST_2_0007_Tear.png",
+        "Degen_Gang_BST_2_0009_Stitches.png",
+        "Degen_Gang_BST_2_0010_StarSticker.png",
+        "Degen_Gang_BST_2_0011_Bubblegum-.png",
+        "Degen_Gang_BST_2_0012_Piercings.png",
+        "Degen_Gang_BST_2_0014_Bandaid.png",
+        "Degen_Gang_BST_2_0015_MedMask.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_BST_2_0002_3Dglasses.png",
+        "Degen_Gang_BST_2_0003_HeartGlasses.png",
+        "Degen_Gang_BST_2_0004_Eyepatch.png",
+        "Degen_Gang_BST_2_0006_ThirdEye.png",
+        "Degen_Gang_BST_2_Anim_Eyes_SpiralGlasses"
+      ],
+      "tattoo": [
+        "Degen_Gang_BST_2_0008_Tattoo.png"
+      ],
+      "Hat": [
+        "Degen_Gang_BST_2_0013_PartyHat.png",
+        "Degen_Gang_BST_2_Anim_HAT_PropellerHAT",
+        "Degen_Gang_BST_2_HAT_1-.png"
+      ],
+      "Whole Head": [
+        "Degen_Gang_BST_2_Anim_HAT"
+      ],
+      "Hand_1": [
+        "Degen_Gang_BST_2_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_BST_2_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_BST_2_OUTFIT_1_Standard.png",
+        "Degen_Gang_BST_2_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_BST_2_OUTFIT_3_FANCY.png",
+        "Degen_Gang_BST_2_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "BST_3",
+    "data": {
+      "Outfit": [
+        "Degen_Gang_BST_3_OUTFIT_3_FANCY.png",
+        "Degen_Gang_BST_3_OUTFIT_3_BATTLE.png",
+        "Degen_Gang_BST_3_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_BST_3_OUTFIT_1_Standard.png"
+      ],
+      "Hat": [
+        "Degen_Gang_BST_3_HAT_1-.png",
+        "Degen_Gang_BST_3_Anim_HAT_PropellerHAT",
+        "Degen_Gang_BST_3_0002_Visor.png",
+        "Degen_Gang_BST_3_0001_CowboyHat.png",
+        "Degen_Gang_BST_3_0000_PartyHat.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_BST_3_HAND_2.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_BST_3_HAND_1.png"
+      ],
+      "Whole Head": [
+        "Degen_Gang_BST_3_Anim_HAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_BST_3_0016_3Dglasses.png",
+        "Degen_Gang_BST_3_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_BST_3_0013_Eyepatch.png",
+        "Degen_Gang_BST_3_0009_ThirdEye.png",
+        "Degen_Gang_BST_3_0003_HeartGlasses.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_BST_3_0015_Bandage.png",
+        "Degen_Gang_BST_3_0014_Bandaid.png",
+        "Degen_Gang_BST_3_0012_Piercings.png",
+        "Degen_Gang_BST_3_0011_Stitches.png",
+        "Degen_Gang_BST_3_0008_Bubblegum-.png",
+        "Degen_Gang_BST_3_0007_MedMask.png",
+        "Degen_Gang_BST_3_0006_Tear.png",
+        "Degen_Gang_BST_3_0005_UnicornSticker.png",
+        "Degen_Gang_BST_3_0004_StarSticker.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_BST_3_0010_Tattoo.png"
+      ]
+    }
+  },
+  {
+    "name": "BST_4",
+    "data": {
+      "Hat": [
+        "Degen_Gang_BST_4_0000_CowboyHat.png",
+        "Degen_Gang_BST_4_0001_PartyHat.png",
+        "Degen_Gang_BST_4_0002_Visor.png",
+        "Degen_Gang_BST_4_Anim_HAT_PropellerHAT",
+        "Degen_Gang_BST_4_HAT_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_BST_4_0003_UnicornSticker.png",
+        "Degen_Gang_BST_4_0007_Tear.png",
+        "Degen_Gang_BST_4_0008_MedMask.png",
+        "Degen_Gang_BST_4_0009_Stitches.png",
+        "Degen_Gang_BST_4_0010_StarSticker.png",
+        "Degen_Gang_BST_4_0011_Bubblegum-.png",
+        "Degen_Gang_BST_4_0012_Piercings.png",
+        "Degen_Gang_BST_4_0013_Bandaid.png",
+        "Degen_Gang_BST_4_0015_Bandage.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_BST_4_0004_Eyepatch.png",
+        "Degen_Gang_BST_4_0005_ThirdEye.png",
+        "Degen_Gang_BST_4_0006_HeartGlasses.png",
+        "Degen_Gang_BST_4_0014_3Dglasses.png",
+        "Degen_Gang_BST_4_Anim_Eyes_SpiralGlasses"
+      ],
+      "Whole Head": [
+        "Degen_Gang_BST_4_Anim_HAT"
+      ],
+      "Hand_1": [
+        "Degen_Gang_BST_4_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_BST_4_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_BST_4_OUTFIT_1_Standard.png",
+        "Degen_Gang_BST_4_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_BST_4_OUTFIT_3_FANCY.png",
+        "Degen_Gang_BST_4_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "BST_5",
+    "data": {
+      "Hat": [
+        "Degen_Gang_BST_5_0000_CowboyHat.png",
+        "Degen_Gang_BST_5_0001_Visor.png",
+        "Degen_Gang_BST_5_0002_PartyHat.png",
+        "Degen_Gang_BST_5_Anim_HAT_PropellerHAT",
+        "Degen_Gang_BST_5_HAT_1-.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_BST_5_0002_HAND_1.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_BST_5_0003_HeartGlasses.png",
+        "Degen_Gang_BST_5_0006_3Dglasses.png",
+        "Degen_Gang_BST_5_0008_ThirdEye.png",
+        "Degen_Gang_BST_5_0012_Eyepatch.png",
+        "Degen_Gang_BST_5_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_BST_5_0004_UnicornSticker.png",
+        "Degen_Gang_BST_5_0005_Tear.png",
+        "Degen_Gang_BST_5_0007_Bandage.png",
+        "Degen_Gang_BST_5_0010_Stitches.png",
+        "Degen_Gang_BST_5_0011_StarSticker.png",
+        "Degen_Gang_BST_5_0013_MedMask.png",
+        "Degen_Gang_BST_5_0014_Bubblegum-.png",
+        "Degen_Gang_BST_5_0015_Piercings.png",
+        "Degen_Gang_BST_5_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_BST_5_0009_Tattoo.png"
+      ],
+      "Whole Head": [
+        "Degen_Gang_BST_5_Anim_HAT"
+      ],
+      "Hand_2": [
+        "Degen_Gang_BST_5_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_BST_5_OUTFIT_1_Standard.png",
+        "Degen_Gang_BST_5_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_BST_5_OUTFIT_3_FANCY.png",
+        "Degen_Gang_BST_5_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "CLN_1",
+    "data": {
+      "Hat": [
+        "Degen_Gang_CLN_1_0000_CowboyHat.png",
+        "Degen_Gang_CLN_1_0002_Visor.png",
+        "Degen_Gang_CLN_1_0007_PartyHat.png",
+        "Degen_Gang_CLN_1_0014_PartyHat.png",
+        "Degen_Gang_CLN_1_Anim_HAT_PropellerHAT"
+      ],
+      "Lower Face": [
+        "Degen_Gang_CLN_1_0001_UnicornSticker.png",
+        "Degen_Gang_CLN_1_0003_Bandage.png",
+        "Degen_Gang_CLN_1_0005_Stitches.png",
+        "Degen_Gang_CLN_1_0005_Tear.png",
+        "Degen_Gang_CLN_1_0006_StarSticker.png",
+        "Degen_Gang_CLN_1_0008_Tear.png",
+        "Degen_Gang_CLN_1_0011_MedMask.png",
+        "Degen_Gang_CLN_1_0012_Bubblegum-.png",
+        "Degen_Gang_CLN_1_0012_Stitches.png",
+        "Degen_Gang_CLN_1_0013_Piercings.png",
+        "Degen_Gang_CLN_1_0014_Bubblegum-.png",
+        "Degen_Gang_CLN_1_0015_Bandaid.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_CLN_1_0004_ThirdEye.png",
+        "Degen_Gang_CLN_1_0007_HeartGlasses.png",
+        "Degen_Gang_CLN_1_0008_HeartGlasses.png",
+        "Degen_Gang_CLN_1_0009_3Dglasses.png",
+        "Degen_Gang_CLN_1_0010_Eyepatch.png",
+        "Degen_Gang_CLN_1_Anim_Eyes_SpiralGlasses"
+      ],
+      "Hand_2": [
+        "Degen_Gang_CLN_1_Anim_HAND_2",
+        "Degen_Gang_CLN_1_HAND_2.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_CLN_1_HAND_1.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_CLN_1_OUTFIT_1_Standard.png",
+        "Degen_Gang_CLN_1_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_CLN_1_OUTFIT_3_FANCY.png",
+        "Degen_Gang_CLN_1_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "CLN_2",
+    "data": {
+      "Hat": [
+        "Degen_Gang_CLN_2_0000_CowboyHat.png",
+        "Degen_Gang_CLN_2_0002_Visor.png",
+        "Degen_Gang_CLN_2_0007_PartyHat.png",
+        "Degen_Gang_CLN_2_Anim_HAT_PropellerHAT"
+      ],
+      "Lower Face": [
+        "Degen_Gang_CLN_2_0001_UnicornSticker.png",
+        "Degen_Gang_CLN_2_0003_Bandage.png",
+        "Degen_Gang_CLN_2_0005_Tear.png",
+        "Degen_Gang_CLN_2_0006_StarSticker.png",
+        "Degen_Gang_CLN_2_0011_MedMask.png",
+        "Degen_Gang_CLN_2_0012_Stitches.png",
+        "Degen_Gang_CLN_2_0013_Piercings.png",
+        "Degen_Gang_CLN_2_0014_Bubblegum-.png",
+        "Degen_Gang_CLN_2_0015_Bandaid.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_CLN_2_0004_ThirdEye.png",
+        "Degen_Gang_CLN_2_0008_HeartGlasses.png",
+        "Degen_Gang_CLN_2_0009_3Dglasses.png",
+        "Degen_Gang_CLN_2_0010_Eyepatch.png",
+        "Degen_Gang_CLN_2_Anim_Eyes_SpiralGlasses"
+      ],
+      "Hand_2": [
+        "Degen_Gang_CLN_2_Anim_HAND_2",
+        "Degen_Gang_CLN_2_HAND_2.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_CLN_2_HAND_1.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_CLN_2_OUTFIT_1_Standard..png",
+        "Degen_Gang_CLN_2_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_CLN_2_OUTFIT_3_FANCY.png",
+        "Degen_Gang_CLN_2_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "CLN_3",
+    "data": {
+      "Hat": [
+        "Degen_Gang_CLN_3_0000_CowboyHat.png",
+        "Degen_Gang_CLN_3_0001_Visor.png",
+        "Degen_Gang_CLN_3_0002_PartyHat.png",
+        "Degen_Gang_CLN_3_Anim_HAT_PropellerHAT"
+      ],
+      "Lower Face": [
+        "Degen_Gang_CLN_3_0003_Bandage.png",
+        "Degen_Gang_CLN_3_0004_UnicornSticker.png",
+        "Degen_Gang_CLN_3_0007_Tear.png",
+        "Degen_Gang_CLN_3_0010_StarSticker.png",
+        "Degen_Gang_CLN_3_0012_MedMask.png",
+        "Degen_Gang_CLN_3_0013_Stitches.png",
+        "Degen_Gang_CLN_3_0014_Bubblegum-.png",
+        "Degen_Gang_CLN_3_0015_Piercings.png",
+        "Degen_Gang_CLN_3_0016_Bandaid.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_CLN_3_0005_HeartGlasses.png",
+        "Degen_Gang_CLN_3_0006_3Dglasses.png",
+        "Degen_Gang_CLN_3_0008_ThirdEye.png",
+        "Degen_Gang_CLN_3_0011_Eyepatch.png",
+        "Degen_Gang_CLN_3_Anim_Eyes_SpiralGlasses"
+      ],
+      "tattoo": [
+        "Degen_Gang_CLN_3_0009_Tattoo.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_CLN_3_Anim_HAND_2",
+        "Degen_Gang_CLN_3_HAND_2.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_CLN_3_HAND_1.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_CLN_3_OUTFIT_1_Standard.png",
+        "Degen_Gang_CLN_3_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_CLN_3_OUTFIT_3_FANCY.png",
+        "Degen_Gang_CLN_3_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "CLN_4",
+    "data": {
+      "Outfit": [
+        "Degen_Gang_CLN_4_OUTFIT_4_BATTLE.png",
+        "Degen_Gang_CLN_4_OUTFIT_3_FANCY.png",
+        "Degen_Gang_CLN_4_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_CLN_4_OUTFIT_1_Standard.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_CLN_4_HAND_2.png",
+        "Degen_Gang_CLN_4_Anim_HAND_2"
+      ],
+      "Hand_1": [
+        "Degen_Gang_CLN_4_HAND_1.png"
+      ],
+      "Hat": [
+        "Degen_Gang_CLN_4_Anim_HAT_PropellerHAT",
+        "Degen_Gang_CLN_4_0010_PartyHat.png",
+        "Degen_Gang_CLN_4_0003_Visor.png",
+        "Degen_Gang_CLN_4_0000_CowboyHat.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_CLN_4_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_CLN_4_0013_Eyepatch.png",
+        "Degen_Gang_CLN_4_0007_HeartGlasses.png",
+        "Degen_Gang_CLN_4_0006_ThirdEye.png",
+        "Degen_Gang_CLN_4_0004_3Dglasses.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_CLN_4_0014_Bandaid.png",
+        "Degen_Gang_CLN_4_0012_Stitches.png",
+        "Degen_Gang_CLN_4_0011_MedMask.png",
+        "Degen_Gang_CLN_4_0008_Tear.png",
+        "Degen_Gang_CLN_4_0009_Bubblegum-.png",
+        "Degen_Gang_CLN_4_0005_Bandage.png",
+        "Degen_Gang_CLN_4_0002_StarSticker.png",
+        "Degen_Gang_CLN_4_0001_UnicornSticker.png"
+      ]
+    }
+  },
+  {
+    "name": "CLN_5",
+    "data": {
+      "Hat": [
+        "Degen_Gang_CLN_5_0000_PartyHat.png",
+        "Degen_Gang_CLN_5_0001_CowboyHat.png",
+        "Degen_Gang_CLN_5_0004_Visor.png",
+        "Degen_Gang_CLN_5_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_CLN_5_0002_HeartGlasses.png",
+        "Degen_Gang_CLN_5_0005_ThirdEye.png",
+        "Degen_Gang_CLN_5_0009_Eyepatch.png",
+        "Degen_Gang_CLN_5_0016_3Dglasses.png",
+        "Degen_Gang_CLN_5_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_CLN_5_0003_Bandage.png",
+        "Degen_Gang_CLN_5_0006_StarSticker.png",
+        "Degen_Gang_CLN_5_0007_UnicornSticker.png",
+        "Degen_Gang_CLN_5_0008_Tear.png",
+        "Degen_Gang_CLN_5_0010_MedMask.png",
+        "Degen_Gang_CLN_5_0012_Stitches.png",
+        "Degen_Gang_CLN_5_0013_Piercings.png",
+        "Degen_Gang_CLN_5_0014_Bubblegum-.png",
+        "Degen_Gang_CLN_5_0015_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_CLN_5_0011_Tattoo.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_CLN_5_Anim_HAND_2",
+        "Degen_Gang_CLN_5_HAND_2.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_CLN_5_HAND_1.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_CLN_5_OUTFIT_1_Standard.png",
+        "Degen_Gang_CLN_5_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_CLN_5_OUTFIT_3_FANCY.png",
+        "Degen_Gang_CLN_5_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "CLT_1",
+    "data": {
+      "Hat": [
+        "Degen_Gang_CLT_1_0000_PartyHat.png",
+        "Degen_Gang_CLT_1_0001_CowboyHat.png",
+        "Degen_Gang_CLT_1_0003_Visor.png",
+        "Degen_Gang_CLT_1_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_CLT_1_0002_HeartGlasses.png",
+        "Degen_Gang_CLT_1_0004_3Dglasses.png",
+        "Degen_Gang_CLT_1_0006_Eyepatch.png",
+        "Degen_Gang_CLT_1_0007_ThirdEye.png",
+        "Degen_Gang_CLT_1_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_CLT_1_EYES_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_CLT_1_0005_Bandage.png",
+        "Degen_Gang_CLT_1_0008_StarSticker.png",
+        "Degen_Gang_CLT_1_0009_UnicornSticker.png",
+        "Degen_Gang_CLT_1_0010_Tear.png",
+        "Degen_Gang_CLT_1_0011_MedMask.png",
+        "Degen_Gang_CLT_1_0012_Stitches.png",
+        "Degen_Gang_CLT_1_0013_Bubblegum-.png",
+        "Degen_Gang_CLT_1_0014_Piercings.png",
+        "Degen_Gang_CLT_1_0015_Bandaid.png"
+      ],
+      "BG Effect": [
+        "Degen_Gang_CLT_1_Anim_HALO"
+      ],
+      "Hand_1": [
+        "Degen_Gang_CLT_1_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_CLT_1_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_CLT_1_OUTFIT_1_Standard.png",
+        "Degen_Gang_CLT_1_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_CLT_1_OUTFIT_3_FANCY.png",
+        "Degen_Gang_CLT_1_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "CLT_2",
+    "data": {
+      "Hat": [
+        "Degen_Gang_CLT_2_0000_PartyHat.png",
+        "Degen_Gang_CLT_2_0001_CowboyHat.png",
+        "Degen_Gang_CLT_2_0003_Visor.png",
+        "Degen_Gang_CLT_2_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_CLT_2_0002_HeartGlasses.png",
+        "Degen_Gang_CLT_2_0005_3Dglasses.png",
+        "Degen_Gang_CLT_2_0006_Eyepatch.png",
+        "Degen_Gang_CLT_2_0008_ThirdEye.png",
+        "Degen_Gang_CLT_2_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_CLT_2_EYES_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_CLT_2_0004_Bandage.png",
+        "Degen_Gang_CLT_2_0009_StarSticker.png",
+        "Degen_Gang_CLT_2_0010_UnicornSticker.png",
+        "Degen_Gang_CLT_2_0011_Tear.png",
+        "Degen_Gang_CLT_2_0012_MedMask.png",
+        "Degen_Gang_CLT_2_0013_Stitches.png",
+        "Degen_Gang_CLT_2_0014_Bubblegum-.png",
+        "Degen_Gang_CLT_2_0015_Piercings.png",
+        "Degen_Gang_CLT_2_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_CLT_2_0007_Tattoo.png"
+      ],
+      "BG Effect": [
+        "Degen_Gang_CLT_2_Anim_HALO"
+      ],
+      "Hand_1": [
+        "Degen_Gang_CLT_2_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_CLT_2_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_CLT_2_OUTFIT_1_Standard.png",
+        "Degen_Gang_CLT_2_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_CLT_2_OUTFIT_3_FANCY.png",
+        "Degen_Gang_CLT_2_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "CLT_3",
+    "data": {
+      "Hat": [
+        "Degen_Gang_CLT_3_0000_PartyHat.png",
+        "Degen_Gang_CLT_3_0001_CowboyHat.png",
+        "Degen_Gang_CLT_3_0004_Visor.png",
+        "Degen_Gang_CLT_3_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_CLT_3_0002_HeartGlasses.png",
+        "Degen_Gang_CLT_3_0003_3Dglasses.png",
+        "Degen_Gang_CLT_3_0006_Eyepatch.png",
+        "Degen_Gang_CLT_3_0007_ThirdEye.png",
+        "Degen_Gang_CLT_3_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_CLT_3_EYES_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_CLT_3_0005_Bandage.png",
+        "Degen_Gang_CLT_3_0008_StarSticker.png",
+        "Degen_Gang_CLT_3_0009_UnicornSticker.png",
+        "Degen_Gang_CLT_3_0010_Tear.png",
+        "Degen_Gang_CLT_3_0011_MedMask.png",
+        "Degen_Gang_CLT_3_0013_Stitches.png",
+        "Degen_Gang_CLT_3_0014_Bubblegum-.png",
+        "Degen_Gang_CLT_3_0015_Piercings.png",
+        "Degen_Gang_CLT_3_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_CLT_3_0012_Tattoo.png"
+      ],
+      "BG Effect": [
+        "Degen_Gang_CLT_3_Anim_HALO"
+      ],
+      "Hand_1": [
+        "Degen_Gang_CLT_3_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_CLT_3_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_CLT_3_OUTFIT_1_Standard.png",
+        "Degen_Gang_CLT_3_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_CLT_3_OUTFIT_3_FANCY.png",
+        "Degen_Gang_CLT_3_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "CLT_4",
+    "data": {
+      "Hat": [
+        "Degen_Gang_CLT_4_0000_PartyHat.png",
+        "Degen_Gang_CLT_4_0001_CowboyHat.png",
+        "Degen_Gang_CLT_4_0002_Visor.png",
+        "Degen_Gang_CLT_4_Anim_HAT_PropellerHAT"
+      ],
+      "Lower Face": [
+        "Degen_Gang_CLT_4_0003_Bandage.png",
+        "Degen_Gang_CLT_4_0008_StarSticker.png",
+        "Degen_Gang_CLT_4_0009_UnicornSticker.png",
+        "Degen_Gang_CLT_4_0010_Tear.png",
+        "Degen_Gang_CLT_4_0011_MedMask.png",
+        "Degen_Gang_CLT_4_0013_Stitches.png",
+        "Degen_Gang_CLT_4_0014_Bubblegum-.png",
+        "Degen_Gang_CLT_4_0015_Piercings.png",
+        "Degen_Gang_CLT_4_0016_Bandaid.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_CLT_4_0004_HeartGlasses.png",
+        "Degen_Gang_CLT_4_0005_3Dglasses.png",
+        "Degen_Gang_CLT_4_0006_Eyepatch.png",
+        "Degen_Gang_CLT_4_0007_ThirdEye.png",
+        "Degen_Gang_CLT_4_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_CLT_4_EYES_1-.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_CLT_4_0012_Tattoo.png"
+      ],
+      "BG Effect": [
+        "Degen_Gang_CLT_4_Anim_HALO"
+      ],
+      "Hand_1": [
+        "Degen_Gang_CLT_4_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_CLT_4_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_CLT_4_OUTFIT_1_Standard.png",
+        "Degen_Gang_CLT_4_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_CLT_4_OUTFIT_3_FANCY.png",
+        "Degen_Gang_CLT_4_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "CLT_5",
+    "data": {
+      "Hat": [
+        "Degen_Gang_CLT_5_0000_PartyHat.png",
+        "Degen_Gang_CLT_5_0001_CowboyHat.png",
+        "Degen_Gang_CLT_5_0002_Visor.png",
+        "Degen_Gang_CLT_5_Anim_HAT_PropellerHAT"
+      ],
+      "Lower Face": [
+        "Degen_Gang_CLT_5_0003_Bandage.png",
+        "Degen_Gang_CLT_5_0008_StarSticker.png",
+        "Degen_Gang_CLT_5_0009_UnicornSticker.png",
+        "Degen_Gang_CLT_5_0010_Tear.png",
+        "Degen_Gang_CLT_5_0011_MedMask.png",
+        "Degen_Gang_CLT_5_0013_Stitches.png",
+        "Degen_Gang_CLT_5_0014_Bubblegum-.png",
+        "Degen_Gang_CLT_5_0015_Piercings.png",
+        "Degen_Gang_CLT_5_0016_Bandaid.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_CLT_5_0004_HeartGlasses.png",
+        "Degen_Gang_CLT_5_0005_3Dglasses.png",
+        "Degen_Gang_CLT_5_0006_Eyepatch.png",
+        "Degen_Gang_CLT_5_0007_ThirdEye.png",
+        "Degen_Gang_CLT_5_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_CLT_5_EYES_1-.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_CLT_5_0012_Tattoo.png"
+      ],
+      "BG Effect": [
+        "Degen_Gang_CLT_5_Anim_HALO"
+      ],
+      "Hand_1": [
+        "Degen_Gang_CLT_5_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_CLT_5_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_CLT_5_OUTFIT_1_Standard.png",
+        "Degen_Gang_CLT_5_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_CLT_5_OUTFIT_3_FANCY.png",
+        "Degen_Gang_CLT_5_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "COV_1",
+    "data": {
+      "Hat": [
+        "Degen_Gang_COV_1_0000_PartyHat.png",
+        "Degen_Gang_COV_1_0001_CowboyHat.png",
+        "Degen_Gang_COV_1_0003_Visor.png",
+        "Degen_Gang_COV_1_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_COV_1_0002_HeartGlasses.png",
+        "Degen_Gang_COV_1_0005_3Dglasses.png",
+        "Degen_Gang_COV_1_0006_ThirdEye.png",
+        "Degen_Gang_COV_1_0010_Eyepatch.png",
+        "Degen_Gang_COV_1_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_COV_1_0004_Bandage.png",
+        "Degen_Gang_COV_1_0007_StarSticker.png",
+        "Degen_Gang_COV_1_0008_UnicornSticker.png",
+        "Degen_Gang_COV_1_0009_Tear.png",
+        "Degen_Gang_COV_1_0011_MedMask.png",
+        "Degen_Gang_COV_1_0013_Stitches.png",
+        "Degen_Gang_COV_1_0014_Bubblegum-.png",
+        "Degen_Gang_COV_1_0015_Piercings.png",
+        "Degen_Gang_COV_1_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_COV_1_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_COV_1_Anim_WEAPON_1",
+        "Degen_Gang_COV_1_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_COV_1_HAND_2.png"
+      ],
+      "Whole Head": [
+        "Degen_Gang_COV_1_HAT_1-.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_COV_1_OUTFIT_1_Standard.png",
+        "Degen_Gang_COV_1_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_COV_1_OUTFIT_3_FANCY.png",
+        "Degen_Gang_COV_1_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "COV_2",
+    "data": {
+      "Outfit": [
+        "Degen_Gang_COV_2_OUTFIT_4_BATTLE.png",
+        "Degen_Gang_COV_2_OUTFIT_3_FANCY.png",
+        "Degen_Gang_COV_2_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_COV_2_OUTFIT_1_Standard.png"
+      ],
+      "Whole Head": [
+        "Degen_Gang_COV_2_HAT_1-.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_COV_2_HAND_2.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_COV_2_HAND_1.png",
+        "Degen_Gang_COV_2__Anim_WEAPON_1"
+      ],
+      "Lower Face": [
+        "Degen_Gang_COV_2_0016_Bandaid.png",
+        "Degen_Gang_COV_2_0014_Bubblegum-.png",
+        "Degen_Gang_COV_2_0015_Piercings.png",
+        "Degen_Gang_COV_2_0013_Stitches.png",
+        "Degen_Gang_COV_2_0011_MedMask.png",
+        "Degen_Gang_COV_2_0009_Tear.png",
+        "Degen_Gang_COV_2_0008_UnicornSticker.png",
+        "Degen_Gang_COV_2_0007_StarSticker.png",
+        "Degen_Gang_COV_2_0005_Bandage.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_COV_2_0012_Tattoo.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_COV_2_0010_Eyepatch.png",
+        "Degen_Gang_COV_2_0006_ThirdEye.png",
+        "Degen_Gang_COV_2_0004_3Dglasses.png",
+        "Degen_Gang_COV_2_0003_HeartGlasses.png",
+        "Degen_Gang_COV_2__Anim_Eyes_SpiralGlasses"
+      ],
+      "Hat": [
+        "Degen_Gang_COV_2_0002_Visor.png",
+        "Degen_Gang_COV_2_0000_PartyHat.png",
+        "Degen_Gang_COV_2_0001_CowboyHat.png",
+        "Degen_Gang_COV_2__Anim_HAT_PropellerHAT"
+      ]
+    }
+  },
+  {
+    "name": "COV_3",
+    "data": {
+      "Hat": [
+        "Degen_Gang_COV_3_0000_PartyHat.png",
+        "Degen_Gang_COV_3_0001_CowboyHat.png",
+        "Degen_Gang_COV_3_0002_Visor.png",
+        "Degen_Gang_COV_3_Anim_HAT_PropellerHAT"
+      ],
+      "Lower Face": [
+        "Degen_Gang_COV_3_0003_Bandage.png",
+        "Degen_Gang_COV_3_0007_StarSticker.png",
+        "Degen_Gang_COV_3_0008_UnicornSticker.png",
+        "Degen_Gang_COV_3_0009_Tear.png",
+        "Degen_Gang_COV_3_0013_Stitches.png",
+        "Degen_Gang_COV_3_0014_Bubblegum-.png",
+        "Degen_Gang_COV_3_0015_Piercings.png",
+        "Degen_Gang_COV_3_0016_Bandaid.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_COV_3_0004_HeartGlasses.png",
+        "Degen_Gang_COV_3_0005_3Dglasses.png",
+        "Degen_Gang_COV_3_0006_ThirdEye.png",
+        "Degen_Gang_COV_3_0010_Eyepatch.png",
+        "Degen_Gang_COV_3_Anim_Eyes_SpiralGlasses"
+      ],
+      "tattoo": [
+        "Degen_Gang_COV_3_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_COV_3_Anim_WEAPON_1",
+        "Degen_Gang_COV_3_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_COV_3_HAND_2.png"
+      ],
+      "Whole Head": [
+        "Degen_Gang_COV_3_HAT_1-.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_COV_3_OUTFIT_1_Standard.png",
+        "Degen_Gang_COV_3_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_COV_3_OUTFIT_3_FANCY.png",
+        "Degen_Gang_COV_3_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "COV_4",
+    "data": {
+      "Hat": [
+        "Degen_Gang_COV_4_0000_PartyHat.png",
+        "Degen_Gang_COV_4_0001_CowboyHat.png",
+        "Degen_Gang_COV_4_0004_Visor.png",
+        "Degen_Gang_COV_4_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_COV_4_0002_HeartGlasses.png",
+        "Degen_Gang_COV_4_0003_3Dglasses.png",
+        "Degen_Gang_COV_4_0006_ThirdEye.png",
+        "Degen_Gang_COV_4_0010_Eyepatch.png",
+        "Degen_Gang_COV_4_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_COV_4_0005_Bandage.png",
+        "Degen_Gang_COV_4_0007_StarSticker.png",
+        "Degen_Gang_COV_4_0008_UnicornSticker.png",
+        "Degen_Gang_COV_4_0009_Tear.png",
+        "Degen_Gang_COV_4_0011_MedMask.png",
+        "Degen_Gang_COV_4_0013_Stitches.png",
+        "Degen_Gang_COV_4_0014_Bubblegum-.png",
+        "Degen_Gang_COV_4_0015_Piercings.png",
+        "Degen_Gang_COV_4_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_COV_4_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_COV_4_Anim_WEAPON_1",
+        "Degen_Gang_COV_4_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_COV_4_HAND_2.png"
+      ],
+      "Whole Head": [
+        "Degen_Gang_COV_4_HAT_1-.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_COV_4_OUTFIT_1_Standard.png",
+        "Degen_Gang_COV_4_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_COV_4_OUTFIT_3_FANCY.png",
+        "Degen_Gang_COV_4_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "COV_5",
+    "data": {
+      "Hat": [
+        "Degen_Gang_COV_5_0000_PartyHat.png",
+        "Degen_Gang_COV_5_0001_CowboyHat.png",
+        "Degen_Gang_COV_5_0004_Visor.png",
+        "Degen_Gang_COV_5_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_COV_5_0002_HeartGlasses.png",
+        "Degen_Gang_COV_5_0003_3Dglasses.png",
+        "Degen_Gang_COV_5_0006_ThirdEye.png",
+        "Degen_Gang_COV_5_0010_Eyepatch.png",
+        "Degen_Gang_COV_5_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_COV_5_0005_Bandage.png",
+        "Degen_Gang_COV_5_0007_StarSticker.png",
+        "Degen_Gang_COV_5_0008_UnicornSticker.png",
+        "Degen_Gang_COV_5_0009_Tear.png",
+        "Degen_Gang_COV_5_0011_MedMask.png",
+        "Degen_Gang_COV_5_0013_Bubblegum-.png",
+        "Degen_Gang_COV_5_0014_Stitches.png",
+        "Degen_Gang_COV_5_0015_Piercings.png",
+        "Degen_Gang_COV_5_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_COV_5_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_COV_5_Anim_Weapon_1",
+        "Degen_Gang_COV_5_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_COV_5_HAND_2.png"
+      ],
+      "Whole Head": [
+        "Degen_Gang_COV_5_HAT_1-.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_COV_5_OUTFIT_1_Standard.png",
+        "Degen_Gang_COV_5_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_COV_5_OUTFIT_3_FANCY.png",
+        "Degen_Gang_COV_5_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "DMN_1",
+    "data": {
+      "Hat": [
+        "Degen_Gang_DMN_1_0000_PartyHat.png",
+        "Degen_Gang_DMN_1_0001_CowboyHat.png",
+        "Degen_Gang_DMN_1_0002_Visor.png",
+        "Degen_Gang_DMN_1_Anim_HAT_PropellerHAT",
+        "Degen_Gang_DMN_1_HORNS_1.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_DMN_1_0003_3Dglasses.png",
+        "Degen_Gang_DMN_1_0005_HeartGlasses.png",
+        "Degen_Gang_DMN_1_0006_ThirdEye.png",
+        "Degen_Gang_DMN_1_0010_Eyepatch.png",
+        "Degen_Gang_DMN_1_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_DMN_1_0004_Bandage.png",
+        "Degen_Gang_DMN_1_0007_StarSticker.png",
+        "Degen_Gang_DMN_1_0008_UnicornSticker.png",
+        "Degen_Gang_DMN_1_0009_Tear.png",
+        "Degen_Gang_DMN_1_0011_MedMask.png",
+        "Degen_Gang_DMN_1_0013_Stitches.png",
+        "Degen_Gang_DMN_1_0014_Bubblegum-.png",
+        "Degen_Gang_DMN_1_0015_Piercings.png",
+        "Degen_Gang_DMN_1_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_DMN_1_0012_Tattoo.png"
+      ],
+      "BG Effect": [
+        "Degen_Gang_DMN_1_Anim_FireBack"
+      ],
+      "Hand_1": [
+        "Degen_Gang_DMN_1_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_DMN_1_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_DMN_1_OUTFIT_1_Standard.png",
+        "Degen_Gang_DMN_1_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_DMN_1_OUTFIT_3_FANCY.png",
+        "Degen_Gang_DMN_1_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "DMN_2",
+    "data": {
+      "tattoo": [
+        "Degen_Gang_DMN_2_0012_Tattoo.png"
+      ],
+      "Hat": [
+        "Degen_Gang_DMN_2_0000_PartyHat.png",
+        "Degen_Gang_DMN_2_0001_CowboyHat.png",
+        "Degen_Gang_DMN_2_0004_Visor.png",
+        "Degen_Gang_DMN_2_Anim_HAT_PropellerHAT",
+        "Degen_Gang_DMN_2_HORNS_1.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_DMN_2_0002_3Dglasses.png",
+        "Degen_Gang_DMN_2_0003_HeartGlasses.png",
+        "Degen_Gang_DMN_2_0006_ThirdEye.png",
+        "Degen_Gang_DMN_2_0010_Eyepatch.png",
+        "Degen_Gang_DMN_2_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_DMN_2_0005_Bandage.png",
+        "Degen_Gang_DMN_2_0007_StarSticker.png",
+        "Degen_Gang_DMN_2_0008_UnicornSticker.png",
+        "Degen_Gang_DMN_2_0009_Tear.png",
+        "Degen_Gang_DMN_2_0011_MedMask.png",
+        "Degen_Gang_DMN_2_0013_Bubblegum-.png",
+        "Degen_Gang_DMN_2_0014_Stitches.png",
+        "Degen_Gang_DMN_2_0015_Piercings.png",
+        "Degen_Gang_DMN_2_0016_Bandaid.png"
+      ],
+      "BG Effect": [
+        "Degen_Gang_DMN_2_Anim_FireBack"
+      ],
+      "Hand_1": [
+        "Degen_Gang_DMN_2_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_DMN_2_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_DMN_2_OUTFIT_1_Standard.png",
+        "Degen_Gang_DMN_2_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_DMN_2_OUTFIT_3_FANCY.png",
+        "Degen_Gang_DMN_2_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "DMN_3",
+    "data": {
+      "Hat": [
+        "Degen_Gang_DMN_3_0000_PartyHat.png",
+        "Degen_Gang_DMN_3_0001_CowboyHat.png",
+        "Degen_Gang_DMN_3_0004_Visor.png",
+        "Degen_Gang_DMN_3_Anim_HAT_PropellerHAT",
+        "Degen_Gang_DMN_3_HORNS_1.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_DMN_3_0002_3Dglasses.png",
+        "Degen_Gang_DMN_3_0003_HeartGlasses.png",
+        "Degen_Gang_DMN_3_0006_ThirdEye.png",
+        "Degen_Gang_DMN_3_0010_Eyepatch.png",
+        "Degen_Gang_DMN_3_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_DMN_3_0005_Bandage.png",
+        "Degen_Gang_DMN_3_0007_StarSticker.png",
+        "Degen_Gang_DMN_3_0008_UnicornSticker.png",
+        "Degen_Gang_DMN_3_0009_Tear.png",
+        "Degen_Gang_DMN_3_0011_MedMask.png",
+        "Degen_Gang_DMN_3_0013_Stitches.png",
+        "Degen_Gang_DMN_3_0014_Bubblegum-.png",
+        "Degen_Gang_DMN_3_0015_Piercings.png",
+        "Degen_Gang_DMN_3_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_DMN_3_0012_Tattoo.png"
+      ],
+      "BG Effect": [
+        "Degen_Gang_DMN_3_Anim_FireBack"
+      ],
+      "Hand_1": [
+        "Degen_Gang_DMN_3_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_DMN_3_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_DMN_3_OUTFIT_1_Standard.png",
+        "Degen_Gang_DMN_3_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_DMN_3_OUTFIT_3_FANCY.png",
+        "Degen_Gang_DMN_3_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "DMN_4",
+    "data": {
+      "tattoo": [
+        "Degen_Gang_DMN_4_0012_Tattoo.png"
+      ],
+      "Hat": [
+        "Degen_Gang_DMN_4_0000_PartyHat.png",
+        "Degen_Gang_DMN_4_0001_CowboyHat.png",
+        "Degen_Gang_DMN_4_0004_Visor.png",
+        "Degen_Gang_DMN_4_Anim_HAT_PropellerHAT",
+        "Degen_Gang_DMN_4_HORNS_1.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_DMN_4_0002_3Dglasses.png",
+        "Degen_Gang_DMN_4_0003_HeartGlasses.png",
+        "Degen_Gang_DMN_4_0006_ThirdEye.png",
+        "Degen_Gang_DMN_4_0010_Eyepatch.png",
+        "Degen_Gang_DMN_4_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_DMN_4_0005_Bandage.png",
+        "Degen_Gang_DMN_4_0007_StarSticker.png",
+        "Degen_Gang_DMN_4_0008_UnicornSticker.png",
+        "Degen_Gang_DMN_4_0009_Tear.png",
+        "Degen_Gang_DMN_4_0011_MedMask.png",
+        "Degen_Gang_DMN_4_0013_Stitches.png",
+        "Degen_Gang_DMN_4_0014_Bubblegum-.png",
+        "Degen_Gang_DMN_4_0015_Piercings.png",
+        "Degen_Gang_DMN_4_0016_Bandaid.png"
+      ],
+      "BG Effect": [
+        "Degen_Gang_DMN_4_Anim_FireBack"
+      ],
+      "Hand_1": [
+        "Degen_Gang_DMN_4_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_DMN_4_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_DMN_4_OUTFIT_1_Standard.png",
+        "Degen_Gang_DMN_4_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_DMN_4_OUTFIT_3_FANCY.png",
+        "Degen_Gang_DMN_4_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "DMN_5",
+    "data": {
+      "Hat": [
+        "Degen_Gang_DMN_5_0000_PartyHat.png",
+        "Degen_Gang_DMN_5_0001_CowboyHat.png",
+        "Degen_Gang_DMN_5_0003_Visor.png",
+        "Degen_Gang_DMN_5_Anim_HAT_PropellerHAT",
+        "Degen_Gang_DMN_5_HORNS_1.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_DMN_5_0002_HeartGlasses.png",
+        "Degen_Gang_DMN_5_0004_3Dglasses.png",
+        "Degen_Gang_DMN_5_0006_ThirdEye.png",
+        "Degen_Gang_DMN_5_0010_Eyepatch.png",
+        "Degen_Gang_DMN_5_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_DMN_5_0005_Bandage.png",
+        "Degen_Gang_DMN_5_0007_StarSticker.png",
+        "Degen_Gang_DMN_5_0008_UnicornSticker.png",
+        "Degen_Gang_DMN_5_0009_Tear.png",
+        "Degen_Gang_DMN_5_0011_MedMask.png",
+        "Degen_Gang_DMN_5_0013_Stitches.png",
+        "Degen_Gang_DMN_5_0014_Bubblegum-.png",
+        "Degen_Gang_DMN_5_0015_Piercings.png",
+        "Degen_Gang_DMN_5_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_DMN_5_0012_Tattoo.png"
+      ],
+      "BG Effect": [
+        "Degen_Gang_DMN_5_Anim_FireBack"
+      ],
+      "Hand_1": [
+        "Degen_Gang_DMN_5_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_DMN_5_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_DMN_5_OUTFIT_1_Standard.png",
+        "Degen_Gang_DMN_5_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_DMN_5_OUTFIT_3_FANCY.png",
+        "Degen_Gang_DMN_5_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "HOD_1",
+    "data": {
+      "Outfit": [
+        "Degen_Gang_HOD_1_OUTFIT_4_BATTLE.png",
+        "Degen_Gang_HOD_1_OUTFIT_1_Standard.png",
+        "Degen_Gang_HOD_1_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_HOD_1_OUTFIT_3_FANCY.png"
+      ],
+      "Hat": [
+        "Degen_Gang_HOD_1_0000_PartyHat.png",
+        "Degen_Gang_HOD_1_0001_CowboyHat.png",
+        "Degen_Gang_HOD_1_0003_Visor.png",
+        "Degen_Gang_HOD_1_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_HOD_1_0002_HeartGlasses.png",
+        "Degen_Gang_HOD_1_0004_3Dglasses.png",
+        "Degen_Gang_HOD_1_0009_Eyepatch.png",
+        "Degen_Gang_HOD_1_Anim_EYES",
+        "Degen_Gang_HOD_1_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_HOD_1_EYES_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_HOD_1_0005_Bandage.png",
+        "Degen_Gang_HOD_1_0006_StarSticker.png",
+        "Degen_Gang_HOD_1_0007_UnicornSticker.png",
+        "Degen_Gang_HOD_1_0008_Tear.png",
+        "Degen_Gang_HOD_1_0010_MedMask.png",
+        "Degen_Gang_HOD_1_0012_Stitches.png",
+        "Degen_Gang_HOD_1_0013_Bubblegum-.png",
+        "Degen_Gang_HOD_1_0014_Piercings.png",
+        "Degen_Gang_HOD_1_0015_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_HOD_1_0011_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_HOD_1_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_HOD_1_HAND_2.png"
+      ]
+    }
+  },
+  {
+    "name": "HOD_2",
+    "data": {
+      "Lower Face": [
+        "Degen_Gang_HOD_2_0005_Bandage.png",
+        "Degen_Gang_HOD_2_0007_StarSticker.png",
+        "Degen_Gang_HOD_2_0008_UnicornSticker.png",
+        "Degen_Gang_HOD_2_0009_Tear.png",
+        "Degen_Gang_HOD_2_0011_MedMask.png",
+        "Degen_Gang_HOD_2_0013_Stitches.png",
+        "Degen_Gang_HOD_2_0014_Bubblegum-.png",
+        "Degen_Gang_HOD_2_0015_Piercings.png",
+        "Degen_Gang_HOD_2_0016_Bandaid.png"
+      ],
+      "Hat": [
+        "Degen_Gang_HOD_2_0000_PartyHat.png",
+        "Degen_Gang_HOD_2_0001_CowboyHat.png",
+        "Degen_Gang_HOD_2_0004_Visor.png",
+        "Degen_Gang_HOD_2_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_HOD_2_0002_3Dglasses.png",
+        "Degen_Gang_HOD_2_0003_HeartGlasses.png",
+        "Degen_Gang_HOD_2_0006_ThirdEye.png",
+        "Degen_Gang_HOD_2_0010_Eyepatch.png",
+        "Degen_Gang_HOD_2_Anim_EYES",
+        "Degen_Gang_HOD_2_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_HOD_2_EYES_1-.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_HOD_2_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_HOD_2_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_HOD_2_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_HOD_2_OUTFIT_1_Standard.png",
+        "Degen_Gang_HOD_2_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_HOD_2_OUTFIT_3_FANCY.png",
+        "Degen_Gang_HOD_2_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "HOD_3",
+    "data": {
+      "Hat": [
+        "Degen_Gang_HOD_3_0000_PartyHat.png",
+        "Degen_Gang_HOD_3_0001_CowboyHat.png",
+        "Degen_Gang_HOD_3_0003_Visor.png",
+        "Degen_Gang_HOD_3_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_HOD_3_0002_HeartGlasses.png",
+        "Degen_Gang_HOD_3_0004_3Dglasses.png",
+        "Degen_Gang_HOD_3_0006_ThirdEye.png",
+        "Degen_Gang_HOD_3_0010_Eyepatch.png",
+        "Degen_Gang_HOD_3_Anim_EYES",
+        "Degen_Gang_HOD_3_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_HOD_3_EYES_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_HOD_3_0005_Bandage.png",
+        "Degen_Gang_HOD_3_0007_StarSticker.png",
+        "Degen_Gang_HOD_3_0008_UnicornSticker.png",
+        "Degen_Gang_HOD_3_0009_Tear.png",
+        "Degen_Gang_HOD_3_0011_MedMask.png",
+        "Degen_Gang_HOD_3_0013_Stitches.png",
+        "Degen_Gang_HOD_3_0014_Bubblegum-.png",
+        "Degen_Gang_HOD_3_0015_Piercings.png",
+        "Degen_Gang_HOD_3_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_HOD_3_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_HOD_3_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_HOD_3_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_HOD_3_OUTFIT_1_Standard.png",
+        "Degen_Gang_HOD_3_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_HOD_3_OUTFIT_3_FANCY.png",
+        "Degen_Gang_HOD_3_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "HOD_4",
+    "data": {
+      "Eyes": [
+        "Degen_Gang_HOD_4_0004_3Dglasses.png",
+        "Degen_Gang_HOD_4_0002_HeartGlasses.png",
+        "Degen_Gang_HOD_4_0006_ThirdEye.png",
+        "Degen_Gang_HOD_4_0010_Eyepatch.png",
+        "Degen_Gang_HOD_4_Anim_EYES",
+        "Degen_Gang_HOD_4_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_HOD_4_EYES_1-.png"
+      ],
+      "Hat": [
+        "Degen_Gang_HOD_4_0000_PartyHat.png",
+        "Degen_Gang_HOD_4_0001_CowboyHat.png",
+        "Degen_Gang_HOD_4_0003_Visor.png",
+        "Degen_Gang_HOD_4_Anim_HAT_PropellerHAT"
+      ],
+      "Lower Face": [
+        "Degen_Gang_HOD_4_0005_Bandage.png",
+        "Degen_Gang_HOD_4_0007_StarSticker.png",
+        "Degen_Gang_HOD_4_0008_UnicornSticker.png",
+        "Degen_Gang_HOD_4_0009_Tear.png",
+        "Degen_Gang_HOD_4_0011_MedMask.png",
+        "Degen_Gang_HOD_4_0013_Stitches.png",
+        "Degen_Gang_HOD_4_0014_Bubblegum-.png",
+        "Degen_Gang_HOD_4_0015_Piercings.png",
+        "Degen_Gang_HOD_4_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_HOD_4_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_HOD_4_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_HOD_4_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_HOD_4_OUTFIT_1_Standard.png",
+        "Degen_Gang_HOD_4_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_HOD_4_OUTFIT_3_FANCY.png",
+        "Degen_Gang_HOD_4_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "HOD_5",
+    "data": {
+      "Hat": [
+        "Degen_Gang_HOD_5_0001_CowboyHat.png",
+        "Degen_Gang_HOD_5_0000_PartyHat.png",
+        "Degen_Gang_HOD_5_0003_Visor.png",
+        "Degen_Gang_HOD_5_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_HOD_5_0002_HeartGlasses.png",
+        "Degen_Gang_HOD_5_0004_3Dglasses.png",
+        "Degen_Gang_HOD_5_0006_ThirdEye.png",
+        "Degen_Gang_HOD_5_0010_Eyepatch.png",
+        "Degen_Gang_HOD_5_Anim_EYES",
+        "Degen_Gang_HOD_5_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_HOD_5_EYES_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_HOD_5_0005_Bandage.png",
+        "Degen_Gang_HOD_5_0007_StarSticker.png",
+        "Degen_Gang_HOD_5_0008_UnicornSticker.png",
+        "Degen_Gang_HOD_5_0009_Tear.png",
+        "Degen_Gang_HOD_5_0011_MedMask.png",
+        "Degen_Gang_HOD_5_0013_Stitches.png",
+        "Degen_Gang_HOD_5_0014_Bubblegum-.png",
+        "Degen_Gang_HOD_5_0015_Piercings.png",
+        "Degen_Gang_HOD_5_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_HOD_5_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_HOD_5_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_HOD_5_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_HOD_5_OUTFIT_1_Standard.png",
+        "Degen_Gang_HOD_5_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_HOD_5_OUTFIT_3_FANCY.png",
+        "Degen_Gang_HOD_5_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "ROY_1",
+    "data": {
+      "Eyes": [
+        "Degen_Gang_ROY_1_0010_Eyepatch.png",
+        "Degen_Gang_ROY_1_0001_HeartGlasses.png",
+        "Degen_Gang_ROY_1_0003_3Dglasses.png",
+        "Degen_Gang_ROY_1_0006_ThirdEye.png",
+        "Degen_Gang_ROY_1_Anim_Eyes_SpiralGlasses"
+      ],
+      "Hat": [
+        "Degen_Gang_ROY_1_0000_CowboyHat.png",
+        "Degen_Gang_ROY_1_0002_Visor.png",
+        "Degen_Gang_ROY_1_0004_PartyHat.png",
+        "Degen_Gang_ROY_1_Anim_HAT_PropellerHAT",
+        "Degen_Gang_ROY_1_HAT_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_ROY_1_0005_Bandage.png",
+        "Degen_Gang_ROY_1_0007_StarSticker.png",
+        "Degen_Gang_ROY_1_0008_UnicornSticker.png",
+        "Degen_Gang_ROY_1_0009_Tear.png",
+        "Degen_Gang_ROY_1_0011_MedMask.png",
+        "Degen_Gang_ROY_1_0013_Stitches.png",
+        "Degen_Gang_ROY_1_0014_Bubblegum-.png",
+        "Degen_Gang_ROY_1_0015_Piercings.png",
+        "Degen_Gang_ROY_1_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_ROY_1_0012_Tattoo.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_ROY_1_Anim_HAND_2",
+        "Degen_Gang_ROY_1_HAND_2.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_ROY_1_HAND_1.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_ROY_1_OUTFIT_1_Standard.png",
+        "Degen_Gang_ROY_1_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_ROY_1_OUTFIT_3_FANCY.png",
+        "Degen_Gang_ROY_1_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "ROY_2",
+    "data": {
+      "Eyes": [
+        "Degen_Gang_ROY_2_0006_ThirdEye.png",
+        "Degen_Gang_ROY_2_0002_HeartGlasses.png",
+        "Degen_Gang_ROY_2_0004_3Dglasses.png",
+        "Degen_Gang_ROY_2_0010_Eyepatch.png",
+        "Degen_Gang_ROY_2_Anim_Eyes_SpiralGlasses"
+      ],
+      "Hat": [
+        "Degen_Gang_ROY_2_0000_PartyHat.png",
+        "Degen_Gang_ROY_2_0001_CowboyHat.png",
+        "Degen_Gang_ROY_2_0003_Visor.png",
+        "Degen_Gang_ROY_2_Anim_HAT_PropellerHAT",
+        "Degen_Gang_ROY_2_HAT_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_ROY_2_0005_Bandage.png",
+        "Degen_Gang_ROY_2_0007_StarSticker.png",
+        "Degen_Gang_ROY_2_0008_UnicornSticker.png",
+        "Degen_Gang_ROY_2_0009_Tear.png",
+        "Degen_Gang_ROY_2_0011_MedMask.png",
+        "Degen_Gang_ROY_2_0013_Stitches.png",
+        "Degen_Gang_ROY_2_0014_Bubblegum-.png",
+        "Degen_Gang_ROY_2_0015_Piercings.png",
+        "Degen_Gang_ROY_2_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_ROY_2_0012_Tattoo.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_ROY_2_Anim_HAND_2",
+        "Degen_Gang_ROY_2_HAND_2.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_ROY_2_HAND_1.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_ROY_2_OUTFIT_1_Standard.png",
+        "Degen_Gang_ROY_2_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_ROY_2_OUTFIT_3_FANCY.png",
+        "Degen_Gang_ROY_2_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "ROY_3",
+    "data": {
+      "Eyes": [
+        "Degen_Gang_ROY_3_0006_ThirdEye.png",
+        "Degen_Gang_ROY_3_0002_3Dglasses.png",
+        "Degen_Gang_ROY_3_0003_HeartGlasses.png",
+        "Degen_Gang_ROY_3_0010_Eyepatch.png",
+        "Degen_Gang_ROY_3_Anim_Eyes_SpiralGlasses"
+      ],
+      "Hat": [
+        "Degen_Gang_ROY_3_0000_PartyHat.png",
+        "Degen_Gang_ROY_3_0001_CowboyHat.png",
+        "Degen_Gang_ROY_3_0004_Visor.png",
+        "Degen_Gang_ROY_3_Anim_HAT_PropellerHAT",
+        "Degen_Gang_ROY_3_HAT_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_ROY_3_0005_Bandage.png",
+        "Degen_Gang_ROY_3_0007_StarSticker.png",
+        "Degen_Gang_ROY_3_0008_UnicornSticker.png",
+        "Degen_Gang_ROY_3_0009_Tear.png",
+        "Degen_Gang_ROY_3_0011_MedMask.png",
+        "Degen_Gang_ROY_3_0013_Stitches.png",
+        "Degen_Gang_ROY_3_0014_Piercings.png",
+        "Degen_Gang_ROY_3_0015_Bubblegum-.png",
+        "Degen_Gang_ROY_3_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_ROY_3_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_ROY_3_Anim_WEAPON_1",
+        "Degen_Gang_ROY_3_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_ROY_3_Anim_WEAPON_2",
+        "Degen_Gang_ROY_3_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_ROY_3_OUTFIT_1_Standard.png",
+        "Degen_Gang_ROY_3_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_ROY_3_OUTFIT_3_FANCY.png",
+        "Degen_Gang_ROY_3_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "ROY_4",
+    "data": {
+      "Lower Face": [
+        "Degen_Gang_ROY_4_0008_UnicornSticker.png",
+        "Degen_Gang_ROY_4_0005_Bandage.png",
+        "Degen_Gang_ROY_4_0007_StarSticker.png",
+        "Degen_Gang_ROY_4_0009_Tear.png",
+        "Degen_Gang_ROY_4_0011_MedMask.png",
+        "Degen_Gang_ROY_4_0013_Stitches.png",
+        "Degen_Gang_ROY_4_0014_Bubblegum-.png",
+        "Degen_Gang_ROY_4_0015_Piercings.png",
+        "Degen_Gang_ROY_4_0016_Bandaid.png"
+      ],
+      "Hat": [
+        "Degen_Gang_ROY_4_0000_PartyHat.png",
+        "Degen_Gang_ROY_4_0001_CowboyHat.png",
+        "Degen_Gang_ROY_4_0003_Visor.png",
+        "Degen_Gang_ROY_4_Anim_HAT_PropellerHAT",
+        "Degen_Gang_ROY_4_HAT_1-.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_ROY_4_0002_HeartGlasses.png",
+        "Degen_Gang_ROY_4_0004_3Dglasses.png",
+        "Degen_Gang_ROY_4_0006_ThirdEye.png",
+        "Degen_Gang_ROY_4_0010_Eyepatch.png",
+        "Degen_Gang_ROY_4_Anim_Eyes_SpiralGlasses"
+      ],
+      "tattoo": [
+        "Degen_Gang_ROY_4_0012_Tattoo.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_ROY_4_Anim_HAND_2",
+        "Degen_Gang_ROY_4_HAND_2.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_ROY_4_HAND_1.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_ROY_4_OUTFIT_1_Standard.png",
+        "Degen_Gang_ROY_4_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_ROY_4_OUTFIT_3_FANCY.png",
+        "Degen_Gang_ROY_4_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "ROY_5",
+    "data": {
+      "Hat": [
+        "Degen_Gang_ROY_5_0001_CowboyHat.png",
+        "Degen_Gang_ROY_5_0000_PartyHat.png",
+        "Degen_Gang_ROY_5_0002_Visor.png",
+        "Degen_Gang_ROY_5_Anim_HAT_PropellerHAT",
+        "Degen_Gang_ROY_5_HAT_1-.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_ROY_5_0003_3Dglasses.png",
+        "Degen_Gang_ROY_5_0004_HeartGlasses.png",
+        "Degen_Gang_ROY_5_0006_ThirdEye.png",
+        "Degen_Gang_ROY_5_0010_Eyepatch.png",
+        "Degen_Gang_ROY_5_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_ROY_5_0005_Bandage.png",
+        "Degen_Gang_ROY_5_0007_StarSticker.png",
+        "Degen_Gang_ROY_5_0008_UnicornSticker.png",
+        "Degen_Gang_ROY_5_0009_Tear.png",
+        "Degen_Gang_ROY_5_0011_MedMask.png",
+        "Degen_Gang_ROY_5_0013_Stitches.png",
+        "Degen_Gang_ROY_5_0014_Bubblegum-.png",
+        "Degen_Gang_ROY_5_0015_Piercings.png",
+        "Degen_Gang_ROY_5_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_ROY_5_0012_Tattoo.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_ROY_5_Anim_HAND_2",
+        "Degen_Gang_ROY_5_HAND_2.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_ROY_5_HAND_1.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_ROY_5_OUTFIT_1_Standard.png",
+        "Degen_Gang_ROY_5_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_ROY_5_OUTFIT_3_FANCY.png",
+        "Degen_Gang_ROY_5_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "WHA_1",
+    "data": {
+      "Hat": [
+        "Degen_Gang_WHA_1_0001_CowboyHat.png",
+        "Degen_Gang_WHA_1_0000_PartyHat.png",
+        "Degen_Gang_WHA_1_0004_Visor.png",
+        "Degen_Gang_WHA_1_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_WHA_1_0002_HeartGlasses.png",
+        "Degen_Gang_WHA_1_0003_3Dglasses.png",
+        "Degen_Gang_WHA_1_0006_ThirdEye.png",
+        "Degen_Gang_WHA_1_0010_Eyepatch.png",
+        "Degen_Gang_WHA_1_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_WHA_1_0005_Bandage.png",
+        "Degen_Gang_WHA_1_0007_StarSticker.png",
+        "Degen_Gang_WHA_1_0008_UnicornSticker.png",
+        "Degen_Gang_WHA_1_0009_Tear.png",
+        "Degen_Gang_WHA_1_0011_MedMask.png",
+        "Degen_Gang_WHA_1_0013_Stitches.png",
+        "Degen_Gang_WHA_1_0014_Piercings.png",
+        "Degen_Gang_WHA_1_0015_Bubblegum-.png",
+        "Degen_Gang_WHA_1_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_WHA_1_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_WHA_1_Anim_WEAPON_1",
+        "Degen_Gang_WHA_1_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_WHA_1_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_WHA_1_OUTFIT_1_Standard.png",
+        "Degen_Gang_WHA_1_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_WHA_1_OUTFIT_3_FANCY.png",
+        "Degen_Gang_WHA_1_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "WHA_2",
+    "data": {
+      "Hat": [
+        "Degen_Gang_WHA_2_0004_Visor.png",
+        "Degen_Gang_WHA_2_0000_PartyHat.png",
+        "Degen_Gang_WHA_2_0001_CowboyHat.png",
+        "Degen_Gang_WHA_2_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_WHA_2_0002_HeartGlasses.png",
+        "Degen_Gang_WHA_2_0003_3Dglasses.png",
+        "Degen_Gang_WHA_2_0006_ThirdEye.png",
+        "Degen_Gang_WHA_2_0010_Eyepatch.png",
+        "Degen_Gang_WHA_2_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_WHA_2_0005_Bandage.png",
+        "Degen_Gang_WHA_2_0007_StarSticker.png",
+        "Degen_Gang_WHA_2_0008_UnicornSticker.png",
+        "Degen_Gang_WHA_2_0009_Tear.png",
+        "Degen_Gang_WHA_2_0011_MedMask.png",
+        "Degen_Gang_WHA_2_0013_Stitches.png",
+        "Degen_Gang_WHA_2_0014_Bubblegum-.png",
+        "Degen_Gang_WHA_2_0015_Piercings.png",
+        "Degen_Gang_WHA_2_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_WHA_2_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_WHA_2_Anim_WEAPON_1",
+        "Degen_Gang_WHA_2_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_WHA_2_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_WHA_2_OUTFIT_1_Standard.png",
+        "Degen_Gang_WHA_2_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_WHA_2_OUTFIT_3_FANCY.png",
+        "Degen_Gang_WHA_2_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "WHA_3",
+    "data": {
+      "Eyes": [
+        "Degen_Gang_WHA_3_0003_3Dglasses.png",
+        "Degen_Gang_WHA_3_0002_HeartGlasses.png",
+        "Degen_Gang_WHA_3_0006_ThirdEye.png",
+        "Degen_Gang_WHA_3_0010_Eyepatch.png",
+        "Degen_Gang_WHA_3_Anim_Eyes_SpiralGlasses"
+      ],
+      "Hat": [
+        "Degen_Gang_WHA_3_0000_PartyHat.png",
+        "Degen_Gang_WHA_3_0001_CowboyHat.png",
+        "Degen_Gang_WHA_3_0004_Visor.png",
+        "Degen_Gang_WHA_3_Anim_HAT_PropellerHAT"
+      ],
+      "Lower Face": [
+        "Degen_Gang_WHA_3_0005_Bandage.png",
+        "Degen_Gang_WHA_3_0007_StarSticker.png",
+        "Degen_Gang_WHA_3_0008_UnicornSticker.png",
+        "Degen_Gang_WHA_3_0009_Tear.png",
+        "Degen_Gang_WHA_3_0011_MedMask.png",
+        "Degen_Gang_WHA_3_0013_Stitches.png",
+        "Degen_Gang_WHA_3_0014_Bubblegum-.png",
+        "Degen_Gang_WHA_3_0015_Piercings.png",
+        "Degen_Gang_WHA_3_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_WHA_3_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_WHA_3_Anim_WEAPON_1",
+        "Degen_Gang_WHA_3_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_WHA_3_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_WHA_3_OUTFIT_1_Standard.png",
+        "Degen_Gang_WHA_3_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_WHA_3_OUTFIT_3_FANCY.png",
+        "Degen_Gang_WHA_3_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "WHA_4",
+    "data": {
+      "Eyes": [
+        "Degen_Gang_WHA_4_0002_HeartGlasses.png",
+        "Degen_Gang_WHA_4_0003_3Dglasses.png",
+        "Degen_Gang_WHA_4_0006_ThirdEye.png",
+        "Degen_Gang_WHA_4_0010_Eyepatch.png",
+        "Degen_Gang_WHA_4_Anim_Eyes_SpiralGlasses"
+      ],
+      "Hat": [
+        "Degen_Gang_WHA_4_0000_PartyHat.png",
+        "Degen_Gang_WHA_4_0001_CowboyHat.png",
+        "Degen_Gang_WHA_4_0004_Visor.png",
+        "Degen_Gang_WHA_4_Anim_HAT_PropellerHAT"
+      ],
+      "Lower Face": [
+        "Degen_Gang_WHA_4_0005_Bandage.png",
+        "Degen_Gang_WHA_4_0007_StarSticker.png",
+        "Degen_Gang_WHA_4_0008_UnicornSticker.png",
+        "Degen_Gang_WHA_4_0009_Tear.png",
+        "Degen_Gang_WHA_4_0011_MedMask.png",
+        "Degen_Gang_WHA_4_0013_Stitches.png",
+        "Degen_Gang_WHA_4_0014_Bubblegum-.png",
+        "Degen_Gang_WHA_4_0015_Piercings.png",
+        "Degen_Gang_WHA_4_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_WHA_4_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_WHA_4_Anim_WEAPON_1",
+        "Degen_Gang_WHA_4_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_WHA_4_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_WHA_4_OUTFIT_1_Standard.png",
+        "Degen_Gang_WHA_4_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_WHA_4_OUTFIT_3_FANCY.png",
+        "Degen_Gang_WHA_4_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "WHA_5",
+    "data": {
+      "Hat": [
+        "Degen_Gang_WHA_5_0004_Visor.png",
+        "Degen_Gang_WHA_5_0000_PartyHat.png",
+        "Degen_Gang_WHA_5_0001_CowboyHat.png",
+        "Degen_Gang_WHA_5_Anim_HAT_PropellerHAT"
+      ],
+      "Eyes": [
+        "Degen_Gang_WHA_5_0002_HeartGlasses.png",
+        "Degen_Gang_WHA_5_0003_3Dglasses.png",
+        "Degen_Gang_WHA_5_0006_ThirdEye.png",
+        "Degen_Gang_WHA_5_0010_Eyepatch.png",
+        "Degen_Gang_WHA_5_Anim_Eyes_SpiralGlasses"
+      ],
+      "Lower Face": [
+        "Degen_Gang_WHA_5_0005_Bandage.png",
+        "Degen_Gang_WHA_5_0007_StarSticker.png",
+        "Degen_Gang_WHA_5_0008_UnicornSticker.png",
+        "Degen_Gang_WHA_5_0009_Tear.png",
+        "Degen_Gang_WHA_5_0011_MedMask.png",
+        "Degen_Gang_WHA_5_0013_Stitches.png",
+        "Degen_Gang_WHA_5_0014_Bubblegum-.png",
+        "Degen_Gang_WHA_5_0015_Piercings.png",
+        "Degen_Gang_WHA_5_0016_Bandaid.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_WHA_5_0012_Tattoo.png"
+      ],
+      "Hand_1": [
+        "Degen_Gang_WHA_5_Anim_WEAPON_1",
+        "Degen_Gang_WHA_5_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_WHA_5_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_WHA_5_OUTFIT_1_Standard.png",
+        "Degen_Gang_WHA_5_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_WHA_5_OUTFIT_3_FANCY.png",
+        "Degen_Gang_WHA_5_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "ZOM_1",
+    "data": {
+      "Hat": [
+        "Degen_Gang_ZOM_1_0000_PartyHat.png",
+        "Degen_Gang_ZOM_1_0001_CowboyHat.png",
+        "Degen_Gang_ZOM_1_0003_Visor.png",
+        "Degen_Gang_ZOM_1_Accessory_HEADPHONES_1.png",
+        "Degen_Gang_ZOM_1_Anim_HAT_PropellerHAT",
+        "Degen_Gang_ZOM_1_HAT_1-.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_ZOM_1_0002_HeartGlasses.png",
+        "Degen_Gang_ZOM_1_0005_3Dglasses.png",
+        "Degen_Gang_ZOM_1_0006_ThirdEye.png",
+        "Degen_Gang_ZOM_1_0010_Eyepatch.png",
+        "Degen_Gang_ZOM_1_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_ZOM_1_EYES_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_ZOM_1_0004_Bandage.png",
+        "Degen_Gang_ZOM_1_0007_StarSticker.png",
+        "Degen_Gang_ZOM_1_0008_UnicornSticker.png",
+        "Degen_Gang_ZOM_1_0009_Tear.png",
+        "Degen_Gang_ZOM_1_0011_MedMask.png",
+        "Degen_Gang_ZOM_1_0013_Stitches.png",
+        "Degen_Gang_ZOM_1_0014_Bubblegum-.png",
+        "Degen_Gang_ZOM_1_0015_Piercings.png",
+        "Degen_Gang_ZOM_1_0016_Bandaid.png",
+        "Degen_Gang_ZOM_1_Accessory_Cigarette_1.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_ZOM_1_0012_Tattoo.png"
+      ],
+      "Effect": [
+        "Degen_Gang_ZOM_1_Anim_Flies"
+      ],
+      "Hand_1": [
+        "Degen_Gang_ZOM_1_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_ZOM_1_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_ZOM_1_OUTFIT_1_Standard.png",
+        "Degen_Gang_ZOM_1_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_ZOM_1_OUTFIT_3_FANCY.png",
+        "Degen_Gang_ZOM_1_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "ZOM_2",
+    "data": {
+      "Hat": [
+        "Degen_Gang_ZOM_2_0001_CowboyHat.png",
+        "Degen_Gang_ZOM_2_0000_PartyHat.png",
+        "Degen_Gang_ZOM_2_0003_Visor.png",
+        "Degen_Gang_ZOM_2_Accessory_HEADPHONES_1.png",
+        "Degen_Gang_ZOM_2_Anim_HAT_PropellerHAT",
+        "Degen_Gang_ZOM_2_HAT_1-.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_ZOM_2_0002_HeartGlasses.png",
+        "Degen_Gang_ZOM_2_0005_ThirdEye.png",
+        "Degen_Gang_ZOM_2_0006_3Dglasses.png",
+        "Degen_Gang_ZOM_2_0010_Eyepatch.png",
+        "Degen_Gang_ZOM_2_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_ZOM_2_EYES_1-.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_ZOM_2_0004_Bandage.png",
+        "Degen_Gang_ZOM_2_0007_StarSticker.png",
+        "Degen_Gang_ZOM_2_0008_UnicornSticker.png",
+        "Degen_Gang_ZOM_2_0009_Tear.png",
+        "Degen_Gang_ZOM_2_0012_Bubblegum-.png",
+        "Degen_Gang_ZOM_2_0013_Piercings.png",
+        "Degen_Gang_ZOM_2_0014_Bandaid.png",
+        "Degen_Gang_ZOM_2_Accessory_Cigarette_1.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_ZOM_2_0011_Tattoo.png"
+      ],
+      "Effect": [
+        "Degen_Gang_ZOM_2_Accessory_Webs_1.png",
+        "Degen_Gang_ZOM_2_Anim_Flies"
+      ],
+      "Hand_1": [
+        "Degen_Gang_ZOM_2_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_ZOM_2_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_ZOM_2_OUTFIT_1_Standard.png",
+        "Degen_Gang_ZOM_2_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_ZOM_2_OUTFIT_3_FANCY.png",
+        "Degen_Gang_ZOM_2_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "ZOM_3",
+    "data": {
+      "Eyes": [
+        "Degen_Gang_ZOM_3_0002_HeartGlasses.png",
+        "Degen_Gang_ZOM_3_0005_3Dglasses.png",
+        "Degen_Gang_ZOM_3_0006_ThirdEye.png",
+        "Degen_Gang_ZOM_3_0010_Eyepatch.png",
+        "Degen_Gang_ZOM_3_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_ZOM_3_EYES_1-.png"
+      ],
+      "Hat": [
+        "Degen_Gang_ZOM_3_0000_PartyHat.png",
+        "Degen_Gang_ZOM_3_0001_CowboyHat.png",
+        "Degen_Gang_ZOM_3_0003_Visor.png",
+        "Degen_Gang_ZOM_3_Accessory_HEADPHONES_1.png",
+        "Degen_Gang_ZOM_3_Anim_HAT_PropellerHAT",
+        "Degen_Gang_ZOM_3_Hat.png"
+      ],
+      "Lower Face": [
+        "Degen_Gang_ZOM_3_0004_Bandage.png",
+        "Degen_Gang_ZOM_3_0007_StarSticker.png",
+        "Degen_Gang_ZOM_3_0008_UnicornSticker.png",
+        "Degen_Gang_ZOM_3_0009_Tear.png",
+        "Degen_Gang_ZOM_3_0011_MedMask.png",
+        "Degen_Gang_ZOM_3_0013_Stitches.png",
+        "Degen_Gang_ZOM_3_0014_Bubblegum-.png",
+        "Degen_Gang_ZOM_3_0015_Piercings.png",
+        "Degen_Gang_ZOM_3_0016_Bandaid.png",
+        "Degen_Gang_ZOM_3_Accessory_Cigarette_1.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_ZOM_3_0012_Tattoo.png"
+      ],
+      "Effect": [
+        "Degen_Gang_ZOM_3_Anim_Flies"
+      ],
+      "Hand_1": [
+        "Degen_Gang_ZOM_3_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_ZOM_3_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_ZOM_3_OUTFIT_1_Standard.png",
+        "Degen_Gang_ZOM_3_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_ZOM_3_OUTFIT_3_FANCY.png",
+        "Degen_Gang_ZOM_3_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "ZOM_4",
+    "data": {
+      "Lower Face": [
+        "Degen_Gang_ZOM_4_0007_Bubblegum-.png",
+        "Degen_Gang_ZOM_4_0005_Bandage.png",
+        "Degen_Gang_ZOM_4_0008_Bandaid.png",
+        "Degen_Gang_ZOM_4_0009_StarSticker.png",
+        "Degen_Gang_ZOM_4_0010_UnicornSticker.png",
+        "Degen_Gang_ZOM_4_0011_Tear.png",
+        "Degen_Gang_ZOM_4_0014_Stitches.png",
+        "Degen_Gang_ZOM_4_0015_Piercings.png",
+        "Degen_Gang_ZOM_4_Accessory_Cigarette_1.png"
+      ],
+      "Hat": [
+        "Degen_Gang_ZOM_4_0000_PartyHat.png",
+        "Degen_Gang_ZOM_4_0001_CowboyHat.png",
+        "Degen_Gang_ZOM_4_0002_Visor.png",
+        "Degen_Gang_ZOM_4_Accessory_HEADPHONES_1.png",
+        "Degen_Gang_ZOM_4_Anim_HAT_PropellerHAT",
+        "Degen_Gang_ZOM_4_HAT_1-.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_ZOM_4_0003_3Dglasses.png",
+        "Degen_Gang_ZOM_4_0004_HeartGlasses.png",
+        "Degen_Gang_ZOM_4_0006_ThirdEye.png",
+        "Degen_Gang_ZOM_4_0012_Eyepatch.png",
+        "Degen_Gang_ZOM_4_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_ZOM_4_EYES_1-.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_ZOM_4_0013_Tattoo.png"
+      ],
+      "Effect": [
+        "Degen_Gang_ZOM_4_Anim_Flies"
+      ],
+      "Hand_1": [
+        "Degen_Gang_ZOM_4_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_ZOM_4_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_ZOM_4_OUTFIT_1_Standard.png",
+        "Degen_Gang_ZOM_4_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_ZOM_4_OUTFIT_3_FANCY.png",
+        "Degen_Gang_ZOM_4_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  },
+  {
+    "name": "ZOM_5",
+    "data": {
+      "Lower Face": [
+        "Degen_Gang_ZOM_5_0007_StarSticker.png",
+        "Degen_Gang_ZOM_5_0005_Bandage.png",
+        "Degen_Gang_ZOM_5_0008_UnicornSticker.png",
+        "Degen_Gang_ZOM_5_0009_Tear.png",
+        "Degen_Gang_ZOM_5_0011_MedMask.png",
+        "Degen_Gang_ZOM_5_0013_Stitches.png",
+        "Degen_Gang_ZOM_5_0014_Bubblegum-.png",
+        "Degen_Gang_ZOM_5_0015_Piercings.png",
+        "Degen_Gang_ZOM_5_0016_Bandaid.png",
+        "Degen_Gang_ZOM_5_Accessory_Cigarette_1.png"
+      ],
+      "Hat": [
+        "Degen_Gang_ZOM_5_0000_PartyHat.png",
+        "Degen_Gang_ZOM_5_0001_CowboyHat.png",
+        "Degen_Gang_ZOM_5_0003_Visor.png",
+        "Degen_Gang_ZOM_5_Accessory_HEADPHONES_1.png",
+        "Degen_Gang_ZOM_5_Anim_HAT_PropellerHAT",
+        "Degen_Gang_ZOM_5_HAT_1-.png"
+      ],
+      "Eyes": [
+        "Degen_Gang_ZOM_5_0002_HeartGlasses.png",
+        "Degen_Gang_ZOM_5_0004_3Dglasses.png",
+        "Degen_Gang_ZOM_5_0006_ThirdEye.png",
+        "Degen_Gang_ZOM_5_0010_Eyepatch.png",
+        "Degen_Gang_ZOM_5_Anim_Eyes_SpiralGlasses",
+        "Degen_Gang_ZOM_5_EYES_1-.png"
+      ],
+      "tattoo": [
+        "Degen_Gang_ZOM_5_0012_Tattoo.png"
+      ],
+      "Effect": [
+        "Degen_Gang_ZOM_5_Anim_Flies"
+      ],
+      "Hand_1": [
+        "Degen_Gang_ZOM_5_HAND_1.png"
+      ],
+      "Hand_2": [
+        "Degen_Gang_ZOM_5_HAND_2.png"
+      ],
+      "Outfit": [
+        "Degen_Gang_ZOM_5_OUTFIT_1_Standard.png",
+        "Degen_Gang_ZOM_5_OUTFIT_2_CASUAL.png",
+        "Degen_Gang_ZOM_5_OUTFIT_3_FANCY.png",
+        "Degen_Gang_ZOM_5_OUTFIT_4_BATTLE.png"
+      ]
+    }
+  }
+]

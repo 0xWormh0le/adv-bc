@@ -1,0 +1,21 @@
+node_modules
+asset-generator/node_modules
+asset-generator/asset
+asset-generator/dist
+asset-generator/zombies
+asset-generator/zombie_frames
+
+#Hardhat files
+cache
+artifacts
+types
+
+#IDE
+.vscode
+
+#Coverage
+coverage
+coverage.json
+
+#System
+**/.DS_Store

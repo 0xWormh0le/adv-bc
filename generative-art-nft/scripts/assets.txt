@@ -1,0 +1,1325 @@
+BOT_1	Eyes	Degen_Gang_BOT_1_0004_Anim_Eyes_SpiralGlasses
+BOT_1	Eyes	Degen_Gang_BOT_1_0004_HeartGlasses.png
+BOT_1	Eyes	Degen_Gang_BOT_1_0005_3Dglasses.png
+BOT_1	Eyes	Degen_Gang_BOT_1_0007_Eyepatch.png
+BOT_1	Eyes	Degen_Gang_BOT_1_Anim_EYES
+BOT_1	Eyes	Degen_Gang_BOT_1_EYES_1-.png
+BOT_1	Eyes	Degen_Gang_BOT_1_0012_ThirdEye.png
+BOT_1	tattoo	Degen_Gang_BOT_1_0013_Tattoo.png
+BOT_1	Hat	Degen_Gang_BOT_1_0000_CowboyHat.png
+BOT_1	Hat	Degen_Gang_BOT_1_0001_PartyHat.png
+BOT_1	Hat	Degen_Gang_BOT_1_0002_Visor.png
+BOT_1	Hat	Degen_Gang_BOT_1_0000_Anim_HAT_PropellerHAT
+BOT_1	Lower Face	Degen_Gang_BOT_1_0006_Bandage.png
+BOT_1	Hand_1	Degen_Gang_BOT_1_HAND_1.png
+BOT_1	Lower Face	Degen_Gang_BOT_1_0003_Bubblegum-.png
+BOT_1	Lower Face	Degen_Gang_BOT_1_0008_Tear.png
+BOT_1	Lower Face	Degen_Gang_BOT_1_0009_MedMask.png
+BOT_1	Lower Face	Degen_Gang_BOT_1_0010_Piercings.png
+BOT_1	Lower Face	Degen_Gang_BOT_1_0011_UnicornSticker.png
+BOT_1	Lower Face	Degen_Gang_BOT_1_0015_StarSticker.png
+BOT_1	Lower Face	Degen_Gang_BOT_1_0016_Bandaid.png
+BOT_1	Outfit	Degen_Gang_BOT_1_OUTFIT_1_Standard.png
+BOT_1	Outfit	Degen_Gang_BOT_1_OUTFIT_2_CASUAL.png
+BOT_1	Outfit	Degen_Gang_BOT_1_OUTFIT_3_FANCY.png
+BOT_1	Outfit	Degen_Gang_BOT_1_OUTFIT_4_BATTLE.png
+BOT_1	Hand_2	Degen_Gang_BOT_1_HAND_2.png
+BOT_2	Eyes	Degen_Gang_BOT_2_0001_3Dglasses.png
+BOT_2	Eyes	Degen_Gang_BOT_2_0002_HeartGlasses.png
+BOT_2	Hat	Degen_Gang_BOT_2_0000_CowboyHat.png
+BOT_2	Lower Face	Degen_Gang_BOT_2_0003_Bandage.png
+BOT_2	Hat	Degen_Gang_BOT_2_0004_Visor.png
+BOT_2	Lower Face	Degen_Gang_BOT_2_0005_MedMask.png
+BOT_2	Lower Face	Degen_Gang_BOT_2_0006_UnicornSticker.png
+BOT_2	tattoo	Degen_Gang_BOT_2_0007_Tattoo.png
+BOT_2	Lower Face	Degen_Gang_BOT_2_0008_StarSticker.png
+BOT_2	Hat	Degen_Gang_BOT_2_0009_PartyHat.png
+BOT_2	Lower Face	Degen_Gang_BOT_2_0010_Bandaid.png
+BOT_2	Eyes	Degen_Gang_BOT_2_Anim_EYES
+BOT_2	Eyes	Degen_Gang_BOT_2_Anim_Eyes_SpiralGlasses
+BOT_2	Hat	Degen_Gang_BOT_2_Anim_HAT_PropellerHAT
+BOT_2	Eyes	Degen_Gang_BOT_2_EYES_1-.png
+BOT_2	Hand_1	Degen_Gang_BOT_2_HAND_1.png
+BOT_2	Hand_2	Degen_Gang_BOT_2_HAND_2.png
+BOT_2	Outfit	Degen_Gang_BOT_2_OUTFIT_1_Standard.png
+BOT_2	Outfit	Degen_Gang_BOT_2_OUTFIT_2_CASUAL.png
+BOT_2	Outfit	Degen_Gang_BOT_2_OUTFIT_3_FANCY.png
+BOT_2	Outfit	Degen_Gang_BOT_2_OUTFIT_4_BATTLE.png
+BOT_3	Eyes	Degen_Gang_BOT_3_0000_3Dglasses.png
+BOT_3	Eyes	Degen_Gang_BOT_3_0001_HeartGlasses.png
+BOT_3	Lower Face	Degen_Gang_BOT_3_0002_Bubblegum-.png
+BOT_3	Lower Face	Degen_Gang_BOT_3_0003_Tear.png
+BOT_3	Lower Face	Degen_Gang_BOT_3_0004_UnicornSticker.png
+BOT_3	Lower Face	Degen_Gang_BOT_3_0005_StarSticker.png
+BOT_3	Hat	Degen_Gang_BOT_3_0006_CowboyHat.png
+BOT_3	Lower Face	Degen_Gang_BOT_3_0007_Bandaid.png
+BOT_3	Eyes	Degen_Gang_BOT_3_Anim_EYES
+BOT_3	Eyes	Degen_Gang_BOT_3_Anim_Eyes_SpiralGlasses
+BOT_3	Hat	Degen_Gang_BOT_3_Anim_HAT_PropellerHAT
+BOT_3	Eyes	Degen_Gang_BOT_3_EYES_1-.png
+BOT_3	Hand_1	Degen_Gang_BOT_3_HAND_1.png
+BOT_3	Hand_2	Degen_Gang_BOT_3_HAND_2.png
+BOT_3	Outfit	Degen_Gang_BOT_3_OUTFIT_1_Standard.png
+BOT_3	Outfit	Degen_Gang_BOT_3_OUTFIT_2_CASUAL.png
+BOT_3	Outfit	Degen_Gang_BOT_3_OUTFIT_3_FANCY.png
+BOT_3	Outfit	Degen_Gang_BOT_3_OUTFIT_4_BATTLE.png
+BOT_4	Eyes	Degen_Gang_BOT_4_0000_3Dglasses.png
+BOT_4	Hat	Degen_Gang_BOT_4_0001_Visor.png
+BOT_4	Hat	Degen_Gang_BOT_4_0002_PartyHat.png
+BOT_4	Lower Face	Degen_Gang_BOT_4_0003_MedMask.png
+BOT_4	Eyes	Degen_Gang_BOT_4_0004_HeartGlasses.png
+BOT_4	Eyes	Degen_Gang_BOT_4_0005_Eyepatch.png
+BOT_4	Hat	Degen_Gang_BOT_4_0006_CowboyHat.png
+BOT_4	Lower Face	Degen_Gang_BOT_4_0007_Bubblegum-.png
+BOT_4	Lower Face	Degen_Gang_BOT_4_0008_Bandaid.png
+BOT_4	Lower Face	Degen_Gang_BOT_4_0009_Bandage.png
+BOT_4	Lower Face	Degen_Gang_BOT_4_0010_UnicornSticker.png
+BOT_4	Lower Face	Degen_Gang_BOT_4_0011_StarSticker.png
+BOT_4	Lower Face	Degen_Gang_BOT_4_0012_Tear.png
+BOT_4	Eyes	Degen_Gang_BOT_4_Anim_EYES
+BOT_4	Eyes	Degen_Gang_BOT_4_Anim_Eyes_SpiralGlasses
+BOT_4	Hat	Degen_Gang_BOT_4_Anim_HAT_PropellerHAT
+BOT_4	Eyes	Degen_Gang_BOT_4_EYES_1-.png
+BOT_4	Hand_1	Degen_Gang_BOT_4_HAND_1.png
+BOT_4	Hand_2	Degen_Gang_BOT_4_HAND_2.png
+BOT_4	Outfit	Degen_Gang_BOT_4_OUTFIT_1_Standard.png
+BOT_4	Outfit	Degen_Gang_BOT_4_OUTFIT_2_CASUAL.png
+BOT_4	Outfit	Degen_Gang_BOT_4_OUTFIT_3_FANCY.png
+BOT_4	Outfit	Degen_Gang_BOT_4_OUTFIT_4_BATTLE.png
+BOT_5	Hat	Degen_Gang_BOT_5_0000_CowboyHat.png
+BOT_5	Eyes	Degen_Gang_BOT_5_0001_HeartGlasses.png
+BOT_5	Hat	Degen_Gang_BOT_5_0002_Visor.png
+BOT_5	Lower Face	Degen_Gang_BOT_5_0003_UnicornSticker.png
+BOT_5	Lower Face	Degen_Gang_BOT_5_0004_StarSticker.png
+BOT_5	Lower Face	Degen_Gang_BOT_5_0005_Tear.png
+BOT_5	Hat	Degen_Gang_BOT_5_0006_PartyHat.png
+BOT_5	Eyes	Degen_Gang_BOT_5_0007_3Dglasses.png
+BOT_5	Lower Face	Degen_Gang_BOT_5_0008_MedMask.png
+BOT_5	Eyes	Degen_Gang_BOT_5_0009_Eyepatch.png
+BOT_5	Lower Face	Degen_Gang_BOT_5_0010_Bubblegum-.png
+BOT_5	Lower Face	Degen_Gang_BOT_5_0011_Bandaid.png
+BOT_5	Lower Face	Degen_Gang_BOT_5_0012_Bandage.png
+BOT_5	Eyes	Degen_Gang_BOT_5_Anim_EYES
+BOT_5	Eyes	Degen_Gang_BOT_5_Anim_Eyes_SpiralGlasses
+BOT_5	Hat	Degen_Gang_BOT_5_Anim_HAT_PropellerHAT
+BOT_5	Eyes	Degen_Gang_BOT_5_EYES_1-.png
+BOT_5	Hand_1	Degen_Gang_BOT_5_HAND_1.png
+BOT_5	Hand_2	Degen_Gang_BOT_5_HAND_2.png
+BOT_5	Outfit	Degen_Gang_BOT_5_OUTFIT_1_Standard.png
+BOT_5	Outfit	Degen_Gang_BOT_5_OUTFIT_2_CASUAL.png
+BOT_5	Outfit	Degen_Gang_BOT_5_OUTFIT_3_FANCY.png
+BOT_5	Outfit	Degen_Gang_BOT_5_OUTFIT_4_BATTLE.png
+BST_1	Eyes	Degen_Gang_BST_1_0000_3Dglasses.png
+BST_1	Hat	Degen_Gang_BST_1_0001_Visor.png
+BST_1	Lower Face	Degen_Gang_BST_1_0002_UnicornSticker.png
+BST_1	Eyes	Degen_Gang_BST_1_0003_HeartGlasses.png
+BST_1	Eyes	Degen_Gang_BST_1_0004_Eyepatch.png
+BST_1	Eyes	Degen_Gang_BST_1_0005_ThirdEye.png
+BST_1	Lower Face	Degen_Gang_BST_1_0006_Tear.png
+BST_1	tattoo	Degen_Gang_BST_1_0007_Tattoo.png
+BST_1	Lower Face	Degen_Gang_BST_1_0008_Stitches.png
+BST_1	Lower Face	Degen_Gang_BST_1_0009_StarSticker.png
+BST_1	Lower Face	Degen_Gang_BST_1_0010_Piercings.png
+BST_1	Hat	Degen_Gang_BST_1_0011_PartyHat.png
+BST_1	Lower Face	Degen_Gang_BST_1_0012_MedMask.png
+BST_1	Hat	Degen_Gang_BST_1_0013_CowboyHat.png
+BST_1	Lower Face	Degen_Gang_BST_1_0014_Bubblegum-.png
+BST_1	Lower Face	Degen_Gang_BST_1_0015_Bandaid.png
+BST_1	Lower Face	Degen_Gang_BST_1_0016_Bandage.png
+BST_1	Eyes	Degen_Gang_BST_1_Anim_Eyes_SpiralGlasses
+BST_1	Whole Head	Degen_Gang_BST_1_Anim_HAT
+BST_1	Hat	Degen_Gang_BST_1_Anim_HAT_PropellerHAT
+BST_1	Hand_1	Degen_Gang_BST_1_HAND_1.png
+BST_1	Hand_2	Degen_Gang_BST_1_HAND_2.png
+BST_1	Hat	Degen_Gang_BST_1_HAT_1-.png
+BST_1	Outfit	Degen_Gang_BST_1_OUTFIT_1_Standard.png
+BST_1	Outfit	Degen_Gang_BST_1_OUTFIT_2_CASUAL.png
+BST_1	Outfit	Degen_Gang_BST_1_OUTFIT_3_FANCY.png
+BST_1	Outfit	Degen_Gang_BST_1_OUTFIT_4_BATTLE.png
+BST_2	Lower Face	Degen_Gang_BST_2_0001_UnicornSticker.png
+BST_2	Eyes	Degen_Gang_BST_2_0002_3Dglasses.png
+BST_2	Eyes	Degen_Gang_BST_2_0003_HeartGlasses.png
+BST_2	Eyes	Degen_Gang_BST_2_0004_Eyepatch.png
+BST_2	Lower Face	Degen_Gang_BST_2_0005_Bandage.png
+BST_2	Eyes	Degen_Gang_BST_2_0006_ThirdEye.png
+BST_2	Lower Face	Degen_Gang_BST_2_0007_Tear.png
+BST_2	tattoo	Degen_Gang_BST_2_0008_Tattoo.png
+BST_2	Lower Face	Degen_Gang_BST_2_0009_Stitches.png
+BST_2	Lower Face	Degen_Gang_BST_2_0010_StarSticker.png
+BST_2	Lower Face	Degen_Gang_BST_2_0011_Bubblegum-.png
+BST_2	Lower Face	Degen_Gang_BST_2_0012_Piercings.png
+BST_2	Hat	Degen_Gang_BST_2_0013_PartyHat.png
+BST_2	Lower Face	Degen_Gang_BST_2_0014_Bandaid.png
+BST_2	Lower Face	Degen_Gang_BST_2_0015_MedMask.png
+BST_2	Eyes	Degen_Gang_BST_2_Anim_Eyes_SpiralGlasses
+BST_2	Whole Head	Degen_Gang_BST_2_Anim_HAT
+BST_2	Hat	Degen_Gang_BST_2_Anim_HAT_PropellerHAT
+BST_2	Hand_1	Degen_Gang_BST_2_HAND_1.png
+BST_2	Hand_2	Degen_Gang_BST_2_HAND_2.png
+BST_2	Hat	Degen_Gang_BST_2_HAT_1-.png
+BST_2	Outfit	Degen_Gang_BST_2_OUTFIT_1_Standard.png
+BST_2	Outfit	Degen_Gang_BST_2_OUTFIT_2_CASUAL.png
+BST_2	Outfit	Degen_Gang_BST_2_OUTFIT_3_FANCY.png
+BST_2	Outfit	Degen_Gang_BST_2_OUTFIT_4_BATTLE.png
+BST_3	Outfit	Degen_Gang_BST_3_OUTFIT_3_FANCY.png
+BST_3	Outfit	Degen_Gang_BST_3_OUTFIT_3_BATTLE.png
+BST_3	Outfit	Degen_Gang_BST_3_OUTFIT_2_CASUAL.png
+BST_3	Outfit	Degen_Gang_BST_3_OUTFIT_1_Standard.png
+BST_3	Hat	Degen_Gang_BST_3_HAT_1-.png
+BST_3	Hand_2	Degen_Gang_BST_3_HAND_2.png
+BST_3	Hand_1	Degen_Gang_BST_3_HAND_1.png
+BST_3	Whole Head	Degen_Gang_BST_3_Anim_HAT
+BST_3	Hat	Degen_Gang_BST_3_Anim_HAT_PropellerHAT
+BST_3	Eyes	Degen_Gang_BST_3_0016_3Dglasses.png
+BST_3	Eyes	Degen_Gang_BST_3_Anim_Eyes_SpiralGlasses
+BST_3	Lower Face	Degen_Gang_BST_3_0015_Bandage.png
+BST_3	Lower Face	Degen_Gang_BST_3_0014_Bandaid.png
+BST_3	Eyes	Degen_Gang_BST_3_0013_Eyepatch.png
+BST_3	Lower Face	Degen_Gang_BST_3_0012_Piercings.png
+BST_3	Lower Face	Degen_Gang_BST_3_0011_Stitches.png
+BST_3	tattoo	Degen_Gang_BST_3_0010_Tattoo.png
+BST_3	Eyes	Degen_Gang_BST_3_0009_ThirdEye.png
+BST_3	Lower Face	Degen_Gang_BST_3_0008_Bubblegum-.png
+BST_3	Lower Face	Degen_Gang_BST_3_0007_MedMask.png
+BST_3	Lower Face	Degen_Gang_BST_3_0006_Tear.png
+BST_3	Lower Face	Degen_Gang_BST_3_0005_UnicornSticker.png
+BST_3	Lower Face	Degen_Gang_BST_3_0004_StarSticker.png
+BST_3	Eyes	Degen_Gang_BST_3_0003_HeartGlasses.png
+BST_3	Hat	Degen_Gang_BST_3_0002_Visor.png
+BST_3	Hat	Degen_Gang_BST_3_0001_CowboyHat.png
+BST_3	Hat	Degen_Gang_BST_3_0000_PartyHat.png
+BST_4	Hat	Degen_Gang_BST_4_0000_CowboyHat.png
+BST_4	Hat	Degen_Gang_BST_4_0001_PartyHat.png
+BST_4	Hat	Degen_Gang_BST_4_0002_Visor.png
+BST_4	Lower Face	Degen_Gang_BST_4_0003_UnicornSticker.png
+BST_4	Eyes	Degen_Gang_BST_4_0004_Eyepatch.png
+BST_4	Eyes	Degen_Gang_BST_4_0005_ThirdEye.png
+BST_4	Eyes	Degen_Gang_BST_4_0006_HeartGlasses.png
+BST_4	Lower Face	Degen_Gang_BST_4_0007_Tear.png
+BST_4	Lower Face	Degen_Gang_BST_4_0008_MedMask.png
+BST_4	Lower Face	Degen_Gang_BST_4_0009_Stitches.png
+BST_4	Lower Face	Degen_Gang_BST_4_0010_StarSticker.png
+BST_4	Lower Face	Degen_Gang_BST_4_0011_Bubblegum-.png
+BST_4	Lower Face	Degen_Gang_BST_4_0012_Piercings.png
+BST_4	Lower Face	Degen_Gang_BST_4_0013_Bandaid.png
+BST_4	Eyes	Degen_Gang_BST_4_0014_3Dglasses.png
+BST_4	Lower Face	Degen_Gang_BST_4_0015_Bandage.png
+BST_4	Eyes	Degen_Gang_BST_4_Anim_Eyes_SpiralGlasses
+BST_4	Whole Head	Degen_Gang_BST_4_Anim_HAT
+BST_4	Hat	Degen_Gang_BST_4_Anim_HAT_PropellerHAT
+BST_4	Hand_1	Degen_Gang_BST_4_HAND_1.png
+BST_4	Hand_2	Degen_Gang_BST_4_HAND_2.png
+BST_4	Hat	Degen_Gang_BST_4_HAT_1-.png
+BST_4	Outfit	Degen_Gang_BST_4_OUTFIT_1_Standard.png
+BST_4	Outfit	Degen_Gang_BST_4_OUTFIT_2_CASUAL.png
+BST_4	Outfit	Degen_Gang_BST_4_OUTFIT_3_FANCY.png
+BST_4	Outfit	Degen_Gang_BST_4_OUTFIT_4_BATTLE.png
+BST_5	Hat	Degen_Gang_BST_5_0000_CowboyHat.png
+BST_5	Hat	Degen_Gang_BST_5_0001_Visor.png
+BST_5	Hand_1	Degen_Gang_BST_5_0002_HAND_1.png
+BST_5	Hat	Degen_Gang_BST_5_0002_PartyHat.png
+BST_5	Eyes	Degen_Gang_BST_5_0003_HeartGlasses.png
+BST_5	Lower Face	Degen_Gang_BST_5_0004_UnicornSticker.png
+BST_5	Lower Face	Degen_Gang_BST_5_0005_Tear.png
+BST_5	Eyes	Degen_Gang_BST_5_0006_3Dglasses.png
+BST_5	Lower Face	Degen_Gang_BST_5_0007_Bandage.png
+BST_5	Eyes	Degen_Gang_BST_5_0008_ThirdEye.png
+BST_5	tattoo	Degen_Gang_BST_5_0009_Tattoo.png
+BST_5	Lower Face	Degen_Gang_BST_5_0010_Stitches.png
+BST_5	Lower Face	Degen_Gang_BST_5_0011_StarSticker.png
+BST_5	Eyes	Degen_Gang_BST_5_0012_Eyepatch.png
+BST_5	Lower Face	Degen_Gang_BST_5_0013_MedMask.png
+BST_5	Lower Face	Degen_Gang_BST_5_0014_Bubblegum-.png
+BST_5	Lower Face	Degen_Gang_BST_5_0015_Piercings.png
+BST_5	Lower Face	Degen_Gang_BST_5_0016_Bandaid.png
+BST_5	Eyes	Degen_Gang_BST_5_Anim_Eyes_SpiralGlasses
+BST_5	Whole Head	Degen_Gang_BST_5_Anim_HAT
+BST_5	Hat	Degen_Gang_BST_5_Anim_HAT_PropellerHAT
+BST_5	Hand_2	Degen_Gang_BST_5_HAND_2.png
+BST_5	Hat	Degen_Gang_BST_5_HAT_1-.png
+BST_5	Outfit	Degen_Gang_BST_5_OUTFIT_1_Standard.png
+BST_5	Outfit	Degen_Gang_BST_5_OUTFIT_2_CASUAL.png
+BST_5	Outfit	Degen_Gang_BST_5_OUTFIT_3_FANCY.png
+BST_5	Outfit	Degen_Gang_BST_5_OUTFIT_4_BATTLE.png
+CLN_1	Hat	Degen_Gang_CLN_1_0000_CowboyHat.png
+CLN_1	Lower Face	Degen_Gang_CLN_1_0001_UnicornSticker.png
+CLN_1	Hat	Degen_Gang_CLN_1_0002_Visor.png
+CLN_1	Lower Face	Degen_Gang_CLN_1_0003_Bandage.png
+CLN_1	Eyes	Degen_Gang_CLN_1_0004_ThirdEye.png
+CLN_1	Lower Face	Degen_Gang_CLN_1_0005_Stitches.png
+CLN_1	Lower Face	Degen_Gang_CLN_1_0005_Tear.png
+CLN_1	Lower Face	Degen_Gang_CLN_1_0006_StarSticker.png
+CLN_1	Eyes	Degen_Gang_CLN_1_0007_HeartGlasses.png
+CLN_1	Hat	Degen_Gang_CLN_1_0007_PartyHat.png
+CLN_1	Eyes	Degen_Gang_CLN_1_0008_HeartGlasses.png
+CLN_1	Lower Face	Degen_Gang_CLN_1_0008_Tear.png
+CLN_1	Eyes	Degen_Gang_CLN_1_0009_3Dglasses.png
+CLN_1	Eyes	Degen_Gang_CLN_1_0010_Eyepatch.png
+CLN_1	Lower Face	Degen_Gang_CLN_1_0011_MedMask.png
+CLN_1	Lower Face	Degen_Gang_CLN_1_0012_Bubblegum-.png
+CLN_1	Lower Face	Degen_Gang_CLN_1_0012_Stitches.png
+CLN_1	Lower Face	Degen_Gang_CLN_1_0013_Piercings.png
+CLN_1	Lower Face	Degen_Gang_CLN_1_0014_Bubblegum-.png
+CLN_1	Hat	Degen_Gang_CLN_1_0014_PartyHat.png
+CLN_1	Lower Face	Degen_Gang_CLN_1_0015_Bandaid.png
+CLN_1	Eyes	Degen_Gang_CLN_1_Anim_Eyes_SpiralGlasses
+CLN_1	Hand_2	Degen_Gang_CLN_1_Anim_HAND_2
+CLN_1	Hat	Degen_Gang_CLN_1_Anim_HAT_PropellerHAT
+CLN_1	Hand_1	Degen_Gang_CLN_1_HAND_1.png
+CLN_1	Hand_2	Degen_Gang_CLN_1_HAND_2.png
+CLN_1	Outfit	Degen_Gang_CLN_1_OUTFIT_1_Standard.png
+CLN_1	Outfit	Degen_Gang_CLN_1_OUTFIT_2_CASUAL.png
+CLN_1	Outfit	Degen_Gang_CLN_1_OUTFIT_3_FANCY.png
+CLN_1	Outfit	Degen_Gang_CLN_1_OUTFIT_4_BATTLE.png
+CLN_2	Hat	Degen_Gang_CLN_2_0000_CowboyHat.png
+CLN_2	Lower Face	Degen_Gang_CLN_2_0001_UnicornSticker.png
+CLN_2	Hat	Degen_Gang_CLN_2_0002_Visor.png
+CLN_2	Lower Face	Degen_Gang_CLN_2_0003_Bandage.png
+CLN_2	Eyes	Degen_Gang_CLN_2_0004_ThirdEye.png
+CLN_2	Lower Face	Degen_Gang_CLN_2_0005_Tear.png
+CLN_2	Lower Face	Degen_Gang_CLN_2_0006_StarSticker.png
+CLN_2	Hat	Degen_Gang_CLN_2_0007_PartyHat.png
+CLN_2	Eyes	Degen_Gang_CLN_2_0008_HeartGlasses.png
+CLN_2	Eyes	Degen_Gang_CLN_2_0009_3Dglasses.png
+CLN_2	Eyes	Degen_Gang_CLN_2_0010_Eyepatch.png
+CLN_2	Lower Face	Degen_Gang_CLN_2_0011_MedMask.png
+CLN_2	Lower Face	Degen_Gang_CLN_2_0012_Stitches.png
+CLN_2	Lower Face	Degen_Gang_CLN_2_0013_Piercings.png
+CLN_2	Lower Face	Degen_Gang_CLN_2_0014_Bubblegum-.png
+CLN_2	Lower Face	Degen_Gang_CLN_2_0015_Bandaid.png
+CLN_2	Eyes	Degen_Gang_CLN_2_Anim_Eyes_SpiralGlasses
+CLN_2	Hand_2	Degen_Gang_CLN_2_Anim_HAND_2
+CLN_2	Hat	Degen_Gang_CLN_2_Anim_HAT_PropellerHAT
+CLN_2	Hand_1	Degen_Gang_CLN_2_HAND_1.png
+CLN_2	Hand_2	Degen_Gang_CLN_2_HAND_2.png
+CLN_2	Outfit	Degen_Gang_CLN_2_OUTFIT_1_Standard..png
+CLN_2	Outfit	Degen_Gang_CLN_2_OUTFIT_2_CASUAL.png
+CLN_2	Outfit	Degen_Gang_CLN_2_OUTFIT_3_FANCY.png
+CLN_2	Outfit	Degen_Gang_CLN_2_OUTFIT_4_BATTLE.png
+CLN_3	Hat	Degen_Gang_CLN_3_0000_CowboyHat.png
+CLN_3	Hat	Degen_Gang_CLN_3_0001_Visor.png
+CLN_3	Hat	Degen_Gang_CLN_3_0002_PartyHat.png
+CLN_3	Lower Face	Degen_Gang_CLN_3_0003_Bandage.png
+CLN_3	Lower Face	Degen_Gang_CLN_3_0004_UnicornSticker.png
+CLN_3	Eyes	Degen_Gang_CLN_3_0005_HeartGlasses.png
+CLN_3	Eyes	Degen_Gang_CLN_3_0006_3Dglasses.png
+CLN_3	Lower Face	Degen_Gang_CLN_3_0007_Tear.png
+CLN_3	Eyes	Degen_Gang_CLN_3_0008_ThirdEye.png
+CLN_3	tattoo	Degen_Gang_CLN_3_0009_Tattoo.png
+CLN_3	Lower Face	Degen_Gang_CLN_3_0010_StarSticker.png
+CLN_3	Eyes	Degen_Gang_CLN_3_0011_Eyepatch.png
+CLN_3	Lower Face	Degen_Gang_CLN_3_0012_MedMask.png
+CLN_3	Lower Face	Degen_Gang_CLN_3_0013_Stitches.png
+CLN_3	Lower Face	Degen_Gang_CLN_3_0014_Bubblegum-.png
+CLN_3	Lower Face	Degen_Gang_CLN_3_0015_Piercings.png
+CLN_3	Lower Face	Degen_Gang_CLN_3_0016_Bandaid.png
+CLN_3	Eyes	Degen_Gang_CLN_3_Anim_Eyes_SpiralGlasses
+CLN_3	Hand_2	Degen_Gang_CLN_3_Anim_HAND_2
+CLN_3	Hat	Degen_Gang_CLN_3_Anim_HAT_PropellerHAT
+CLN_3	Hand_1	Degen_Gang_CLN_3_HAND_1.png
+CLN_3	Hand_2	Degen_Gang_CLN_3_HAND_2.png
+CLN_3	Outfit	Degen_Gang_CLN_3_OUTFIT_1_Standard.png
+CLN_3	Outfit	Degen_Gang_CLN_3_OUTFIT_2_CASUAL.png
+CLN_3	Outfit	Degen_Gang_CLN_3_OUTFIT_3_FANCY.png
+CLN_3	Outfit	Degen_Gang_CLN_3_OUTFIT_4_BATTLE.png
+CLN_4	Outfit	Degen_Gang_CLN_4_OUTFIT_4_BATTLE.png
+CLN_4	Outfit	Degen_Gang_CLN_4_OUTFIT_3_FANCY.png
+CLN_4	Outfit	Degen_Gang_CLN_4_OUTFIT_2_CASUAL.png
+CLN_4	Outfit	Degen_Gang_CLN_4_OUTFIT_1_Standard.png
+CLN_4	Hand_2	Degen_Gang_CLN_4_HAND_2.png
+CLN_4	Hand_1	Degen_Gang_CLN_4_HAND_1.png
+CLN_4	Hat	Degen_Gang_CLN_4_Anim_HAT_PropellerHAT
+CLN_4	Hand_2	Degen_Gang_CLN_4_Anim_HAND_2
+CLN_4	Eyes	Degen_Gang_CLN_4_Anim_Eyes_SpiralGlasses
+CLN_4	Lower Face	Degen_Gang_CLN_4_0014_Bandaid.png
+CLN_4	Eyes	Degen_Gang_CLN_4_0013_Eyepatch.png
+CLN_4	Lower Face	Degen_Gang_CLN_4_0012_Stitches.png
+CLN_4	Lower Face	Degen_Gang_CLN_4_0011_MedMask.png
+CLN_4	Hat	Degen_Gang_CLN_4_0010_PartyHat.png
+CLN_4	Lower Face	Degen_Gang_CLN_4_0008_Tear.png
+CLN_4	Lower Face	Degen_Gang_CLN_4_0009_Bubblegum-.png
+CLN_4	Eyes	Degen_Gang_CLN_4_0007_HeartGlasses.png
+CLN_4	Eyes	Degen_Gang_CLN_4_0006_ThirdEye.png
+CLN_4	Lower Face	Degen_Gang_CLN_4_0005_Bandage.png
+CLN_4	Eyes	Degen_Gang_CLN_4_0004_3Dglasses.png
+CLN_4	Hat	Degen_Gang_CLN_4_0003_Visor.png
+CLN_4	Lower Face	Degen_Gang_CLN_4_0002_StarSticker.png
+CLN_4	Lower Face	Degen_Gang_CLN_4_0001_UnicornSticker.png
+CLN_4	Hat	Degen_Gang_CLN_4_0000_CowboyHat.png
+CLN_5	Hat	Degen_Gang_CLN_5_0000_PartyHat.png
+CLN_5	Hat	Degen_Gang_CLN_5_0001_CowboyHat.png
+CLN_5	Eyes	Degen_Gang_CLN_5_0002_HeartGlasses.png
+CLN_5	Lower Face	Degen_Gang_CLN_5_0003_Bandage.png
+CLN_5	Hat	Degen_Gang_CLN_5_0004_Visor.png
+CLN_5	Eyes	Degen_Gang_CLN_5_0005_ThirdEye.png
+CLN_5	Lower Face	Degen_Gang_CLN_5_0006_StarSticker.png
+CLN_5	Lower Face	Degen_Gang_CLN_5_0007_UnicornSticker.png
+CLN_5	Lower Face	Degen_Gang_CLN_5_0008_Tear.png
+CLN_5	Eyes	Degen_Gang_CLN_5_0009_Eyepatch.png
+CLN_5	Lower Face	Degen_Gang_CLN_5_0010_MedMask.png
+CLN_5	tattoo	Degen_Gang_CLN_5_0011_Tattoo.png
+CLN_5	Lower Face	Degen_Gang_CLN_5_0012_Stitches.png
+CLN_5	Lower Face	Degen_Gang_CLN_5_0013_Piercings.png
+CLN_5	Lower Face	Degen_Gang_CLN_5_0014_Bubblegum-.png
+CLN_5	Lower Face	Degen_Gang_CLN_5_0015_Bandaid.png
+CLN_5	Eyes	Degen_Gang_CLN_5_0016_3Dglasses.png
+CLN_5	Eyes	Degen_Gang_CLN_5_Anim_Eyes_SpiralGlasses
+CLN_5	Hand_2	Degen_Gang_CLN_5_Anim_HAND_2
+CLN_5	Hat	Degen_Gang_CLN_5_Anim_HAT_PropellerHAT
+CLN_5	Hand_1	Degen_Gang_CLN_5_HAND_1.png
+CLN_5	Hand_2	Degen_Gang_CLN_5_HAND_2.png
+CLN_5	Outfit	Degen_Gang_CLN_5_OUTFIT_1_Standard.png
+CLN_5	Outfit	Degen_Gang_CLN_5_OUTFIT_2_CASUAL.png
+CLN_5	Outfit	Degen_Gang_CLN_5_OUTFIT_3_FANCY.png
+CLN_5	Outfit	Degen_Gang_CLN_5_OUTFIT_4_BATTLE.png
+CLT_1	Hat	Degen_Gang_CLT_1_0000_PartyHat.png
+CLT_1	Hat	Degen_Gang_CLT_1_0001_CowboyHat.png
+CLT_1	Eyes	Degen_Gang_CLT_1_0002_HeartGlasses.png
+CLT_1	Hat	Degen_Gang_CLT_1_0003_Visor.png
+CLT_1	Eyes	Degen_Gang_CLT_1_0004_3Dglasses.png
+CLT_1	Lower Face	Degen_Gang_CLT_1_0005_Bandage.png
+CLT_1	Eyes	Degen_Gang_CLT_1_0006_Eyepatch.png
+CLT_1	Eyes	Degen_Gang_CLT_1_0007_ThirdEye.png
+CLT_1	Lower Face	Degen_Gang_CLT_1_0008_StarSticker.png
+CLT_1	Lower Face	Degen_Gang_CLT_1_0009_UnicornSticker.png
+CLT_1	Lower Face	Degen_Gang_CLT_1_0010_Tear.png
+CLT_1	Lower Face	Degen_Gang_CLT_1_0011_MedMask.png
+CLT_1	Lower Face	Degen_Gang_CLT_1_0012_Stitches.png
+CLT_1	Lower Face	Degen_Gang_CLT_1_0013_Bubblegum-.png
+CLT_1	Lower Face	Degen_Gang_CLT_1_0014_Piercings.png
+CLT_1	Lower Face	Degen_Gang_CLT_1_0015_Bandaid.png
+CLT_1	Eyes	Degen_Gang_CLT_1_Anim_Eyes_SpiralGlasses
+CLT_1	BG Effect	Degen_Gang_CLT_1_Anim_HALO
+CLT_1	Hat	Degen_Gang_CLT_1_Anim_HAT_PropellerHAT
+CLT_1	Eyes	Degen_Gang_CLT_1_EYES_1-.png
+CLT_1	Hand_1	Degen_Gang_CLT_1_HAND_1.png
+CLT_1	Hand_2	Degen_Gang_CLT_1_HAND_2.png
+CLT_1	Outfit	Degen_Gang_CLT_1_OUTFIT_1_Standard.png
+CLT_1	Outfit	Degen_Gang_CLT_1_OUTFIT_2_CASUAL.png
+CLT_1	Outfit	Degen_Gang_CLT_1_OUTFIT_3_FANCY.png
+CLT_1	Outfit	Degen_Gang_CLT_1_OUTFIT_4_BATTLE.png
+CLT_2	Hat	Degen_Gang_CLT_2_0000_PartyHat.png
+CLT_2	Hat	Degen_Gang_CLT_2_0001_CowboyHat.png
+CLT_2	Eyes	Degen_Gang_CLT_2_0002_HeartGlasses.png
+CLT_2	Hat	Degen_Gang_CLT_2_0003_Visor.png
+CLT_2	Lower Face	Degen_Gang_CLT_2_0004_Bandage.png
+CLT_2	Eyes	Degen_Gang_CLT_2_0005_3Dglasses.png
+CLT_2	Eyes	Degen_Gang_CLT_2_0006_Eyepatch.png
+CLT_2	tattoo	Degen_Gang_CLT_2_0007_Tattoo.png
+CLT_2	Eyes	Degen_Gang_CLT_2_0008_ThirdEye.png
+CLT_2	Lower Face	Degen_Gang_CLT_2_0009_StarSticker.png
+CLT_2	Lower Face	Degen_Gang_CLT_2_0010_UnicornSticker.png
+CLT_2	Lower Face	Degen_Gang_CLT_2_0011_Tear.png
+CLT_2	Lower Face	Degen_Gang_CLT_2_0012_MedMask.png
+CLT_2	Lower Face	Degen_Gang_CLT_2_0013_Stitches.png
+CLT_2	Lower Face	Degen_Gang_CLT_2_0014_Bubblegum-.png
+CLT_2	Lower Face	Degen_Gang_CLT_2_0015_Piercings.png
+CLT_2	Lower Face	Degen_Gang_CLT_2_0016_Bandaid.png
+CLT_2	Eyes	Degen_Gang_CLT_2_Anim_Eyes_SpiralGlasses
+CLT_2	BG Effect	Degen_Gang_CLT_2_Anim_HALO
+CLT_2	Hat	Degen_Gang_CLT_2_Anim_HAT_PropellerHAT
+CLT_2	Eyes	Degen_Gang_CLT_2_EYES_1-.png
+CLT_2	Hand_1	Degen_Gang_CLT_2_HAND_1.png
+CLT_2	Hand_2	Degen_Gang_CLT_2_HAND_2.png
+CLT_2	Outfit	Degen_Gang_CLT_2_OUTFIT_1_Standard.png
+CLT_2	Outfit	Degen_Gang_CLT_2_OUTFIT_2_CASUAL.png
+CLT_2	Outfit	Degen_Gang_CLT_2_OUTFIT_3_FANCY.png
+CLT_2	Outfit	Degen_Gang_CLT_2_OUTFIT_4_BATTLE.png
+CLT_3	Hat	Degen_Gang_CLT_3_0000_PartyHat.png
+CLT_3	Hat	Degen_Gang_CLT_3_0001_CowboyHat.png
+CLT_3	Eyes	Degen_Gang_CLT_3_0002_HeartGlasses.png
+CLT_3	Eyes	Degen_Gang_CLT_3_0003_3Dglasses.png
+CLT_3	Hat	Degen_Gang_CLT_3_0004_Visor.png
+CLT_3	Lower Face	Degen_Gang_CLT_3_0005_Bandage.png
+CLT_3	Eyes	Degen_Gang_CLT_3_0006_Eyepatch.png
+CLT_3	Eyes	Degen_Gang_CLT_3_0007_ThirdEye.png
+CLT_3	Lower Face	Degen_Gang_CLT_3_0008_StarSticker.png
+CLT_3	Lower Face	Degen_Gang_CLT_3_0009_UnicornSticker.png
+CLT_3	Lower Face	Degen_Gang_CLT_3_0010_Tear.png
+CLT_3	Lower Face	Degen_Gang_CLT_3_0011_MedMask.png
+CLT_3	tattoo	Degen_Gang_CLT_3_0012_Tattoo.png
+CLT_3	Lower Face	Degen_Gang_CLT_3_0013_Stitches.png
+CLT_3	Lower Face	Degen_Gang_CLT_3_0014_Bubblegum-.png
+CLT_3	Lower Face	Degen_Gang_CLT_3_0015_Piercings.png
+CLT_3	Lower Face	Degen_Gang_CLT_3_0016_Bandaid.png
+CLT_3	Eyes	Degen_Gang_CLT_3_Anim_Eyes_SpiralGlasses
+CLT_3	BG Effect	Degen_Gang_CLT_3_Anim_HALO
+CLT_3	Hat	Degen_Gang_CLT_3_Anim_HAT_PropellerHAT
+CLT_3	Eyes	Degen_Gang_CLT_3_EYES_1-.png
+CLT_3	Hand_1	Degen_Gang_CLT_3_HAND_1.png
+CLT_3	Hand_2	Degen_Gang_CLT_3_HAND_2.png
+CLT_3	Outfit	Degen_Gang_CLT_3_OUTFIT_1_Standard.png
+CLT_3	Outfit	Degen_Gang_CLT_3_OUTFIT_2_CASUAL.png
+CLT_3	Outfit	Degen_Gang_CLT_3_OUTFIT_3_FANCY.png
+CLT_3	Outfit	Degen_Gang_CLT_3_OUTFIT_4_BATTLE.png
+CLT_4	Hat	Degen_Gang_CLT_4_0000_PartyHat.png
+CLT_4	Hat	Degen_Gang_CLT_4_0001_CowboyHat.png
+CLT_4	Hat	Degen_Gang_CLT_4_0002_Visor.png
+CLT_4	Lower Face	Degen_Gang_CLT_4_0003_Bandage.png
+CLT_4	Eyes	Degen_Gang_CLT_4_0004_HeartGlasses.png
+CLT_4	Eyes	Degen_Gang_CLT_4_0005_3Dglasses.png
+CLT_4	Eyes	Degen_Gang_CLT_4_0006_Eyepatch.png
+CLT_4	Eyes	Degen_Gang_CLT_4_0007_ThirdEye.png
+CLT_4	Lower Face	Degen_Gang_CLT_4_0008_StarSticker.png
+CLT_4	Lower Face	Degen_Gang_CLT_4_0009_UnicornSticker.png
+CLT_4	Lower Face	Degen_Gang_CLT_4_0010_Tear.png
+CLT_4	Lower Face	Degen_Gang_CLT_4_0011_MedMask.png
+CLT_4	tattoo	Degen_Gang_CLT_4_0012_Tattoo.png
+CLT_4	Lower Face	Degen_Gang_CLT_4_0013_Stitches.png
+CLT_4	Lower Face	Degen_Gang_CLT_4_0014_Bubblegum-.png
+CLT_4	Lower Face	Degen_Gang_CLT_4_0015_Piercings.png
+CLT_4	Lower Face	Degen_Gang_CLT_4_0016_Bandaid.png
+CLT_4	Eyes	Degen_Gang_CLT_4_Anim_Eyes_SpiralGlasses
+CLT_4	BG Effect	Degen_Gang_CLT_4_Anim_HALO
+CLT_4	Hat	Degen_Gang_CLT_4_Anim_HAT_PropellerHAT
+CLT_4	Eyes	Degen_Gang_CLT_4_EYES_1-.png
+CLT_4	Hand_1	Degen_Gang_CLT_4_HAND_1.png
+CLT_4	Hand_2	Degen_Gang_CLT_4_HAND_2.png
+CLT_4	Outfit	Degen_Gang_CLT_4_OUTFIT_1_Standard.png
+CLT_4	Outfit	Degen_Gang_CLT_4_OUTFIT_2_CASUAL.png
+CLT_4	Outfit	Degen_Gang_CLT_4_OUTFIT_3_FANCY.png
+CLT_4	Outfit	Degen_Gang_CLT_4_OUTFIT_4_BATTLE.png
+CLT_5	Hat	Degen_Gang_CLT_5_0000_PartyHat.png
+CLT_5	Hat	Degen_Gang_CLT_5_0001_CowboyHat.png
+CLT_5	Hat	Degen_Gang_CLT_5_0002_Visor.png
+CLT_5	Lower Face	Degen_Gang_CLT_5_0003_Bandage.png
+CLT_5	Eyes	Degen_Gang_CLT_5_0004_HeartGlasses.png
+CLT_5	Eyes	Degen_Gang_CLT_5_0005_3Dglasses.png
+CLT_5	Eyes	Degen_Gang_CLT_5_0006_Eyepatch.png
+CLT_5	Eyes	Degen_Gang_CLT_5_0007_ThirdEye.png
+CLT_5	Lower Face	Degen_Gang_CLT_5_0008_StarSticker.png
+CLT_5	Lower Face	Degen_Gang_CLT_5_0009_UnicornSticker.png
+CLT_5	Lower Face	Degen_Gang_CLT_5_0010_Tear.png
+CLT_5	Lower Face	Degen_Gang_CLT_5_0011_MedMask.png
+CLT_5	tattoo	Degen_Gang_CLT_5_0012_Tattoo.png
+CLT_5	Lower Face	Degen_Gang_CLT_5_0013_Stitches.png
+CLT_5	Lower Face	Degen_Gang_CLT_5_0014_Bubblegum-.png
+CLT_5	Lower Face	Degen_Gang_CLT_5_0015_Piercings.png
+CLT_5	Lower Face	Degen_Gang_CLT_5_0016_Bandaid.png
+CLT_5	Eyes	Degen_Gang_CLT_5_Anim_Eyes_SpiralGlasses
+CLT_5	BG Effect	Degen_Gang_CLT_5_Anim_HALO
+CLT_5	Hat	Degen_Gang_CLT_5_Anim_HAT_PropellerHAT
+CLT_5	Eyes	Degen_Gang_CLT_5_EYES_1-.png
+CLT_5	Hand_1	Degen_Gang_CLT_5_HAND_1.png
+CLT_5	Hand_2	Degen_Gang_CLT_5_HAND_2.png
+CLT_5	Outfit	Degen_Gang_CLT_5_OUTFIT_1_Standard.png
+CLT_5	Outfit	Degen_Gang_CLT_5_OUTFIT_2_CASUAL.png
+CLT_5	Outfit	Degen_Gang_CLT_5_OUTFIT_3_FANCY.png
+CLT_5	Outfit	Degen_Gang_CLT_5_OUTFIT_4_BATTLE.png
+COV_1	Hat	Degen_Gang_COV_1_0000_PartyHat.png
+COV_1	Hat	Degen_Gang_COV_1_0001_CowboyHat.png
+COV_1	Eyes	Degen_Gang_COV_1_0002_HeartGlasses.png
+COV_1	Hat	Degen_Gang_COV_1_0003_Visor.png
+COV_1	Lower Face	Degen_Gang_COV_1_0004_Bandage.png
+COV_1	Eyes	Degen_Gang_COV_1_0005_3Dglasses.png
+COV_1	Eyes	Degen_Gang_COV_1_0006_ThirdEye.png
+COV_1	Lower Face	Degen_Gang_COV_1_0007_StarSticker.png
+COV_1	Lower Face	Degen_Gang_COV_1_0008_UnicornSticker.png
+COV_1	Lower Face	Degen_Gang_COV_1_0009_Tear.png
+COV_1	Eyes	Degen_Gang_COV_1_0010_Eyepatch.png
+COV_1	Lower Face	Degen_Gang_COV_1_0011_MedMask.png
+COV_1	tattoo	Degen_Gang_COV_1_0012_Tattoo.png
+COV_1	Lower Face	Degen_Gang_COV_1_0013_Stitches.png
+COV_1	Lower Face	Degen_Gang_COV_1_0014_Bubblegum-.png
+COV_1	Lower Face	Degen_Gang_COV_1_0015_Piercings.png
+COV_1	Lower Face	Degen_Gang_COV_1_0016_Bandaid.png
+COV_1	Eyes	Degen_Gang_COV_1_Anim_Eyes_SpiralGlasses
+COV_1	Hat	Degen_Gang_COV_1_Anim_HAT_PropellerHAT
+COV_1	Hand_1	Degen_Gang_COV_1_Anim_WEAPON_1
+COV_1	Hand_1	Degen_Gang_COV_1_HAND_1.png
+COV_1	Hand_2	Degen_Gang_COV_1_HAND_2.png
+COV_1	Whole Head	Degen_Gang_COV_1_HAT_1-.png
+COV_1	Outfit	Degen_Gang_COV_1_OUTFIT_1_Standard.png
+COV_1	Outfit	Degen_Gang_COV_1_OUTFIT_2_CASUAL.png
+COV_1	Outfit	Degen_Gang_COV_1_OUTFIT_3_FANCY.png
+COV_1	Outfit	Degen_Gang_COV_1_OUTFIT_4_BATTLE.png
+COV_2	Outfit	Degen_Gang_COV_2_OUTFIT_4_BATTLE.png
+COV_2	Outfit	Degen_Gang_COV_2_OUTFIT_3_FANCY.png
+COV_2	Outfit	Degen_Gang_COV_2_OUTFIT_2_CASUAL.png
+COV_2	Outfit	Degen_Gang_COV_2_OUTFIT_1_Standard.png
+COV_2	Whole Head	Degen_Gang_COV_2_HAT_1-.png
+COV_2	Hand_2	Degen_Gang_COV_2_HAND_2.png
+COV_2	Hand_1	Degen_Gang_COV_2_HAND_1.png
+COV_2	Lower Face	Degen_Gang_COV_2_0016_Bandaid.png
+COV_2	Lower Face	Degen_Gang_COV_2_0014_Bubblegum-.png
+COV_2	Lower Face	Degen_Gang_COV_2_0015_Piercings.png
+COV_2	Lower Face	Degen_Gang_COV_2_0013_Stitches.png
+COV_2	tattoo	Degen_Gang_COV_2_0012_Tattoo.png
+COV_2	Eyes	Degen_Gang_COV_2_0010_Eyepatch.png
+COV_2	Lower Face	Degen_Gang_COV_2_0011_MedMask.png
+COV_2	Lower Face	Degen_Gang_COV_2_0009_Tear.png
+COV_2	Lower Face	Degen_Gang_COV_2_0008_UnicornSticker.png
+COV_2	Eyes	Degen_Gang_COV_2_0006_ThirdEye.png
+COV_2	Lower Face	Degen_Gang_COV_2_0007_StarSticker.png
+COV_2	Lower Face	Degen_Gang_COV_2_0005_Bandage.png
+COV_2	Eyes	Degen_Gang_COV_2_0004_3Dglasses.png
+COV_2	Eyes	Degen_Gang_COV_2_0003_HeartGlasses.png
+COV_2	Hat	Degen_Gang_COV_2_0002_Visor.png
+COV_2	Hat	Degen_Gang_COV_2_0000_PartyHat.png
+COV_2	Hat	Degen_Gang_COV_2_0001_CowboyHat.png
+COV_2	Hand_1	Degen_Gang_COV_2__Anim_WEAPON_1
+COV_2	Hat	Degen_Gang_COV_2__Anim_HAT_PropellerHAT
+COV_2	Eyes	Degen_Gang_COV_2__Anim_Eyes_SpiralGlasses
+COV_3	Hat	Degen_Gang_COV_3_0000_PartyHat.png
+COV_3	Hat	Degen_Gang_COV_3_0001_CowboyHat.png
+COV_3	Hat	Degen_Gang_COV_3_0002_Visor.png
+COV_3	Lower Face	Degen_Gang_COV_3_0003_Bandage.png
+COV_3	Eyes	Degen_Gang_COV_3_0004_HeartGlasses.png
+COV_3	Eyes	Degen_Gang_COV_3_0005_3Dglasses.png
+COV_3	Eyes	Degen_Gang_COV_3_0006_ThirdEye.png
+COV_3	Lower Face	Degen_Gang_COV_3_0007_StarSticker.png
+COV_3	Lower Face	Degen_Gang_COV_3_0008_UnicornSticker.png
+COV_3	Lower Face	Degen_Gang_COV_3_0009_Tear.png
+COV_3	Eyes	Degen_Gang_COV_3_0010_Eyepatch.png
+COV_3	tattoo	Degen_Gang_COV_3_0012_Tattoo.png
+COV_3	Lower Face	Degen_Gang_COV_3_0013_Stitches.png
+COV_3	Lower Face	Degen_Gang_COV_3_0014_Bubblegum-.png
+COV_3	Lower Face	Degen_Gang_COV_3_0015_Piercings.png
+COV_3	Lower Face	Degen_Gang_COV_3_0016_Bandaid.png
+COV_3	Eyes	Degen_Gang_COV_3_Anim_Eyes_SpiralGlasses
+COV_3	Hat	Degen_Gang_COV_3_Anim_HAT_PropellerHAT
+COV_3	Hand_1	Degen_Gang_COV_3_Anim_WEAPON_1
+COV_3	Hand_1	Degen_Gang_COV_3_HAND_1.png
+COV_3	Hand_2	Degen_Gang_COV_3_HAND_2.png
+COV_3	Whole Head	Degen_Gang_COV_3_HAT_1-.png
+COV_3	Outfit	Degen_Gang_COV_3_OUTFIT_1_Standard.png
+COV_3	Outfit	Degen_Gang_COV_3_OUTFIT_2_CASUAL.png
+COV_3	Outfit	Degen_Gang_COV_3_OUTFIT_3_FANCY.png
+COV_3	Outfit	Degen_Gang_COV_3_OUTFIT_4_BATTLE.png
+COV_4	Hat	Degen_Gang_COV_4_0000_PartyHat.png
+COV_4	Hat	Degen_Gang_COV_4_0001_CowboyHat.png
+COV_4	Eyes	Degen_Gang_COV_4_0002_HeartGlasses.png
+COV_4	Eyes	Degen_Gang_COV_4_0003_3Dglasses.png
+COV_4	Hat	Degen_Gang_COV_4_0004_Visor.png
+COV_4	Lower Face	Degen_Gang_COV_4_0005_Bandage.png
+COV_4	Eyes	Degen_Gang_COV_4_0006_ThirdEye.png
+COV_4	Lower Face	Degen_Gang_COV_4_0007_StarSticker.png
+COV_4	Lower Face	Degen_Gang_COV_4_0008_UnicornSticker.png
+COV_4	Lower Face	Degen_Gang_COV_4_0009_Tear.png
+COV_4	Eyes	Degen_Gang_COV_4_0010_Eyepatch.png
+COV_4	Lower Face	Degen_Gang_COV_4_0011_MedMask.png
+COV_4	tattoo	Degen_Gang_COV_4_0012_Tattoo.png
+COV_4	Lower Face	Degen_Gang_COV_4_0013_Stitches.png
+COV_4	Lower Face	Degen_Gang_COV_4_0014_Bubblegum-.png
+COV_4	Lower Face	Degen_Gang_COV_4_0015_Piercings.png
+COV_4	Lower Face	Degen_Gang_COV_4_0016_Bandaid.png
+COV_4	Eyes	Degen_Gang_COV_4_Anim_Eyes_SpiralGlasses
+COV_4	Hat	Degen_Gang_COV_4_Anim_HAT_PropellerHAT
+COV_4	Hand_1	Degen_Gang_COV_4_Anim_WEAPON_1
+COV_4	Hand_1	Degen_Gang_COV_4_HAND_1.png
+COV_4	Hand_2	Degen_Gang_COV_4_HAND_2.png
+COV_4	Whole Head	Degen_Gang_COV_4_HAT_1-.png
+COV_4	Outfit	Degen_Gang_COV_4_OUTFIT_1_Standard.png
+COV_4	Outfit	Degen_Gang_COV_4_OUTFIT_2_CASUAL.png
+COV_4	Outfit	Degen_Gang_COV_4_OUTFIT_3_FANCY.png
+COV_4	Outfit	Degen_Gang_COV_4_OUTFIT_4_BATTLE.png
+COV_5	Hat	Degen_Gang_COV_5_0000_PartyHat.png
+COV_5	Hat	Degen_Gang_COV_5_0001_CowboyHat.png
+COV_5	Eyes	Degen_Gang_COV_5_0002_HeartGlasses.png
+COV_5	Eyes	Degen_Gang_COV_5_0003_3Dglasses.png
+COV_5	Hat	Degen_Gang_COV_5_0004_Visor.png
+COV_5	Lower Face	Degen_Gang_COV_5_0005_Bandage.png
+COV_5	Eyes	Degen_Gang_COV_5_0006_ThirdEye.png
+COV_5	Lower Face	Degen_Gang_COV_5_0007_StarSticker.png
+COV_5	Lower Face	Degen_Gang_COV_5_0008_UnicornSticker.png
+COV_5	Lower Face	Degen_Gang_COV_5_0009_Tear.png
+COV_5	Eyes	Degen_Gang_COV_5_0010_Eyepatch.png
+COV_5	Lower Face	Degen_Gang_COV_5_0011_MedMask.png
+COV_5	tattoo	Degen_Gang_COV_5_0012_Tattoo.png
+COV_5	Lower Face	Degen_Gang_COV_5_0013_Bubblegum-.png
+COV_5	Lower Face	Degen_Gang_COV_5_0014_Stitches.png
+COV_5	Lower Face	Degen_Gang_COV_5_0015_Piercings.png
+COV_5	Lower Face	Degen_Gang_COV_5_0016_Bandaid.png
+COV_5	Eyes	Degen_Gang_COV_5_Anim_Eyes_SpiralGlasses
+COV_5	Hat	Degen_Gang_COV_5_Anim_HAT_PropellerHAT
+COV_5	Hand_1	Degen_Gang_COV_5_Anim_Weapon_1
+COV_5	Hand_1	Degen_Gang_COV_5_HAND_1.png
+COV_5	Hand_2	Degen_Gang_COV_5_HAND_2.png
+COV_5	Whole Head	Degen_Gang_COV_5_HAT_1-.png
+COV_5	Outfit	Degen_Gang_COV_5_OUTFIT_1_Standard.png
+COV_5	Outfit	Degen_Gang_COV_5_OUTFIT_2_CASUAL.png
+COV_5	Outfit	Degen_Gang_COV_5_OUTFIT_3_FANCY.png
+COV_5	Outfit	Degen_Gang_COV_5_OUTFIT_4_BATTLE.png
+DMN_1	Hat	Degen_Gang_DMN_1_0000_PartyHat.png
+DMN_1	Hat	Degen_Gang_DMN_1_0001_CowboyHat.png
+DMN_1	Hat	Degen_Gang_DMN_1_0002_Visor.png
+DMN_1	Eyes	Degen_Gang_DMN_1_0003_3Dglasses.png
+DMN_1	Lower Face	Degen_Gang_DMN_1_0004_Bandage.png
+DMN_1	Eyes	Degen_Gang_DMN_1_0005_HeartGlasses.png
+DMN_1	Eyes	Degen_Gang_DMN_1_0006_ThirdEye.png
+DMN_1	Lower Face	Degen_Gang_DMN_1_0007_StarSticker.png
+DMN_1	Lower Face	Degen_Gang_DMN_1_0008_UnicornSticker.png
+DMN_1	Lower Face	Degen_Gang_DMN_1_0009_Tear.png
+DMN_1	Eyes	Degen_Gang_DMN_1_0010_Eyepatch.png
+DMN_1	Lower Face	Degen_Gang_DMN_1_0011_MedMask.png
+DMN_1	tattoo	Degen_Gang_DMN_1_0012_Tattoo.png
+DMN_1	Lower Face	Degen_Gang_DMN_1_0013_Stitches.png
+DMN_1	Lower Face	Degen_Gang_DMN_1_0014_Bubblegum-.png
+DMN_1	Lower Face	Degen_Gang_DMN_1_0015_Piercings.png
+DMN_1	Lower Face	Degen_Gang_DMN_1_0016_Bandaid.png
+DMN_1	Eyes	Degen_Gang_DMN_1_Anim_Eyes_SpiralGlasses
+DMN_1	BG Effect	Degen_Gang_DMN_1_Anim_FireBack
+DMN_1	Hat	Degen_Gang_DMN_1_Anim_HAT_PropellerHAT
+DMN_1	Hand_1	Degen_Gang_DMN_1_HAND_1.png
+DMN_1	Hand_2	Degen_Gang_DMN_1_HAND_2.png
+DMN_1	Hat	Degen_Gang_DMN_1_HORNS_1.png
+DMN_1	Outfit	Degen_Gang_DMN_1_OUTFIT_1_Standard.png
+DMN_1	Outfit	Degen_Gang_DMN_1_OUTFIT_2_CASUAL.png
+DMN_1	Outfit	Degen_Gang_DMN_1_OUTFIT_3_FANCY.png
+DMN_1	Outfit	Degen_Gang_DMN_1_OUTFIT_4_BATTLE.png
+DMN_2	tattoo	Degen_Gang_DMN_2_0012_Tattoo.png
+DMN_2	Hat	Degen_Gang_DMN_2_0000_PartyHat.png
+DMN_2	Hat	Degen_Gang_DMN_2_0001_CowboyHat.png
+DMN_2	Eyes	Degen_Gang_DMN_2_0002_3Dglasses.png
+DMN_2	Eyes	Degen_Gang_DMN_2_0003_HeartGlasses.png
+DMN_2	Hat	Degen_Gang_DMN_2_0004_Visor.png
+DMN_2	Lower Face	Degen_Gang_DMN_2_0005_Bandage.png
+DMN_2	Eyes	Degen_Gang_DMN_2_0006_ThirdEye.png
+DMN_2	Lower Face	Degen_Gang_DMN_2_0007_StarSticker.png
+DMN_2	Lower Face	Degen_Gang_DMN_2_0008_UnicornSticker.png
+DMN_2	Lower Face	Degen_Gang_DMN_2_0009_Tear.png
+DMN_2	Eyes	Degen_Gang_DMN_2_0010_Eyepatch.png
+DMN_2	Lower Face	Degen_Gang_DMN_2_0011_MedMask.png
+DMN_2	Lower Face	Degen_Gang_DMN_2_0013_Bubblegum-.png
+DMN_2	Lower Face	Degen_Gang_DMN_2_0014_Stitches.png
+DMN_2	Lower Face	Degen_Gang_DMN_2_0015_Piercings.png
+DMN_2	Lower Face	Degen_Gang_DMN_2_0016_Bandaid.png
+DMN_2	Eyes	Degen_Gang_DMN_2_Anim_Eyes_SpiralGlasses
+DMN_2	BG Effect	Degen_Gang_DMN_2_Anim_FireBack
+DMN_2	Hat	Degen_Gang_DMN_2_Anim_HAT_PropellerHAT
+DMN_2	Hand_1	Degen_Gang_DMN_2_HAND_1.png
+DMN_2	Hand_2	Degen_Gang_DMN_2_HAND_2.png
+DMN_2	Hat	Degen_Gang_DMN_2_HORNS_1.png
+DMN_2	Outfit	Degen_Gang_DMN_2_OUTFIT_1_Standard.png
+DMN_2	Outfit	Degen_Gang_DMN_2_OUTFIT_2_CASUAL.png
+DMN_2	Outfit	Degen_Gang_DMN_2_OUTFIT_3_FANCY.png
+DMN_2	Outfit	Degen_Gang_DMN_2_OUTFIT_4_BATTLE.png
+DMN_3	Hat	Degen_Gang_DMN_3_0000_PartyHat.png
+DMN_3	Hat	Degen_Gang_DMN_3_0001_CowboyHat.png
+DMN_3	Eyes	Degen_Gang_DMN_3_0002_3Dglasses.png
+DMN_3	Eyes	Degen_Gang_DMN_3_0003_HeartGlasses.png
+DMN_3	Hat	Degen_Gang_DMN_3_0004_Visor.png
+DMN_3	Lower Face	Degen_Gang_DMN_3_0005_Bandage.png
+DMN_3	Eyes	Degen_Gang_DMN_3_0006_ThirdEye.png
+DMN_3	Lower Face	Degen_Gang_DMN_3_0007_StarSticker.png
+DMN_3	Lower Face	Degen_Gang_DMN_3_0008_UnicornSticker.png
+DMN_3	Lower Face	Degen_Gang_DMN_3_0009_Tear.png
+DMN_3	Eyes	Degen_Gang_DMN_3_0010_Eyepatch.png
+DMN_3	Lower Face	Degen_Gang_DMN_3_0011_MedMask.png
+DMN_3	tattoo	Degen_Gang_DMN_3_0012_Tattoo.png
+DMN_3	Lower Face	Degen_Gang_DMN_3_0013_Stitches.png
+DMN_3	Lower Face	Degen_Gang_DMN_3_0014_Bubblegum-.png
+DMN_3	Lower Face	Degen_Gang_DMN_3_0015_Piercings.png
+DMN_3	Lower Face	Degen_Gang_DMN_3_0016_Bandaid.png
+DMN_3	Eyes	Degen_Gang_DMN_3_Anim_Eyes_SpiralGlasses
+DMN_3	BG Effect	Degen_Gang_DMN_3_Anim_FireBack
+DMN_3	Hat	Degen_Gang_DMN_3_Anim_HAT_PropellerHAT
+DMN_3	Hand_1	Degen_Gang_DMN_3_HAND_1.png
+DMN_3	Hand_2	Degen_Gang_DMN_3_HAND_2.png
+DMN_3	Hat	Degen_Gang_DMN_3_HORNS_1.png
+DMN_3	Outfit	Degen_Gang_DMN_3_OUTFIT_1_Standard.png
+DMN_3	Outfit	Degen_Gang_DMN_3_OUTFIT_2_CASUAL.png
+DMN_3	Outfit	Degen_Gang_DMN_3_OUTFIT_3_FANCY.png
+DMN_3	Outfit	Degen_Gang_DMN_3_OUTFIT_4_BATTLE.png
+DMN_4	tattoo	Degen_Gang_DMN_4_0012_Tattoo.png
+DMN_4	Hat	Degen_Gang_DMN_4_0000_PartyHat.png
+DMN_4	Hat	Degen_Gang_DMN_4_0001_CowboyHat.png
+DMN_4	Eyes	Degen_Gang_DMN_4_0002_3Dglasses.png
+DMN_4	Eyes	Degen_Gang_DMN_4_0003_HeartGlasses.png
+DMN_4	Hat	Degen_Gang_DMN_4_0004_Visor.png
+DMN_4	Lower Face	Degen_Gang_DMN_4_0005_Bandage.png
+DMN_4	Eyes	Degen_Gang_DMN_4_0006_ThirdEye.png
+DMN_4	Lower Face	Degen_Gang_DMN_4_0007_StarSticker.png
+DMN_4	Lower Face	Degen_Gang_DMN_4_0008_UnicornSticker.png
+DMN_4	Lower Face	Degen_Gang_DMN_4_0009_Tear.png
+DMN_4	Eyes	Degen_Gang_DMN_4_0010_Eyepatch.png
+DMN_4	Lower Face	Degen_Gang_DMN_4_0011_MedMask.png
+DMN_4	Lower Face	Degen_Gang_DMN_4_0013_Stitches.png
+DMN_4	Lower Face	Degen_Gang_DMN_4_0014_Bubblegum-.png
+DMN_4	Lower Face	Degen_Gang_DMN_4_0015_Piercings.png
+DMN_4	Lower Face	Degen_Gang_DMN_4_0016_Bandaid.png
+DMN_4	Eyes	Degen_Gang_DMN_4_Anim_Eyes_SpiralGlasses
+DMN_4	BG Effect	Degen_Gang_DMN_4_Anim_FireBack
+DMN_4	Hat	Degen_Gang_DMN_4_Anim_HAT_PropellerHAT
+DMN_4	Hand_1	Degen_Gang_DMN_4_HAND_1.png
+DMN_4	Hand_2	Degen_Gang_DMN_4_HAND_2.png
+DMN_4	Hat	Degen_Gang_DMN_4_HORNS_1.png
+DMN_4	Outfit	Degen_Gang_DMN_4_OUTFIT_1_Standard.png
+DMN_4	Outfit	Degen_Gang_DMN_4_OUTFIT_2_CASUAL.png
+DMN_4	Outfit	Degen_Gang_DMN_4_OUTFIT_3_FANCY.png
+DMN_4	Outfit	Degen_Gang_DMN_4_OUTFIT_4_BATTLE.png
+DMN_5	Hat	Degen_Gang_DMN_5_0000_PartyHat.png
+DMN_5	Hat	Degen_Gang_DMN_5_0001_CowboyHat.png
+DMN_5	Eyes	Degen_Gang_DMN_5_0002_HeartGlasses.png
+DMN_5	Hat	Degen_Gang_DMN_5_0003_Visor.png
+DMN_5	Eyes	Degen_Gang_DMN_5_0004_3Dglasses.png
+DMN_5	Lower Face	Degen_Gang_DMN_5_0005_Bandage.png
+DMN_5	Eyes	Degen_Gang_DMN_5_0006_ThirdEye.png
+DMN_5	Lower Face	Degen_Gang_DMN_5_0007_StarSticker.png
+DMN_5	Lower Face	Degen_Gang_DMN_5_0008_UnicornSticker.png
+DMN_5	Lower Face	Degen_Gang_DMN_5_0009_Tear.png
+DMN_5	Eyes	Degen_Gang_DMN_5_0010_Eyepatch.png
+DMN_5	Lower Face	Degen_Gang_DMN_5_0011_MedMask.png
+DMN_5	tattoo	Degen_Gang_DMN_5_0012_Tattoo.png
+DMN_5	Lower Face	Degen_Gang_DMN_5_0013_Stitches.png
+DMN_5	Lower Face	Degen_Gang_DMN_5_0014_Bubblegum-.png
+DMN_5	Lower Face	Degen_Gang_DMN_5_0015_Piercings.png
+DMN_5	Lower Face	Degen_Gang_DMN_5_0016_Bandaid.png
+DMN_5	Eyes	Degen_Gang_DMN_5_Anim_Eyes_SpiralGlasses
+DMN_5	BG Effect	Degen_Gang_DMN_5_Anim_FireBack
+DMN_5	Hat	Degen_Gang_DMN_5_Anim_HAT_PropellerHAT
+DMN_5	Hand_1	Degen_Gang_DMN_5_HAND_1.png
+DMN_5	Hand_2	Degen_Gang_DMN_5_HAND_2.png
+DMN_5	Hat	Degen_Gang_DMN_5_HORNS_1.png
+DMN_5	Outfit	Degen_Gang_DMN_5_OUTFIT_1_Standard.png
+DMN_5	Outfit	Degen_Gang_DMN_5_OUTFIT_2_CASUAL.png
+DMN_5	Outfit	Degen_Gang_DMN_5_OUTFIT_3_FANCY.png
+DMN_5	Outfit	Degen_Gang_DMN_5_OUTFIT_4_BATTLE.png
+HOD_1	Outfit	Degen_Gang_HOD_1_OUTFIT_4_BATTLE.png
+HOD_1	Hat	Degen_Gang_HOD_1_0000_PartyHat.png
+HOD_1	Hat	Degen_Gang_HOD_1_0001_CowboyHat.png
+HOD_1	Eyes	Degen_Gang_HOD_1_0002_HeartGlasses.png
+HOD_1	Hat	Degen_Gang_HOD_1_0003_Visor.png
+HOD_1	Eyes	Degen_Gang_HOD_1_0004_3Dglasses.png
+HOD_1	Lower Face	Degen_Gang_HOD_1_0005_Bandage.png
+HOD_1	Lower Face	Degen_Gang_HOD_1_0006_StarSticker.png
+HOD_1	Lower Face	Degen_Gang_HOD_1_0007_UnicornSticker.png
+HOD_1	Lower Face	Degen_Gang_HOD_1_0008_Tear.png
+HOD_1	Eyes	Degen_Gang_HOD_1_0009_Eyepatch.png
+HOD_1	Lower Face	Degen_Gang_HOD_1_0010_MedMask.png
+HOD_1	tattoo	Degen_Gang_HOD_1_0011_Tattoo.png
+HOD_1	Lower Face	Degen_Gang_HOD_1_0012_Stitches.png
+HOD_1	Lower Face	Degen_Gang_HOD_1_0013_Bubblegum-.png
+HOD_1	Lower Face	Degen_Gang_HOD_1_0014_Piercings.png
+HOD_1	Lower Face	Degen_Gang_HOD_1_0015_Bandaid.png
+HOD_1	Eyes	Degen_Gang_HOD_1_Anim_EYES
+HOD_1	Eyes	Degen_Gang_HOD_1_Anim_Eyes_SpiralGlasses
+HOD_1	Hat	Degen_Gang_HOD_1_Anim_HAT_PropellerHAT
+HOD_1	Eyes	Degen_Gang_HOD_1_EYES_1-.png
+HOD_1	Hand_1	Degen_Gang_HOD_1_HAND_1.png
+HOD_1	Hand_2	Degen_Gang_HOD_1_HAND_2.png
+HOD_1	Outfit	Degen_Gang_HOD_1_OUTFIT_1_Standard.png
+HOD_1	Outfit	Degen_Gang_HOD_1_OUTFIT_2_CASUAL.png
+HOD_1	Outfit	Degen_Gang_HOD_1_OUTFIT_3_FANCY.png
+HOD_2	Lower Face	Degen_Gang_HOD_2_0005_Bandage.png
+HOD_2	Hat	Degen_Gang_HOD_2_0000_PartyHat.png
+HOD_2	Hat	Degen_Gang_HOD_2_0001_CowboyHat.png
+HOD_2	Eyes	Degen_Gang_HOD_2_0002_3Dglasses.png
+HOD_2	Eyes	Degen_Gang_HOD_2_0003_HeartGlasses.png
+HOD_2	Hat	Degen_Gang_HOD_2_0004_Visor.png
+HOD_2	Eyes	Degen_Gang_HOD_2_0006_ThirdEye.png
+HOD_2	Lower Face	Degen_Gang_HOD_2_0007_StarSticker.png
+HOD_2	Lower Face	Degen_Gang_HOD_2_0008_UnicornSticker.png
+HOD_2	Lower Face	Degen_Gang_HOD_2_0009_Tear.png
+HOD_2	Eyes	Degen_Gang_HOD_2_0010_Eyepatch.png
+HOD_2	Lower Face	Degen_Gang_HOD_2_0011_MedMask.png
+HOD_2	tattoo	Degen_Gang_HOD_2_0012_Tattoo.png
+HOD_2	Lower Face	Degen_Gang_HOD_2_0013_Stitches.png
+HOD_2	Lower Face	Degen_Gang_HOD_2_0014_Bubblegum-.png
+HOD_2	Lower Face	Degen_Gang_HOD_2_0015_Piercings.png
+HOD_2	Lower Face	Degen_Gang_HOD_2_0016_Bandaid.png
+HOD_2	Eyes	Degen_Gang_HOD_2_Anim_EYES
+HOD_2	Eyes	Degen_Gang_HOD_2_Anim_Eyes_SpiralGlasses
+HOD_2	Hat	Degen_Gang_HOD_2_Anim_HAT_PropellerHAT
+HOD_2	Eyes	Degen_Gang_HOD_2_EYES_1-.png
+HOD_2	Hand_1	Degen_Gang_HOD_2_HAND_1.png
+HOD_2	Hand_2	Degen_Gang_HOD_2_HAND_2.png
+HOD_2	Outfit	Degen_Gang_HOD_2_OUTFIT_1_Standard.png
+HOD_2	Outfit	Degen_Gang_HOD_2_OUTFIT_2_CASUAL.png
+HOD_2	Outfit	Degen_Gang_HOD_2_OUTFIT_3_FANCY.png
+HOD_2	Outfit	Degen_Gang_HOD_2_OUTFIT_4_BATTLE.png
+HOD_3	Hat	Degen_Gang_HOD_3_0000_PartyHat.png
+HOD_3	Hat	Degen_Gang_HOD_3_0001_CowboyHat.png
+HOD_3	Eyes	Degen_Gang_HOD_3_0002_HeartGlasses.png
+HOD_3	Hat	Degen_Gang_HOD_3_0003_Visor.png
+HOD_3	Eyes	Degen_Gang_HOD_3_0004_3Dglasses.png
+HOD_3	Lower Face	Degen_Gang_HOD_3_0005_Bandage.png
+HOD_3	Eyes	Degen_Gang_HOD_3_0006_ThirdEye.png
+HOD_3	Lower Face	Degen_Gang_HOD_3_0007_StarSticker.png
+HOD_3	Lower Face	Degen_Gang_HOD_3_0008_UnicornSticker.png
+HOD_3	Lower Face	Degen_Gang_HOD_3_0009_Tear.png
+HOD_3	Eyes	Degen_Gang_HOD_3_0010_Eyepatch.png
+HOD_3	Lower Face	Degen_Gang_HOD_3_0011_MedMask.png
+HOD_3	tattoo	Degen_Gang_HOD_3_0012_Tattoo.png
+HOD_3	Lower Face	Degen_Gang_HOD_3_0013_Stitches.png
+HOD_3	Lower Face	Degen_Gang_HOD_3_0014_Bubblegum-.png
+HOD_3	Lower Face	Degen_Gang_HOD_3_0015_Piercings.png
+HOD_3	Lower Face	Degen_Gang_HOD_3_0016_Bandaid.png
+HOD_3	Eyes	Degen_Gang_HOD_3_Anim_EYES
+HOD_3	Eyes	Degen_Gang_HOD_3_Anim_Eyes_SpiralGlasses
+HOD_3	Hat	Degen_Gang_HOD_3_Anim_HAT_PropellerHAT
+HOD_3	Eyes	Degen_Gang_HOD_3_EYES_1-.png
+HOD_3	Hand_1	Degen_Gang_HOD_3_HAND_1.png
+HOD_3	Hand_2	Degen_Gang_HOD_3_HAND_2.png
+HOD_3	Outfit	Degen_Gang_HOD_3_OUTFIT_1_Standard.png
+HOD_3	Outfit	Degen_Gang_HOD_3_OUTFIT_2_CASUAL.png
+HOD_3	Outfit	Degen_Gang_HOD_3_OUTFIT_3_FANCY.png
+HOD_3	Outfit	Degen_Gang_HOD_3_OUTFIT_4_BATTLE.png
+HOD_4	Eyes	Degen_Gang_HOD_4_0004_3Dglasses.png
+HOD_4	Hat	Degen_Gang_HOD_4_0000_PartyHat.png
+HOD_4	Hat	Degen_Gang_HOD_4_0001_CowboyHat.png
+HOD_4	Eyes	Degen_Gang_HOD_4_0002_HeartGlasses.png
+HOD_4	Hat	Degen_Gang_HOD_4_0003_Visor.png
+HOD_4	Lower Face	Degen_Gang_HOD_4_0005_Bandage.png
+HOD_4	Eyes	Degen_Gang_HOD_4_0006_ThirdEye.png
+HOD_4	Lower Face	Degen_Gang_HOD_4_0007_StarSticker.png
+HOD_4	Lower Face	Degen_Gang_HOD_4_0008_UnicornSticker.png
+HOD_4	Lower Face	Degen_Gang_HOD_4_0009_Tear.png
+HOD_4	Eyes	Degen_Gang_HOD_4_0010_Eyepatch.png
+HOD_4	Lower Face	Degen_Gang_HOD_4_0011_MedMask.png
+HOD_4	tattoo	Degen_Gang_HOD_4_0012_Tattoo.png
+HOD_4	Lower Face	Degen_Gang_HOD_4_0013_Stitches.png
+HOD_4	Lower Face	Degen_Gang_HOD_4_0014_Bubblegum-.png
+HOD_4	Lower Face	Degen_Gang_HOD_4_0015_Piercings.png
+HOD_4	Lower Face	Degen_Gang_HOD_4_0016_Bandaid.png
+HOD_4	Eyes	Degen_Gang_HOD_4_Anim_EYES
+HOD_4	Eyes	Degen_Gang_HOD_4_Anim_Eyes_SpiralGlasses
+HOD_4	Hat	Degen_Gang_HOD_4_Anim_HAT_PropellerHAT
+HOD_4	Eyes	Degen_Gang_HOD_4_EYES_1-.png
+HOD_4	Hand_1	Degen_Gang_HOD_4_HAND_1.png
+HOD_4	Hand_2	Degen_Gang_HOD_4_HAND_2.png
+HOD_4	Outfit	Degen_Gang_HOD_4_OUTFIT_1_Standard.png
+HOD_4	Outfit	Degen_Gang_HOD_4_OUTFIT_2_CASUAL.png
+HOD_4	Outfit	Degen_Gang_HOD_4_OUTFIT_3_FANCY.png
+HOD_4	Outfit	Degen_Gang_HOD_4_OUTFIT_4_BATTLE.png
+HOD_5	Hat	Degen_Gang_HOD_5_0001_CowboyHat.png
+HOD_5	Hat	Degen_Gang_HOD_5_0000_PartyHat.png
+HOD_5	Eyes	Degen_Gang_HOD_5_0002_HeartGlasses.png
+HOD_5	Hat	Degen_Gang_HOD_5_0003_Visor.png
+HOD_5	Eyes	Degen_Gang_HOD_5_0004_3Dglasses.png
+HOD_5	Lower Face	Degen_Gang_HOD_5_0005_Bandage.png
+HOD_5	Eyes	Degen_Gang_HOD_5_0006_ThirdEye.png
+HOD_5	Lower Face	Degen_Gang_HOD_5_0007_StarSticker.png
+HOD_5	Lower Face	Degen_Gang_HOD_5_0008_UnicornSticker.png
+HOD_5	Lower Face	Degen_Gang_HOD_5_0009_Tear.png
+HOD_5	Eyes	Degen_Gang_HOD_5_0010_Eyepatch.png
+HOD_5	Lower Face	Degen_Gang_HOD_5_0011_MedMask.png
+HOD_5	tattoo	Degen_Gang_HOD_5_0012_Tattoo.png
+HOD_5	Lower Face	Degen_Gang_HOD_5_0013_Stitches.png
+HOD_5	Lower Face	Degen_Gang_HOD_5_0014_Bubblegum-.png
+HOD_5	Lower Face	Degen_Gang_HOD_5_0015_Piercings.png
+HOD_5	Lower Face	Degen_Gang_HOD_5_0016_Bandaid.png
+HOD_5	Eyes	Degen_Gang_HOD_5_Anim_EYES
+HOD_5	Eyes	Degen_Gang_HOD_5_Anim_Eyes_SpiralGlasses
+HOD_5	Hat	Degen_Gang_HOD_5_Anim_HAT_PropellerHAT
+HOD_5	Eyes	Degen_Gang_HOD_5_EYES_1-.png
+HOD_5	Hand_1	Degen_Gang_HOD_5_HAND_1.png
+HOD_5	Hand_2	Degen_Gang_HOD_5_HAND_2.png
+HOD_5	Outfit	Degen_Gang_HOD_5_OUTFIT_1_Standard.png
+HOD_5	Outfit	Degen_Gang_HOD_5_OUTFIT_2_CASUAL.png
+HOD_5	Outfit	Degen_Gang_HOD_5_OUTFIT_3_FANCY.png
+HOD_5	Outfit	Degen_Gang_HOD_5_OUTFIT_4_BATTLE.png
+ROY_1	Eyes	Degen_Gang_ROY_1_0010_Eyepatch.png
+ROY_1	Hat	Degen_Gang_ROY_1_0000_CowboyHat.png
+ROY_1	Eyes	Degen_Gang_ROY_1_0001_HeartGlasses.png
+ROY_1	Hat	Degen_Gang_ROY_1_0002_Visor.png
+ROY_1	Eyes	Degen_Gang_ROY_1_0003_3Dglasses.png
+ROY_1	Hat	Degen_Gang_ROY_1_0004_PartyHat.png
+ROY_1	Lower Face	Degen_Gang_ROY_1_0005_Bandage.png
+ROY_1	Eyes	Degen_Gang_ROY_1_0006_ThirdEye.png
+ROY_1	Lower Face	Degen_Gang_ROY_1_0007_StarSticker.png
+ROY_1	Lower Face	Degen_Gang_ROY_1_0008_UnicornSticker.png
+ROY_1	Lower Face	Degen_Gang_ROY_1_0009_Tear.png
+ROY_1	Lower Face	Degen_Gang_ROY_1_0011_MedMask.png
+ROY_1	tattoo	Degen_Gang_ROY_1_0012_Tattoo.png
+ROY_1	Lower Face	Degen_Gang_ROY_1_0013_Stitches.png
+ROY_1	Lower Face	Degen_Gang_ROY_1_0014_Bubblegum-.png
+ROY_1	Lower Face	Degen_Gang_ROY_1_0015_Piercings.png
+ROY_1	Lower Face	Degen_Gang_ROY_1_0016_Bandaid.png
+ROY_1	Eyes	Degen_Gang_ROY_1_Anim_Eyes_SpiralGlasses
+ROY_1	Hand_2	Degen_Gang_ROY_1_Anim_HAND_2
+ROY_1	Hat	Degen_Gang_ROY_1_Anim_HAT_PropellerHAT
+ROY_1	Hand_1	Degen_Gang_ROY_1_HAND_1.png
+ROY_1	Hand_2	Degen_Gang_ROY_1_HAND_2.png
+ROY_1	Hat	Degen_Gang_ROY_1_HAT_1-.png
+ROY_1	Outfit	Degen_Gang_ROY_1_OUTFIT_1_Standard.png
+ROY_1	Outfit	Degen_Gang_ROY_1_OUTFIT_2_CASUAL.png
+ROY_1	Outfit	Degen_Gang_ROY_1_OUTFIT_3_FANCY.png
+ROY_1	Outfit	Degen_Gang_ROY_1_OUTFIT_4_BATTLE.png
+ROY_2	Eyes	Degen_Gang_ROY_2_0006_ThirdEye.png
+ROY_2	Hat	Degen_Gang_ROY_2_0000_PartyHat.png
+ROY_2	Hat	Degen_Gang_ROY_2_0001_CowboyHat.png
+ROY_2	Eyes	Degen_Gang_ROY_2_0002_HeartGlasses.png
+ROY_2	Hat	Degen_Gang_ROY_2_0003_Visor.png
+ROY_2	Eyes	Degen_Gang_ROY_2_0004_3Dglasses.png
+ROY_2	Lower Face	Degen_Gang_ROY_2_0005_Bandage.png
+ROY_2	Lower Face	Degen_Gang_ROY_2_0007_StarSticker.png
+ROY_2	Lower Face	Degen_Gang_ROY_2_0008_UnicornSticker.png
+ROY_2	Lower Face	Degen_Gang_ROY_2_0009_Tear.png
+ROY_2	Eyes	Degen_Gang_ROY_2_0010_Eyepatch.png
+ROY_2	Lower Face	Degen_Gang_ROY_2_0011_MedMask.png
+ROY_2	tattoo	Degen_Gang_ROY_2_0012_Tattoo.png
+ROY_2	Lower Face	Degen_Gang_ROY_2_0013_Stitches.png
+ROY_2	Lower Face	Degen_Gang_ROY_2_0014_Bubblegum-.png
+ROY_2	Lower Face	Degen_Gang_ROY_2_0015_Piercings.png
+ROY_2	Lower Face	Degen_Gang_ROY_2_0016_Bandaid.png
+ROY_2	Eyes	Degen_Gang_ROY_2_Anim_Eyes_SpiralGlasses
+ROY_2	Hand_2	Degen_Gang_ROY_2_Anim_HAND_2
+ROY_2	Hat	Degen_Gang_ROY_2_Anim_HAT_PropellerHAT
+ROY_2	Hand_1	Degen_Gang_ROY_2_HAND_1.png
+ROY_2	Hand_2	Degen_Gang_ROY_2_HAND_2.png
+ROY_2	Hat	Degen_Gang_ROY_2_HAT_1-.png
+ROY_2	Outfit	Degen_Gang_ROY_2_OUTFIT_1_Standard.png
+ROY_2	Outfit	Degen_Gang_ROY_2_OUTFIT_2_CASUAL.png
+ROY_2	Outfit	Degen_Gang_ROY_2_OUTFIT_3_FANCY.png
+ROY_2	Outfit	Degen_Gang_ROY_2_OUTFIT_4_BATTLE.png
+ROY_3	Eyes	Degen_Gang_ROY_3_0006_ThirdEye.png
+ROY_3	Hat	Degen_Gang_ROY_3_0000_PartyHat.png
+ROY_3	Hat	Degen_Gang_ROY_3_0001_CowboyHat.png
+ROY_3	Eyes	Degen_Gang_ROY_3_0002_3Dglasses.png
+ROY_3	Eyes	Degen_Gang_ROY_3_0003_HeartGlasses.png
+ROY_3	Hat	Degen_Gang_ROY_3_0004_Visor.png
+ROY_3	Lower Face	Degen_Gang_ROY_3_0005_Bandage.png
+ROY_3	Lower Face	Degen_Gang_ROY_3_0007_StarSticker.png
+ROY_3	Lower Face	Degen_Gang_ROY_3_0008_UnicornSticker.png
+ROY_3	Lower Face	Degen_Gang_ROY_3_0009_Tear.png
+ROY_3	Eyes	Degen_Gang_ROY_3_0010_Eyepatch.png
+ROY_3	Lower Face	Degen_Gang_ROY_3_0011_MedMask.png
+ROY_3	tattoo	Degen_Gang_ROY_3_0012_Tattoo.png
+ROY_3	Lower Face	Degen_Gang_ROY_3_0013_Stitches.png
+ROY_3	Lower Face	Degen_Gang_ROY_3_0014_Piercings.png
+ROY_3	Lower Face	Degen_Gang_ROY_3_0015_Bubblegum-.png
+ROY_3	Lower Face	Degen_Gang_ROY_3_0016_Bandaid.png
+ROY_3	Eyes	Degen_Gang_ROY_3_Anim_Eyes_SpiralGlasses
+ROY_3	Hat	Degen_Gang_ROY_3_Anim_HAT_PropellerHAT
+ROY_3	Hand_1	Degen_Gang_ROY_3_Anim_WEAPON_1
+ROY_3	Hand_2	Degen_Gang_ROY_3_Anim_WEAPON_2
+ROY_3	Hand_1	Degen_Gang_ROY_3_HAND_1.png
+ROY_3	Hand_2	Degen_Gang_ROY_3_HAND_2.png
+ROY_3	Hat	Degen_Gang_ROY_3_HAT_1-.png
+ROY_3	Outfit	Degen_Gang_ROY_3_OUTFIT_1_Standard.png
+ROY_3	Outfit	Degen_Gang_ROY_3_OUTFIT_2_CASUAL.png
+ROY_3	Outfit	Degen_Gang_ROY_3_OUTFIT_3_FANCY.png
+ROY_3	Outfit	Degen_Gang_ROY_3_OUTFIT_4_BATTLE.png
+ROY_4	Lower Face	Degen_Gang_ROY_4_0008_UnicornSticker.png
+ROY_4	Hat	Degen_Gang_ROY_4_0000_PartyHat.png
+ROY_4	Hat	Degen_Gang_ROY_4_0001_CowboyHat.png
+ROY_4	Eyes	Degen_Gang_ROY_4_0002_HeartGlasses.png
+ROY_4	Hat	Degen_Gang_ROY_4_0003_Visor.png
+ROY_4	Eyes	Degen_Gang_ROY_4_0004_3Dglasses.png
+ROY_4	Lower Face	Degen_Gang_ROY_4_0005_Bandage.png
+ROY_4	Eyes	Degen_Gang_ROY_4_0006_ThirdEye.png
+ROY_4	Lower Face	Degen_Gang_ROY_4_0007_StarSticker.png
+ROY_4	Lower Face	Degen_Gang_ROY_4_0009_Tear.png
+ROY_4	Eyes	Degen_Gang_ROY_4_0010_Eyepatch.png
+ROY_4	Lower Face	Degen_Gang_ROY_4_0011_MedMask.png
+ROY_4	tattoo	Degen_Gang_ROY_4_0012_Tattoo.png
+ROY_4	Lower Face	Degen_Gang_ROY_4_0013_Stitches.png
+ROY_4	Lower Face	Degen_Gang_ROY_4_0014_Bubblegum-.png
+ROY_4	Lower Face	Degen_Gang_ROY_4_0015_Piercings.png
+ROY_4	Lower Face	Degen_Gang_ROY_4_0016_Bandaid.png
+ROY_4	Eyes	Degen_Gang_ROY_4_Anim_Eyes_SpiralGlasses
+ROY_4	Hand_2	Degen_Gang_ROY_4_Anim_HAND_2
+ROY_4	Hat	Degen_Gang_ROY_4_Anim_HAT_PropellerHAT
+ROY_4	Hand_1	Degen_Gang_ROY_4_HAND_1.png
+ROY_4	Hand_2	Degen_Gang_ROY_4_HAND_2.png
+ROY_4	Hat	Degen_Gang_ROY_4_HAT_1-.png
+ROY_4	Outfit	Degen_Gang_ROY_4_OUTFIT_1_Standard.png
+ROY_4	Outfit	Degen_Gang_ROY_4_OUTFIT_2_CASUAL.png
+ROY_4	Outfit	Degen_Gang_ROY_4_OUTFIT_3_FANCY.png
+ROY_4	Outfit	Degen_Gang_ROY_4_OUTFIT_4_BATTLE.png
+ROY_5	Hat	Degen_Gang_ROY_5_0001_CowboyHat.png
+ROY_5	Hat	Degen_Gang_ROY_5_0000_PartyHat.png
+ROY_5	Hat	Degen_Gang_ROY_5_0002_Visor.png
+ROY_5	Eyes	Degen_Gang_ROY_5_0003_3Dglasses.png
+ROY_5	Eyes	Degen_Gang_ROY_5_0004_HeartGlasses.png
+ROY_5	Lower Face	Degen_Gang_ROY_5_0005_Bandage.png
+ROY_5	Eyes	Degen_Gang_ROY_5_0006_ThirdEye.png
+ROY_5	Lower Face	Degen_Gang_ROY_5_0007_StarSticker.png
+ROY_5	Lower Face	Degen_Gang_ROY_5_0008_UnicornSticker.png
+ROY_5	Lower Face	Degen_Gang_ROY_5_0009_Tear.png
+ROY_5	Eyes	Degen_Gang_ROY_5_0010_Eyepatch.png
+ROY_5	Lower Face	Degen_Gang_ROY_5_0011_MedMask.png
+ROY_5	tattoo	Degen_Gang_ROY_5_0012_Tattoo.png
+ROY_5	Lower Face	Degen_Gang_ROY_5_0013_Stitches.png
+ROY_5	Lower Face	Degen_Gang_ROY_5_0014_Bubblegum-.png
+ROY_5	Lower Face	Degen_Gang_ROY_5_0015_Piercings.png
+ROY_5	Lower Face	Degen_Gang_ROY_5_0016_Bandaid.png
+ROY_5	Eyes	Degen_Gang_ROY_5_Anim_Eyes_SpiralGlasses
+ROY_5	Hand_2	Degen_Gang_ROY_5_Anim_HAND_2
+ROY_5	Hat	Degen_Gang_ROY_5_Anim_HAT_PropellerHAT
+ROY_5	Hand_1	Degen_Gang_ROY_5_HAND_1.png
+ROY_5	Hand_2	Degen_Gang_ROY_5_HAND_2.png
+ROY_5	Hat	Degen_Gang_ROY_5_HAT_1-.png
+ROY_5	Outfit	Degen_Gang_ROY_5_OUTFIT_1_Standard.png
+ROY_5	Outfit	Degen_Gang_ROY_5_OUTFIT_2_CASUAL.png
+ROY_5	Outfit	Degen_Gang_ROY_5_OUTFIT_3_FANCY.png
+ROY_5	Outfit	Degen_Gang_ROY_5_OUTFIT_4_BATTLE.png
+WHA_1	Hat	Degen_Gang_WHA_1_0001_CowboyHat.png
+WHA_1	Hat	Degen_Gang_WHA_1_0000_PartyHat.png
+WHA_1	Eyes	Degen_Gang_WHA_1_0002_HeartGlasses.png
+WHA_1	Eyes	Degen_Gang_WHA_1_0003_3Dglasses.png
+WHA_1	Hat	Degen_Gang_WHA_1_0004_Visor.png
+WHA_1	Lower Face	Degen_Gang_WHA_1_0005_Bandage.png
+WHA_1	Eyes	Degen_Gang_WHA_1_0006_ThirdEye.png
+WHA_1	Lower Face	Degen_Gang_WHA_1_0007_StarSticker.png
+WHA_1	Lower Face	Degen_Gang_WHA_1_0008_UnicornSticker.png
+WHA_1	Lower Face	Degen_Gang_WHA_1_0009_Tear.png
+WHA_1	Eyes	Degen_Gang_WHA_1_0010_Eyepatch.png
+WHA_1	Lower Face	Degen_Gang_WHA_1_0011_MedMask.png
+WHA_1	tattoo	Degen_Gang_WHA_1_0012_Tattoo.png
+WHA_1	Lower Face	Degen_Gang_WHA_1_0013_Stitches.png
+WHA_1	Lower Face	Degen_Gang_WHA_1_0014_Piercings.png
+WHA_1	Lower Face	Degen_Gang_WHA_1_0015_Bubblegum-.png
+WHA_1	Lower Face	Degen_Gang_WHA_1_0016_Bandaid.png
+WHA_1	Eyes	Degen_Gang_WHA_1_Anim_Eyes_SpiralGlasses
+WHA_1	Hat	Degen_Gang_WHA_1_Anim_HAT_PropellerHAT
+WHA_1	Hand_1	Degen_Gang_WHA_1_Anim_WEAPON_1
+WHA_1	Hand_1	Degen_Gang_WHA_1_HAND_1.png
+WHA_1	Hand_2	Degen_Gang_WHA_1_HAND_2.png
+WHA_1	Outfit	Degen_Gang_WHA_1_OUTFIT_1_Standard.png
+WHA_1	Outfit	Degen_Gang_WHA_1_OUTFIT_2_CASUAL.png
+WHA_1	Outfit	Degen_Gang_WHA_1_OUTFIT_3_FANCY.png
+WHA_1	Outfit	Degen_Gang_WHA_1_OUTFIT_4_BATTLE.png
+WHA_2	Hat	Degen_Gang_WHA_2_0004_Visor.png
+WHA_2	Hat	Degen_Gang_WHA_2_0000_PartyHat.png
+WHA_2	Hat	Degen_Gang_WHA_2_0001_CowboyHat.png
+WHA_2	Eyes	Degen_Gang_WHA_2_0002_HeartGlasses.png
+WHA_2	Eyes	Degen_Gang_WHA_2_0003_3Dglasses.png
+WHA_2	Lower Face	Degen_Gang_WHA_2_0005_Bandage.png
+WHA_2	Eyes	Degen_Gang_WHA_2_0006_ThirdEye.png
+WHA_2	Lower Face	Degen_Gang_WHA_2_0007_StarSticker.png
+WHA_2	Lower Face	Degen_Gang_WHA_2_0008_UnicornSticker.png
+WHA_2	Lower Face	Degen_Gang_WHA_2_0009_Tear.png
+WHA_2	Eyes	Degen_Gang_WHA_2_0010_Eyepatch.png
+WHA_2	Lower Face	Degen_Gang_WHA_2_0011_MedMask.png
+WHA_2	tattoo	Degen_Gang_WHA_2_0012_Tattoo.png
+WHA_2	Lower Face	Degen_Gang_WHA_2_0013_Stitches.png
+WHA_2	Lower Face	Degen_Gang_WHA_2_0014_Bubblegum-.png
+WHA_2	Lower Face	Degen_Gang_WHA_2_0015_Piercings.png
+WHA_2	Lower Face	Degen_Gang_WHA_2_0016_Bandaid.png
+WHA_2	Eyes	Degen_Gang_WHA_2_Anim_Eyes_SpiralGlasses
+WHA_2	Hat	Degen_Gang_WHA_2_Anim_HAT_PropellerHAT
+WHA_2	Hand_1	Degen_Gang_WHA_2_Anim_WEAPON_1
+WHA_2	Hand_1	Degen_Gang_WHA_2_HAND_1.png
+WHA_2	Hand_2	Degen_Gang_WHA_2_HAND_2.png
+WHA_2	Outfit	Degen_Gang_WHA_2_OUTFIT_1_Standard.png
+WHA_2	Outfit	Degen_Gang_WHA_2_OUTFIT_2_CASUAL.png
+WHA_2	Outfit	Degen_Gang_WHA_2_OUTFIT_3_FANCY.png
+WHA_2	Outfit	Degen_Gang_WHA_2_OUTFIT_4_BATTLE.png
+WHA_3	Eyes	Degen_Gang_WHA_3_0003_3Dglasses.png
+WHA_3	Hat	Degen_Gang_WHA_3_0000_PartyHat.png
+WHA_3	Hat	Degen_Gang_WHA_3_0001_CowboyHat.png
+WHA_3	Eyes	Degen_Gang_WHA_3_0002_HeartGlasses.png
+WHA_3	Hat	Degen_Gang_WHA_3_0004_Visor.png
+WHA_3	Lower Face	Degen_Gang_WHA_3_0005_Bandage.png
+WHA_3	Eyes	Degen_Gang_WHA_3_0006_ThirdEye.png
+WHA_3	Lower Face	Degen_Gang_WHA_3_0007_StarSticker.png
+WHA_3	Lower Face	Degen_Gang_WHA_3_0008_UnicornSticker.png
+WHA_3	Lower Face	Degen_Gang_WHA_3_0009_Tear.png
+WHA_3	Eyes	Degen_Gang_WHA_3_0010_Eyepatch.png
+WHA_3	Lower Face	Degen_Gang_WHA_3_0011_MedMask.png
+WHA_3	tattoo	Degen_Gang_WHA_3_0012_Tattoo.png
+WHA_3	Lower Face	Degen_Gang_WHA_3_0013_Stitches.png
+WHA_3	Lower Face	Degen_Gang_WHA_3_0014_Bubblegum-.png
+WHA_3	Lower Face	Degen_Gang_WHA_3_0015_Piercings.png
+WHA_3	Lower Face	Degen_Gang_WHA_3_0016_Bandaid.png
+WHA_3	Eyes	Degen_Gang_WHA_3_Anim_Eyes_SpiralGlasses
+WHA_3	Hat	Degen_Gang_WHA_3_Anim_HAT_PropellerHAT
+WHA_3	Hand_1	Degen_Gang_WHA_3_Anim_WEAPON_1
+WHA_3	Hand_1	Degen_Gang_WHA_3_HAND_1.png
+WHA_3	Hand_2	Degen_Gang_WHA_3_HAND_2.png
+WHA_3	Outfit	Degen_Gang_WHA_3_OUTFIT_1_Standard.png
+WHA_3	Outfit	Degen_Gang_WHA_3_OUTFIT_2_CASUAL.png
+WHA_3	Outfit	Degen_Gang_WHA_3_OUTFIT_3_FANCY.png
+WHA_3	Outfit	Degen_Gang_WHA_3_OUTFIT_4_BATTLE.png
+WHA_4	Eyes	Degen_Gang_WHA_4_0002_HeartGlasses.png
+WHA_4	Hat	Degen_Gang_WHA_4_0000_PartyHat.png
+WHA_4	Hat	Degen_Gang_WHA_4_0001_CowboyHat.png
+WHA_4	Eyes	Degen_Gang_WHA_4_0003_3Dglasses.png
+WHA_4	Hat	Degen_Gang_WHA_4_0004_Visor.png
+WHA_4	Lower Face	Degen_Gang_WHA_4_0005_Bandage.png
+WHA_4	Eyes	Degen_Gang_WHA_4_0006_ThirdEye.png
+WHA_4	Lower Face	Degen_Gang_WHA_4_0007_StarSticker.png
+WHA_4	Lower Face	Degen_Gang_WHA_4_0008_UnicornSticker.png
+WHA_4	Lower Face	Degen_Gang_WHA_4_0009_Tear.png
+WHA_4	Eyes	Degen_Gang_WHA_4_0010_Eyepatch.png
+WHA_4	Lower Face	Degen_Gang_WHA_4_0011_MedMask.png
+WHA_4	tattoo	Degen_Gang_WHA_4_0012_Tattoo.png
+WHA_4	Lower Face	Degen_Gang_WHA_4_0013_Stitches.png
+WHA_4	Lower Face	Degen_Gang_WHA_4_0014_Bubblegum-.png
+WHA_4	Lower Face	Degen_Gang_WHA_4_0015_Piercings.png
+WHA_4	Lower Face	Degen_Gang_WHA_4_0016_Bandaid.png
+WHA_4	Eyes	Degen_Gang_WHA_4_Anim_Eyes_SpiralGlasses
+WHA_4	Hat	Degen_Gang_WHA_4_Anim_HAT_PropellerHAT
+WHA_4	Hand_1	Degen_Gang_WHA_4_Anim_WEAPON_1
+WHA_4	Hand_1	Degen_Gang_WHA_4_HAND_1.png
+WHA_4	Hand_2	Degen_Gang_WHA_4_HAND_2.png
+WHA_4	Outfit	Degen_Gang_WHA_4_OUTFIT_1_Standard.png
+WHA_4	Outfit	Degen_Gang_WHA_4_OUTFIT_2_CASUAL.png
+WHA_4	Outfit	Degen_Gang_WHA_4_OUTFIT_3_FANCY.png
+WHA_4	Outfit	Degen_Gang_WHA_4_OUTFIT_4_BATTLE.png
+WHA_5	Hat	Degen_Gang_WHA_5_0004_Visor.png
+WHA_5	Hat	Degen_Gang_WHA_5_0000_PartyHat.png
+WHA_5	Hat	Degen_Gang_WHA_5_0001_CowboyHat.png
+WHA_5	Eyes	Degen_Gang_WHA_5_0002_HeartGlasses.png
+WHA_5	Eyes	Degen_Gang_WHA_5_0003_3Dglasses.png
+WHA_5	Lower Face	Degen_Gang_WHA_5_0005_Bandage.png
+WHA_5	Eyes	Degen_Gang_WHA_5_0006_ThirdEye.png
+WHA_5	Lower Face	Degen_Gang_WHA_5_0007_StarSticker.png
+WHA_5	Lower Face	Degen_Gang_WHA_5_0008_UnicornSticker.png
+WHA_5	Lower Face	Degen_Gang_WHA_5_0009_Tear.png
+WHA_5	Eyes	Degen_Gang_WHA_5_0010_Eyepatch.png
+WHA_5	Lower Face	Degen_Gang_WHA_5_0011_MedMask.png
+WHA_5	tattoo	Degen_Gang_WHA_5_0012_Tattoo.png
+WHA_5	Lower Face	Degen_Gang_WHA_5_0013_Stitches.png
+WHA_5	Lower Face	Degen_Gang_WHA_5_0014_Bubblegum-.png
+WHA_5	Lower Face	Degen_Gang_WHA_5_0015_Piercings.png
+WHA_5	Lower Face	Degen_Gang_WHA_5_0016_Bandaid.png
+WHA_5	Eyes	Degen_Gang_WHA_5_Anim_Eyes_SpiralGlasses
+WHA_5	Hat	Degen_Gang_WHA_5_Anim_HAT_PropellerHAT
+WHA_5	Hand_1	Degen_Gang_WHA_5_Anim_WEAPON_1
+WHA_5	Hand_1	Degen_Gang_WHA_5_HAND_1.png
+WHA_5	Hand_2	Degen_Gang_WHA_5_HAND_2.png
+WHA_5	Outfit	Degen_Gang_WHA_5_OUTFIT_1_Standard.png
+WHA_5	Outfit	Degen_Gang_WHA_5_OUTFIT_2_CASUAL.png
+WHA_5	Outfit	Degen_Gang_WHA_5_OUTFIT_3_FANCY.png
+WHA_5	Outfit	Degen_Gang_WHA_5_OUTFIT_4_BATTLE.png
+ZOM_1	Hat	Degen_Gang_ZOM_1_0000_PartyHat.png
+ZOM_1	Hat	Degen_Gang_ZOM_1_0001_CowboyHat.png
+ZOM_1	Eyes	Degen_Gang_ZOM_1_0002_HeartGlasses.png
+ZOM_1	Hat	Degen_Gang_ZOM_1_0003_Visor.png
+ZOM_1	Lower Face	Degen_Gang_ZOM_1_0004_Bandage.png
+ZOM_1	Eyes	Degen_Gang_ZOM_1_0005_3Dglasses.png
+ZOM_1	Eyes	Degen_Gang_ZOM_1_0006_ThirdEye.png
+ZOM_1	Lower Face	Degen_Gang_ZOM_1_0007_StarSticker.png
+ZOM_1	Lower Face	Degen_Gang_ZOM_1_0008_UnicornSticker.png
+ZOM_1	Lower Face	Degen_Gang_ZOM_1_0009_Tear.png
+ZOM_1	Eyes	Degen_Gang_ZOM_1_0010_Eyepatch.png
+ZOM_1	Lower Face	Degen_Gang_ZOM_1_0011_MedMask.png
+ZOM_1	tattoo	Degen_Gang_ZOM_1_0012_Tattoo.png
+ZOM_1	Lower Face	Degen_Gang_ZOM_1_0013_Stitches.png
+ZOM_1	Lower Face	Degen_Gang_ZOM_1_0014_Bubblegum-.png
+ZOM_1	Lower Face	Degen_Gang_ZOM_1_0015_Piercings.png
+ZOM_1	Lower Face	Degen_Gang_ZOM_1_0016_Bandaid.png
+ZOM_1	Lower Face	Degen_Gang_ZOM_1_Accessory_Cigarette_1.png
+ZOM_1	Hat	Degen_Gang_ZOM_1_Accessory_HEADPHONES_1.png
+ZOM_1	Eyes	Degen_Gang_ZOM_1_Anim_Eyes_SpiralGlasses
+ZOM_1	Effect	Degen_Gang_ZOM_1_Anim_Flies
+ZOM_1	Hat	Degen_Gang_ZOM_1_Anim_HAT_PropellerHAT
+ZOM_1	Eyes	Degen_Gang_ZOM_1_EYES_1-.png
+ZOM_1	Hand_1	Degen_Gang_ZOM_1_HAND_1.png
+ZOM_1	Hand_2	Degen_Gang_ZOM_1_HAND_2.png
+ZOM_1	Hat	Degen_Gang_ZOM_1_HAT_1-.png
+ZOM_1	Outfit	Degen_Gang_ZOM_1_OUTFIT_1_Standard.png
+ZOM_1	Outfit	Degen_Gang_ZOM_1_OUTFIT_2_CASUAL.png
+ZOM_1	Outfit	Degen_Gang_ZOM_1_OUTFIT_3_FANCY.png
+ZOM_1	Outfit	Degen_Gang_ZOM_1_OUTFIT_4_BATTLE.png
+ZOM_2	Hat	Degen_Gang_ZOM_2_0001_CowboyHat.png
+ZOM_2	Hat	Degen_Gang_ZOM_2_0000_PartyHat.png
+ZOM_2	Eyes	Degen_Gang_ZOM_2_0002_HeartGlasses.png
+ZOM_2	Hat	Degen_Gang_ZOM_2_0003_Visor.png
+ZOM_2	Lower Face	Degen_Gang_ZOM_2_0004_Bandage.png
+ZOM_2	Eyes	Degen_Gang_ZOM_2_0005_ThirdEye.png
+ZOM_2	Eyes	Degen_Gang_ZOM_2_0006_3Dglasses.png
+ZOM_2	Lower Face	Degen_Gang_ZOM_2_0007_StarSticker.png
+ZOM_2	Lower Face	Degen_Gang_ZOM_2_0008_UnicornSticker.png
+ZOM_2	Lower Face	Degen_Gang_ZOM_2_0009_Tear.png
+ZOM_2	Eyes	Degen_Gang_ZOM_2_0010_Eyepatch.png
+ZOM_2	tattoo	Degen_Gang_ZOM_2_0011_Tattoo.png
+ZOM_2	Lower Face	Degen_Gang_ZOM_2_0012_Bubblegum-.png
+ZOM_2	Lower Face	Degen_Gang_ZOM_2_0013_Piercings.png
+ZOM_2	Lower Face	Degen_Gang_ZOM_2_0014_Bandaid.png
+ZOM_2	Lower Face	Degen_Gang_ZOM_2_Accessory_Cigarette_1.png
+ZOM_2	Hat	Degen_Gang_ZOM_2_Accessory_HEADPHONES_1.png
+ZOM_2	Effect	Degen_Gang_ZOM_2_Accessory_Webs_1.png
+ZOM_2	Eyes	Degen_Gang_ZOM_2_Anim_Eyes_SpiralGlasses
+ZOM_2	Effect	Degen_Gang_ZOM_2_Anim_Flies
+ZOM_2	Hat	Degen_Gang_ZOM_2_Anim_HAT_PropellerHAT
+ZOM_2	Eyes	Degen_Gang_ZOM_2_EYES_1-.png
+ZOM_2	Hand_1	Degen_Gang_ZOM_2_HAND_1.png
+ZOM_2	Hand_2	Degen_Gang_ZOM_2_HAND_2.png
+ZOM_2	Hat	Degen_Gang_ZOM_2_HAT_1-.png
+ZOM_2	Outfit	Degen_Gang_ZOM_2_OUTFIT_1_Standard.png
+ZOM_2	Outfit	Degen_Gang_ZOM_2_OUTFIT_2_CASUAL.png
+ZOM_2	Outfit	Degen_Gang_ZOM_2_OUTFIT_3_FANCY.png
+ZOM_2	Outfit	Degen_Gang_ZOM_2_OUTFIT_4_BATTLE.png
+ZOM_3	Eyes	Degen_Gang_ZOM_3_0002_HeartGlasses.png
+ZOM_3	Hat	Degen_Gang_ZOM_3_0000_PartyHat.png
+ZOM_3	Hat	Degen_Gang_ZOM_3_0001_CowboyHat.png
+ZOM_3	Hat	Degen_Gang_ZOM_3_0003_Visor.png
+ZOM_3	Lower Face	Degen_Gang_ZOM_3_0004_Bandage.png
+ZOM_3	Eyes	Degen_Gang_ZOM_3_0005_3Dglasses.png
+ZOM_3	Eyes	Degen_Gang_ZOM_3_0006_ThirdEye.png
+ZOM_3	Lower Face	Degen_Gang_ZOM_3_0007_StarSticker.png
+ZOM_3	Lower Face	Degen_Gang_ZOM_3_0008_UnicornSticker.png
+ZOM_3	Lower Face	Degen_Gang_ZOM_3_0009_Tear.png
+ZOM_3	Eyes	Degen_Gang_ZOM_3_0010_Eyepatch.png
+ZOM_3	Lower Face	Degen_Gang_ZOM_3_0011_MedMask.png
+ZOM_3	tattoo	Degen_Gang_ZOM_3_0012_Tattoo.png
+ZOM_3	Lower Face	Degen_Gang_ZOM_3_0013_Stitches.png
+ZOM_3	Lower Face	Degen_Gang_ZOM_3_0014_Bubblegum-.png
+ZOM_3	Lower Face	Degen_Gang_ZOM_3_0015_Piercings.png
+ZOM_3	Lower Face	Degen_Gang_ZOM_3_0016_Bandaid.png
+ZOM_3	Lower Face	Degen_Gang_ZOM_3_Accessory_Cigarette_1.png
+ZOM_3	Hat	Degen_Gang_ZOM_3_Accessory_HEADPHONES_1.png
+ZOM_3	Eyes	Degen_Gang_ZOM_3_Anim_Eyes_SpiralGlasses
+ZOM_3	Effect	Degen_Gang_ZOM_3_Anim_Flies
+ZOM_3	Hat	Degen_Gang_ZOM_3_Anim_HAT_PropellerHAT
+ZOM_3	Eyes	Degen_Gang_ZOM_3_EYES_1-.png
+ZOM_3	Hand_1	Degen_Gang_ZOM_3_HAND_1.png
+ZOM_3	Hand_2	Degen_Gang_ZOM_3_HAND_2.png
+ZOM_3	Hat	Degen_Gang_ZOM_3_Hat.png
+ZOM_3	Outfit	Degen_Gang_ZOM_3_OUTFIT_1_Standard.png
+ZOM_3	Outfit	Degen_Gang_ZOM_3_OUTFIT_2_CASUAL.png
+ZOM_3	Outfit	Degen_Gang_ZOM_3_OUTFIT_3_FANCY.png
+ZOM_3	Outfit	Degen_Gang_ZOM_3_OUTFIT_4_BATTLE.png
+ZOM_4	Lower Face	Degen_Gang_ZOM_4_0007_Bubblegum-.png
+ZOM_4	Hat	Degen_Gang_ZOM_4_0000_PartyHat.png
+ZOM_4	Hat	Degen_Gang_ZOM_4_0001_CowboyHat.png
+ZOM_4	Hat	Degen_Gang_ZOM_4_0002_Visor.png
+ZOM_4	Eyes	Degen_Gang_ZOM_4_0003_3Dglasses.png
+ZOM_4	Eyes	Degen_Gang_ZOM_4_0004_HeartGlasses.png
+ZOM_4	Lower Face	Degen_Gang_ZOM_4_0005_Bandage.png
+ZOM_4	Eyes	Degen_Gang_ZOM_4_0006_ThirdEye.png
+ZOM_4	Lower Face	Degen_Gang_ZOM_4_0008_Bandaid.png
+ZOM_4	Lower Face	Degen_Gang_ZOM_4_0009_StarSticker.png
+ZOM_4	Lower Face	Degen_Gang_ZOM_4_0010_UnicornSticker.png
+ZOM_4	Lower Face	Degen_Gang_ZOM_4_0011_Tear.png
+ZOM_4	Eyes	Degen_Gang_ZOM_4_0012_Eyepatch.png
+ZOM_4	tattoo	Degen_Gang_ZOM_4_0013_Tattoo.png
+ZOM_4	Lower Face	Degen_Gang_ZOM_4_0014_Stitches.png
+ZOM_4	Lower Face	Degen_Gang_ZOM_4_0015_Piercings.png
+ZOM_4	Lower Face	Degen_Gang_ZOM_4_Accessory_Cigarette_1.png
+ZOM_4	Hat	Degen_Gang_ZOM_4_Accessory_HEADPHONES_1.png
+ZOM_4	Eyes	Degen_Gang_ZOM_4_Anim_Eyes_SpiralGlasses
+ZOM_4	Effect	Degen_Gang_ZOM_4_Anim_Flies
+ZOM_4	Hat	Degen_Gang_ZOM_4_Anim_HAT_PropellerHAT
+ZOM_4	Eyes	Degen_Gang_ZOM_4_EYES_1-.png
+ZOM_4	Hand_1	Degen_Gang_ZOM_4_HAND_1.png
+ZOM_4	Hand_2	Degen_Gang_ZOM_4_HAND_2.png
+ZOM_4	Hat	Degen_Gang_ZOM_4_HAT_1-.png
+ZOM_4	Outfit	Degen_Gang_ZOM_4_OUTFIT_1_Standard.png
+ZOM_4	Outfit	Degen_Gang_ZOM_4_OUTFIT_2_CASUAL.png
+ZOM_4	Outfit	Degen_Gang_ZOM_4_OUTFIT_3_FANCY.png
+ZOM_4	Outfit	Degen_Gang_ZOM_4_OUTFIT_4_BATTLE.png
+ZOM_5	Lower Face	Degen_Gang_ZOM_5_0007_StarSticker.png
+ZOM_5	Hat	Degen_Gang_ZOM_5_0000_PartyHat.png
+ZOM_5	Hat	Degen_Gang_ZOM_5_0001_CowboyHat.png
+ZOM_5	Eyes	Degen_Gang_ZOM_5_0002_HeartGlasses.png
+ZOM_5	Hat	Degen_Gang_ZOM_5_0003_Visor.png
+ZOM_5	Eyes	Degen_Gang_ZOM_5_0004_3Dglasses.png
+ZOM_5	Lower Face	Degen_Gang_ZOM_5_0005_Bandage.png
+ZOM_5	Eyes	Degen_Gang_ZOM_5_0006_ThirdEye.png
+ZOM_5	Lower Face	Degen_Gang_ZOM_5_0008_UnicornSticker.png
+ZOM_5	Lower Face	Degen_Gang_ZOM_5_0009_Tear.png
+ZOM_5	Eyes	Degen_Gang_ZOM_5_0010_Eyepatch.png
+ZOM_5	Lower Face	Degen_Gang_ZOM_5_0011_MedMask.png
+ZOM_5	tattoo	Degen_Gang_ZOM_5_0012_Tattoo.png
+ZOM_5	Lower Face	Degen_Gang_ZOM_5_0013_Stitches.png
+ZOM_5	Lower Face	Degen_Gang_ZOM_5_0014_Bubblegum-.png
+ZOM_5	Lower Face	Degen_Gang_ZOM_5_0015_Piercings.png
+ZOM_5	Lower Face	Degen_Gang_ZOM_5_0016_Bandaid.png
+ZOM_5	Lower Face	Degen_Gang_ZOM_5_Accessory_Cigarette_1.png
+ZOM_5	Hat	Degen_Gang_ZOM_5_Accessory_HEADPHONES_1.png
+ZOM_5	Eyes	Degen_Gang_ZOM_5_Anim_Eyes_SpiralGlasses
+ZOM_5	Effect	Degen_Gang_ZOM_5_Anim_Flies
+ZOM_5	Hat	Degen_Gang_ZOM_5_Anim_HAT_PropellerHAT
+ZOM_5	Eyes	Degen_Gang_ZOM_5_EYES_1-.png
+ZOM_5	Hand_1	Degen_Gang_ZOM_5_HAND_1.png
+ZOM_5	Hand_2	Degen_Gang_ZOM_5_HAND_2.png
+ZOM_5	Hat	Degen_Gang_ZOM_5_HAT_1-.png
+ZOM_5	Outfit	Degen_Gang_ZOM_5_OUTFIT_1_Standard.png
+ZOM_5	Outfit	Degen_Gang_ZOM_5_OUTFIT_2_CASUAL.png
+ZOM_5	Outfit	Degen_Gang_ZOM_5_OUTFIT_3_FANCY.png
+ZOM_5	Outfit	Degen_Gang_ZOM_5_OUTFIT_4_BATTLE.png
