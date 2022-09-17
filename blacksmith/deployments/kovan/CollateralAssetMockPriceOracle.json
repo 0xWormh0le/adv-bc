@@ -1,0 +1,131 @@
+{
+  "address": "0xF4984fFeca6Ee05A4628F1E268a5D0d5254D5A10",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "_price",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "address",
+          "name": "asset",
+          "type": "address"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "newPrice",
+          "type": "uint256"
+        }
+      ],
+      "name": "PriceUpdated",
+      "type": "event"
+    },
+    {
+      "inputs": [],
+      "name": "getPriceInUSD",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "_newPrice",
+          "type": "uint256"
+        }
+      ],
+      "name": "setPrice",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "viewPriceInUSD",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "transactionHash": "0x7324135ede4476f07cc4b382784bc29cb93f27e911258c798bb302ca266b3adf",
+  "receipt": {
+    "to": null,
+    "from": "0xf6DF5d5Ec46CcD10AE514384C292e3ca6E31dFa8",
+    "contractAddress": "0xF4984fFeca6Ee05A4628F1E268a5D0d5254D5A10",
+    "transactionIndex": 1,
+    "gasUsed": "121022",
+    "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "blockHash": "0x554a5943e699bed876891434917d7b0d62deea0dc93981ec43c9b65497c6541f",
+    "transactionHash": "0x7324135ede4476f07cc4b382784bc29cb93f27e911258c798bb302ca266b3adf",
+    "logs": [],
+    "blockNumber": 26541443,
+    "cumulativeGasUsed": "258605",
+    "status": 1,
+    "byzantium": true
+  },
+  "args": [
+    "100000000"
+  ],
+  "solcInputHash": "93ebaa441e3462400e4372fabffe5451",
+  "metadata": "{\"compiler\":{\"version\":\"0.8.1+commit.df193b15\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_price\",\"type\":\"uint256\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"asset\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"newPrice\",\"type\":\"uint256\"}],\"name\":\"PriceUpdated\",\"type\":\"event\"},{\"inputs\":[],\"name\":\"getPriceInUSD\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_newPrice\",\"type\":\"uint256\"}],\"name\":\"setPrice\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"viewPriceInUSD\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"events\":{\"PriceUpdated(address,uint256)\":{\"notice\":\"Price update event\"}},\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"contracts/test/MockPriceOracle.sol\":\"MockPriceOracle\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\",\"useLiteralContent\":true},\"optimizer\":{\"enabled\":true,\"runs\":500},\"remappings\":[]},\"sources\":{\"contracts/interfaces/IOracle.sol\":{\"content\":\"// SPDX-License-Identifier: MIT\\npragma solidity 0.8.1;\\n\\ninterface IOracle {\\n    /// @notice Price update event\\n    /// @param asset the asset\\n    /// @param newPrice price of the asset\\n    event PriceUpdated(address asset, uint256 newPrice);\\n\\n    function getPriceInUSD() external returns (uint256);\\n\\n    function viewPriceInUSD() external view returns (uint256);\\n}\\n\",\"keccak256\":\"0xfcdda6b34ad69e268e203fcb5e32035bcc2607838bc9f051a2a6730f4093acd7\",\"license\":\"MIT\"},\"contracts/test/MockPriceOracle.sol\":{\"content\":\"// SPDX-License-Identifier: MIT\\npragma solidity 0.8.1;\\nimport \\\"../interfaces/IOracle.sol\\\";\\n\\ncontract MockPriceOracle is IOracle {\\n    uint256 lastestAnswer;\\n\\n    constructor(uint256 _price) {\\n        lastestAnswer = _price;\\n    }\\n\\n    function setPrice(uint256 _newPrice) external {\\n        lastestAnswer = _newPrice;\\n    }\\n\\n    function getPriceInUSD() external view override returns (uint256) {\\n        return lastestAnswer;\\n    }\\n\\n    function viewPriceInUSD() external view override returns (uint256) {\\n        return lastestAnswer;\\n    }\\n}\\n\",\"keccak256\":\"0x4a2a6a7d8daa55dec73c2da0f715fb31b3ac04b69d8666f7d197089a6e02460e\",\"license\":\"MIT\"}},\"version\":1}",
+  "bytecode": "0x608060405234801561001057600080fd5b5060405161012a38038061012a83398101604081905261002f91610037565b60005561004f565b600060208284031215610048578081fd5b5051919050565b60cd8061005d6000396000f3fe6080604052348015600f57600080fd5b5060043610603c5760003560e01c806391b7f5ed146041578063e1aa6036146052578063f55fa17f146052575b600080fd5b6050604c3660046077565b606c565b005b60586071565b60405160639190608e565b60405180910390f35b600055565b60005490565b6000602082840312156087578081fd5b5035919050565b9081526020019056fea264697066735822122036a9ab4c2e2fc180e5e4de38438addc34dba52891d90bc2072c1ac3f12d7cb0864736f6c63430008010033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b5060043610603c5760003560e01c806391b7f5ed146041578063e1aa6036146052578063f55fa17f146052575b600080fd5b6050604c3660046077565b606c565b005b60586071565b60405160639190608e565b60405180910390f35b600055565b60005490565b6000602082840312156087578081fd5b5035919050565b9081526020019056fea264697066735822122036a9ab4c2e2fc180e5e4de38438addc34dba52891d90bc2072c1ac3f12d7cb0864736f6c63430008010033",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "events": {
+      "PriceUpdated(address,uint256)": {
+        "notice": "Price update event"
+      }
+    },
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  },
+  "storageLayout": {
+    "storage": [
+      {
+        "astId": 11641,
+        "contract": "contracts/test/MockPriceOracle.sol:MockPriceOracle",
+        "label": "lastestAnswer",
+        "offset": 0,
+        "slot": "0",
+        "type": "t_uint256"
+      }
+    ],
+    "types": {
+      "t_uint256": {
+        "encoding": "inplace",
+        "label": "uint256",
+        "numberOfBytes": "32"
+      }
+    }
+  }
+}
